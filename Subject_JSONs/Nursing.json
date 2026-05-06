@@ -1,0 +1,344 @@
+[
+    {
+        "University":"King's College London",
+        "Location":"United Kingdom",
+        "Total_Score":101.0,
+        "Meta_Rank":1
+    },
+    {
+        "University":"University of Pennsylvania",
+        "Location":"United States of America",
+        "Total_Score":100.0,
+        "Meta_Rank":2
+    },
+    {
+        "University":"Sweden Karolinska Institute",
+        "Location":"Check Site",
+        "Total_Score":100.0,
+        "Meta_Rank":2
+    },
+    {
+        "University":"Johns Hopkins University",
+        "Location":"United States of America",
+        "Total_Score":98.0,
+        "Meta_Rank":4
+    },
+    {
+        "University":"University of Toronto",
+        "Location":"Canada",
+        "Total_Score":97.0,
+        "Meta_Rank":5
+    },
+    {
+        "University":"Western Sydney University",
+        "Location":"Australia",
+        "Total_Score":97.0,
+        "Meta_Rank":5
+    },
+    {
+        "University":"Duke University",
+        "Location":"United States of America",
+        "Total_Score":96.0,
+        "Meta_Rank":7
+    },
+    {
+        "University":"The University of Manchester",
+        "Location":"United Kingdom",
+        "Total_Score":95.0,
+        "Meta_Rank":8
+    },
+    {
+        "University":"National University of Singapore (NUS)",
+        "Location":"Singapore",
+        "Total_Score":95.0,
+        "Meta_Rank":8
+    },
+    {
+        "University":"The Chinese University of Hong Kong (CUHK)",
+        "Location":"Hong Kong SAR, China",
+        "Total_Score":95.0,
+        "Meta_Rank":8
+    },
+    {
+        "University":"Columbia University",
+        "Location":"United States of America",
+        "Total_Score":93.0,
+        "Meta_Rank":11
+    },
+    {
+        "University":"Taiwan Chang Gung University",
+        "Location":"Taiwan",
+        "Total_Score":93.0,
+        "Meta_Rank":11
+    },
+    {
+        "University":"University of Alberta",
+        "Location":"Canada",
+        "Total_Score":92.0,
+        "Meta_Rank":13
+    },
+    {
+        "University":"Uppsala University",
+        "Location":"Sweden",
+        "Total_Score":91.0,
+        "Meta_Rank":14
+    },
+    {
+        "University":"Trinity College Dublin, The University of Dublin",
+        "Location":"Ireland",
+        "Total_Score":91.0,
+        "Meta_Rank":14
+    },
+    {
+        "University":"University of Technology Sydney",
+        "Location":"Australia",
+        "Total_Score":89.86,
+        "Meta_Rank":16
+    },
+    {
+        "University":"University of Washington",
+        "Location":"United States of America",
+        "Total_Score":89.0,
+        "Meta_Rank":17
+    },
+    {
+        "University":"University of Southampton",
+        "Location":"United Kingdom",
+        "Total_Score":88.0,
+        "Meta_Rank":18
+    },
+    {
+        "University":"University of Sydney",
+        "Location":"Australia",
+        "Total_Score":87.43,
+        "Meta_Rank":19
+    },
+    {
+        "University":"University of North Carolina at Chapel Hill",
+        "Location":"United States of America",
+        "Total_Score":87.0,
+        "Meta_Rank":20
+    },
+    {
+        "University":"Yale University",
+        "Location":"United States of America",
+        "Total_Score":86.0,
+        "Meta_Rank":21
+    },
+    {
+        "University":"Karolinska Institutet",
+        "Location":"Sweden",
+        "Total_Score":85.0,
+        "Meta_Rank":22
+    },
+    {
+        "University":"The Hong Kong Polytechnic University",
+        "Location":"Hong Kong SAR, China",
+        "Total_Score":83.0,
+        "Meta_Rank":23
+    },
+    {
+        "University":"Monash University",
+        "Location":"Australia",
+        "Total_Score":82.0,
+        "Meta_Rank":24
+    },
+    {
+        "University":"University of California, San Francisco",
+        "Location":"United States of America",
+        "Total_Score":81.14,
+        "Meta_Rank":25
+    },
+    {
+        "University":"Griffith University",
+        "Location":"Australia",
+        "Total_Score":80.14,
+        "Meta_Rank":26
+    },
+    {
+        "University":"University of Michigan-Ann Arbor",
+        "Location":"United States of America",
+        "Total_Score":80.0,
+        "Meta_Rank":27
+    },
+    {
+        "University":"University of British Columbia",
+        "Location":"Canada",
+        "Total_Score":79.0,
+        "Meta_Rank":28
+    },
+    {
+        "University":"New York University (NYU)",
+        "Location":"United States of America",
+        "Total_Score":79.0,
+        "Meta_Rank":28
+    },
+    {
+        "University":"McMaster University",
+        "Location":"Canada",
+        "Total_Score":77.0,
+        "Meta_Rank":30
+    },
+    {
+        "University":"Sultan Qaboos University",
+        "Location":"Oman",
+        "Total_Score":76.0,
+        "Meta_Rank":31
+    },
+    {
+        "University":"University College Cork",
+        "Location":"Ireland",
+        "Total_Score":76.0,
+        "Meta_Rank":31
+    },
+    {
+        "University":"University of Pittsburgh",
+        "Location":"United States of America",
+        "Total_Score":73.0,
+        "Meta_Rank":33
+    },
+    {
+        "University":"The University of Melbourne",
+        "Location":"Australia",
+        "Total_Score":72.0,
+        "Meta_Rank":34
+    },
+    {
+        "University":"The University of Hong Kong",
+        "Location":"Hong Kong SAR, China",
+        "Total_Score":71.0,
+        "Meta_Rank":35
+    },
+    {
+        "University":"University of Turku",
+        "Location":"Finland",
+        "Total_Score":71.0,
+        "Meta_Rank":35
+    },
+    {
+        "University":"Taipei Medical University (TMU)",
+        "Location":"Taiwan",
+        "Total_Score":68.0,
+        "Meta_Rank":37
+    },
+    {
+        "University":"Yonsei University",
+        "Location":"Republic of Korea",
+        "Total_Score":68.0,
+        "Meta_Rank":37
+    },
+    {
+        "University":"University of Jordan",
+        "Location":"Jordan",
+        "Total_Score":66.0,
+        "Meta_Rank":39
+    },
+    {
+        "University":"University of Wollongong",
+        "Location":"Australia",
+        "Total_Score":65.0,
+        "Meta_Rank":40
+    },
+    {
+        "University":"Sichuan University",
+        "Location":"China (Mainland)",
+        "Total_Score":64.0,
+        "Meta_Rank":41
+    },
+    {
+        "University":"Deakin University",
+        "Location":"Australia",
+        "Total_Score":63.0,
+        "Meta_Rank":42
+    },
+    {
+        "University":"The Ohio State University",
+        "Location":"United States of America",
+        "Total_Score":63.0,
+        "Meta_Rank":42
+    },
+    {
+        "University":"Pennsylvania State University",
+        "Location":"United States of America",
+        "Total_Score":61.0,
+        "Meta_Rank":44
+    },
+    {
+        "University":"University College Dublin",
+        "Location":"Ireland",
+        "Total_Score":60.0,
+        "Meta_Rank":45
+    },
+    {
+        "University":"KU Leuven",
+        "Location":"Belgium",
+        "Total_Score":59.0,
+        "Meta_Rank":46
+    },
+    {
+        "University":"La Trobe University",
+        "Location":"Australia",
+        "Total_Score":59.0,
+        "Meta_Rank":46
+    },
+    {
+        "University":"The University of Edinburgh",
+        "Location":"United Kingdom",
+        "Total_Score":57.0,
+        "Meta_Rank":48
+    },
+    {
+        "University":"Emory University",
+        "Location":"United States of America",
+        "Total_Score":56.0,
+        "Meta_Rank":49
+    },
+    {
+        "University":"University of California, Los Angeles (UCLA)",
+        "Location":"United States of America",
+        "Total_Score":56.0,
+        "Meta_Rank":49
+    },
+    {
+        "University":"Peking University",
+        "Location":"China (Mainland)",
+        "Total_Score":56.0,
+        "Meta_Rank":49
+    },
+    {
+        "University":"Queen's University Belfast",
+        "Location":"United Kingdom",
+        "Total_Score":53.0,
+        "Meta_Rank":52
+    },
+    {
+        "University":"University of Navarra",
+        "Location":"Spain",
+        "Total_Score":53.0,
+        "Meta_Rank":52
+    },
+    {
+        "University":"Adelaide University",
+        "Location":"Australia",
+        "Total_Score":51.0,
+        "Meta_Rank":54
+    },
+    {
+        "University":"Case Western Reserve University",
+        "Location":"United States of America",
+        "Total_Score":51.0,
+        "Meta_Rank":54
+    },
+    {
+        "University":"Flinders University",
+        "Location":"Australia",
+        "Total_Score":51.0,
+        "Meta_Rank":54
+    },
+    {
+        "University":"McGill University",
+        "Location":"Canada",
+        "Total_Score":51.0,
+        "Meta_Rank":54
+    }
+]
