@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - RANKMATRIX</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Orbitron:wght@700&display=swap');
+
+        /* --- BASE STYLES --- */
+        body {
+            font-family: 'Inter', sans-serif;
+            line-height: 1.6;
+            color: #000;
+            background: #fff;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 800px;
+            width: 90%;
+            text-align: center;
+            padding: 40px;
+        }
+
+        /* --- LOGO SECTION --- */
+        .logo-container {
+            margin-bottom: 30px;
+        }
+
+        .logo-container img {
+            max-width: 150px; /* Adjust size as needed */
+            height: auto;
+            /* filter: drop-shadow(0 5px 15px rgba(0,0,0,0.1)); */
+        }
+
+        /* --- TYPOGRAPHY --- */
+        h1 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 3.5rem;
+            margin: 10px 0;
+            letter-spacing: -2px;
+            text-transform: uppercase;
+        }
+
+        .subtitle {
+            color: #007bff;
+            font-weight: 900;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            font-size: 0.9rem;
+            margin-bottom: 50px;
+            display: block;
+        }
+
+        p {
+            font-size: 1.2rem;
+            color: #444;
+            max-width: 600px;
+            margin: 0 auto 50px auto;
+        }
+
+        /* --- CONTACT INFO CARDS --- */
+        .contact-grid {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-bottom: 60px;
+        }
+
+        .contact-card {
+            background: #f9f9f9;
+            border: 1px solid #eee;
+            padding: 40px;
+            border-radius: 25px;
+            flex: 1;
+            min-width: 280px;
+            transition: all 0.3s ease;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.02);
+        }
+
+        .contact-card:hover {
+            transform: translateY(-10px);
+            border-color: #007bff;
+            box-shadow: 0 15px 40px rgba(0,123,255,0.1);
+        }
+
+        .contact-card i {
+            font-size: 2rem;
+            display: block;
+            margin-bottom: 15px;
+        }
+
+        .contact-card h3 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 0.8rem;
+            color: #888;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 10px;
+        }
+
+        .contact-card span {
+            font-size: 1.4rem;
+            font-weight: 900;
+            color: #000;
+            word-break: break-all;
+        }
+
+        /* --- FOOTER LINK --- */
+        .back-btn {
+            text-decoration: none;
+            color: #000;
+            font-weight: 800;
+            border-bottom: 3px solid #007bff;
+            padding-bottom: 5px;
+            transition: 0.3s;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+        }
+
+        .back-btn:hover {
+            color: #007bff;
+            background: rgba(0,123,255,0.05);
+        }
+
+        @media (max-width: 600px) {
+            h1 { font-size: 2.5rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <!-- Logo Area -->
+        <div class="logo-container">
+            <img src="logo.png" alt="RANKMATRIX Logo">
+        </div>
+
+        <h1>Contact Us</h1>
+        <span class="subtitle">Direct Support & Data Inquiries</span>
+        
+        <p>Have technical questions about our 216 subject databases or our Meta-Ranking methodology? Reach out to our data engineering team directly.</p>
+
+        <!-- Contact Info Grid -->
+        <div class="contact-grid">
+            <!-- Email Card -->
+            <div class="contact-card">
+                <i>✉️</i>
+                <h3>Official Email</h3>
+                <span>contact@rankmatrix.edu</span>
+            </div>
+
+            <!-- Phone Card -->
+            <div class="contact-card">
+                <i>📞</i>
+                <h3>Direct Line</h3>
+                <span>+1 (555) 000-8888</span>
+            </div>
+        </div>
+
+        <!-- Back Navigation -->
+        <div>
+            <a href="rank_matrix.html" class="back-btn">← Back to Dashboard</a>
+        </div>
+    </div>
+
+</body>
+</html>
