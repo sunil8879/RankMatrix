@@ -289,6 +289,67 @@ body { background-color: #ffffff !important; color: #000000 !important; }
     height: auto !important; 
     border: none !important; 
 }
+
+
+
+
+
+
+
+
+
+/* --- MOBILE COMPLIANCE OVERRIDE (768px) --- */
+@media (max-width: 768px) {
+    /* 1. Force the grid and all flex containers into a centered column */
+    .grid, .comp-wrapper, .pillar-grid, .info-grid { 
+        display: flex !important; 
+        flex-direction: column !important; 
+        align-items: center !important; 
+        width: 100% !important;
+    }
+
+    /* 2. THE FIX: Center all cards at 90% width and kill the right-side cut */
+    .card, .glass-header, .info-panel, .pillar-card, .comp-card, .output, .check-container { 
+        width: 90% !important; 
+        min-width: 0 !important;      /* MAGIC LINE: Deletes the 420px lock causing the cut */
+        max-width: 90% !important; 
+        margin: 10px auto !important; /* Centers automatically */
+        padding: 20px !important;    /* Shrinks padding so text has more room */
+        box-sizing: border-box !important; /* Ensures padding stays INSIDE the 90% width */
+    }
+
+    /* 3. Scale down Titles so they don't overflow the screen */
+    h1 { 
+        font-size: 1.6rem !important; 
+        line-height: 1.2 !important;
+        word-wrap: break-word !important;
+    }
+
+    .tagline { 
+        font-size: 0.8rem !important; 
+        letter-spacing: 2px !important; 
+    }
+
+    .res-hero { font-size: 2.2rem !important; }
+
+    /* 4. Ensure body doesn't push everything right */
+    body { 
+        padding: 10px !important; 
+        width: 100% !important; 
+        overflow-x: hidden !important; 
+        display: block !important; 
+    }
+
+    /* 5. Fix internal elements */
+    .check-container label {
+        width: 100% !important;
+        font-size: 0.85rem !important;
+    }
+
+    .pillar-card p {
+        text-align: center !important; /* Better looking on mobile */
+    }
+}
     </style>
 </head>
 <body>
