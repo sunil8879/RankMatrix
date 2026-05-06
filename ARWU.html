@@ -516,6 +516,57 @@ body { background-color: #ffffff !important; }
     border: none !important; 
     box-shadow: none !important; 
 }
+
+
+
+
+
+
+
+/* --- MOBILE COMPLIANCE OVERRIDE (768px) --- */
+/* --- MOBILE COMPLIANCE OVERRIDE (768px) --- */
+@media (max-width: 768px) {
+    /* 1. Force the grid and matrix to stack in one column */
+    .grid, .metrics-2x2, .pillar-row, .comp-wrapper, .info-grid { 
+        display: flex !important; 
+        flex-direction: column !important; 
+        align-items: center !important; 
+        width: 100% !important;
+    }
+
+    /* 2. THE FIX: Center all cards at 90% width and kill the right-side cut */
+    .card, .m-card-white, .pillar-item, .white-card, .info-panel, .output, header, .header-content h1 { 
+        width: 90% !important; 
+        min-width: 0 !important;  /* Kills the 420px lock causing the cut */
+        max-width: 90% !important; 
+        margin: 10px auto !important; /* Centers everything */
+        padding: 20px !important;    /* Reduces padding so text fits */
+        box-sizing: border-box !important; /* Ensures padding doesn't push width out */
+    }
+
+    /* 3. Scale down the Titles so they don't overflow */
+    .header-content h1, header h1 { 
+        font-size: 1.5rem !important; 
+        line-height: 1.2 !important;
+        padding: 15px !important;
+    }
+
+    .rank-hero { font-size: 2.2rem !important; }
+
+    /* 4. Fix Body overflow */
+    body { 
+        padding: 10px !important; 
+        width: 100% !important; 
+        overflow-x: hidden !important; 
+        display: block !important; 
+    }
+
+    /* 5. Center Checkboxes */
+    .check-container label {
+        width: 100% !important;
+        justify-content: flex-start !important;
+    }
+}
     </style>
 </head>
 <body>
