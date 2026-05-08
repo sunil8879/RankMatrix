@@ -1,0 +1,331 @@
+[
+  {
+    "World Rank": "1",
+    "Institution": "Tsinghua University",
+    "total score": "275.8",
+    "faculty": "23.9",
+    "output": "98.8",
+    "quality research": "100",
+    "research impact": "42.7",
+    "intl. collaboration": "10.4"
+  },
+  
+  {
+    "World Rank": "2",
+    "Institution": "Zhejiang University",
+    "total score": "263.2",
+    "faculty": "22.8",
+    "output": "90.8",
+    "quality research": "97.8",
+    "research impact": "41",
+    "intl. collaboration": "10.7"
+  },
+  
+  {
+    "World Rank": "3",
+    "Institution": "Shanghai Jiao Tong University",
+    "total score": "262.7",
+    "faculty": "25.1",
+    "output": "88.9",
+    "quality research": "98.5",
+    "research impact": "39.8",
+    "intl. collaboration": "10.4"
+  },
+  
+  {
+    "World Rank": "4",
+    "Institution": "University of Science and Technology of China",
+    "total score": "257.8",
+    "faculty": "7.6",
+    "output": "100",
+    "quality research": "99.3",
+    "research impact": "41.2",
+    "intl. collaboration": "9.6"
+  },
+  
+  {
+    "World Rank": "5",
+    "Institution": "Nanyang Technological University",
+    "total score": "245.8",
+    "faculty": "40",
+    "output": "73.8",
+    "quality research": "68.4",
+    "research impact": "45",
+    "intl. collaboration": "18.6"
+  },
+  
+  {
+    "World Rank": "6",
+    "Institution": "National University of Singapore",
+    "total score": "243.5",
+    "faculty": "33.7",
+    "output": "75.8",
+    "quality research": "73.8",
+    "research impact": "41.8",
+    "intl. collaboration": "18.4"
+  },
+  
+  {
+    "World Rank": "7",
+    "Institution": "Peking University",
+    "total score": "230.4",
+    "faculty": "11",
+    "output": "85.1",
+    "quality research": "85.3",
+    "research impact": "39.1",
+    "intl. collaboration": "9.9"
+  },
+  
+  {
+    "World Rank": "8",
+    "Institution": "Soochow University (Suzhou)",
+    "total score": "224.2",
+    "faculty": "10.7",
+    "output": "79.8",
+    "quality research": "80.8",
+    "research impact": "42.3",
+    "intl. collaboration": "10.6"
+  },
+  
+  {
+    "World Rank": "9",
+    "Institution": "Fudan University",
+    "total score": "218.9",
+    "faculty": "0",
+    "output": "81.6",
+    "quality research": "85.9",
+    "research impact": "41.5",
+    "intl. collaboration": "10"
+  },
+  
+  {
+    "World Rank": "10",
+    "Institution": "Huazhong University of Science and Technology",
+    "total score": "217.1",
+    "faculty": "5.1",
+    "output": "76.1",
+    "quality research": "83.9",
+    "research impact": "42",
+    "intl. collaboration": "10"
+  },
+  
+  {
+    "World Rank": "11",
+    "Institution": "Sichuan University",
+    "total score": "216.6",
+    "faculty": "10.7",
+    "output": "72.2",
+    "quality research": "82.2",
+    "research impact": "41.5",
+    "intl. collaboration": "10"
+  },
+  
+  {
+    "World Rank": "12",
+    "Institution": "Xi'an Jiaotong University",
+    "total score": "215.9",
+    "faculty": "21.5",
+    "output": "67.9",
+    "quality research": "75.6",
+    "research impact": "40",
+    "intl. collaboration": "10.9"
+  },
+  
+  {
+    "World Rank": "13",
+    "Institution": "Zhengzhou University",
+    "total score": "214.9",
+    "faculty": "4.6",
+    "output": "72",
+    "quality research": "81.1",
+    "research impact": "47",
+    "intl. collaboration": "10.2"
+  },
+  
+  {
+    "World Rank": "14",
+    "Institution": "Nanjing University",
+    "total score": "210.9",
+    "faculty": "4.2",
+    "output": "78",
+    "quality research": "79.6",
+    "research impact": "40",
+    "intl. collaboration": "9.1"
+  },
+  
+  {
+    "World Rank": "15",
+    "Institution": "Beijing University of Chemical Technology",
+    "total score": "207.6",
+    "faculty": "21.7",
+    "output": "63.3",
+    "quality research": "67.9",
+    "research impact": "44.4",
+    "intl. collaboration": "10.4"
+  },
+  
+  {
+    "World Rank": "16",
+    "Institution": "City University of Hong Kong",
+    "total score": "207.5",
+    "faculty": "8.3",
+    "output": "71.8",
+    "quality research": "70.7",
+    "research impact": "44.5",
+    "intl. collaboration": "12.2"
+  },
+  
+  {
+    "World Rank": "17",
+    "Institution": "Beijing Institute of Technology",
+    "total score": "205.1",
+    "faculty": "22.8",
+    "output": "63",
+    "quality research": "67.5",
+    "research impact": "42",
+    "intl. collaboration": "9.8"
+  },
+  
+  {
+    "World Rank": "17",
+    "Institution": "Sun Yat-sen University",
+    "total score": "205.1",
+    "faculty": "7.6",
+    "output": "68.8",
+    "quality research": "78.4",
+    "research impact": "40.4",
+    "intl. collaboration": "9.9"
+  },
+  
+  {
+    "World Rank": "19",
+    "Institution": "Jilin University",
+    "total score": "199.2",
+    "faculty": "6.8",
+    "output": "68.9",
+    "quality research": "73",
+    "research impact": "40.6",
+    "intl. collaboration": "9.8"
+  },
+  
+  {
+    "World Rank": "19",
+    "Institution": "Sungkyunkwan University",
+    "total score": "199.2",
+    "faculty": "22.4",
+    "output": "62.4",
+    "quality research": "66",
+    "research impact": "35.2",
+    "intl. collaboration": "13.2"
+  },
+  
+  {
+    "World Rank": "21",
+    "Institution": "South China University of Technology",
+    "total score": "198.9",
+    "faculty": "0",
+    "output": "70.6",
+    "quality research": "73.3",
+    "research impact": "45",
+    "intl. collaboration": "10"
+  },
+  
+  {
+    "World Rank": "22",
+    "Institution": "Shenzhen University",
+    "total score": "197.6",
+    "faculty": "0",
+    "output": "69.4",
+    "quality research": "73.9",
+    "research impact": "42.9",
+    "intl. collaboration": "11.4"
+  },
+  
+  {
+    "World Rank": "22",
+    "Institution": "Tianjin University",
+    "total score": "197.6",
+    "faculty": "4.8",
+    "output": "69.2",
+    "quality research": "71.5",
+    "research impact": "41.5",
+    "intl. collaboration": "10.6"
+  },
+  
+  {
+    "World Rank": "24",
+    "Institution": "Northwestern Polytechnical University",
+    "total score": "196.9",
+    "faculty": "13.7",
+    "output": "61.6",
+    "quality research": "64.5",
+    "research impact": "46.3",
+    "intl. collaboration": "10.8"
+  },
+  
+  {
+    "World Rank": "25",
+    "Institution": "Nankai University",
+    "total score": "192.8",
+    "faculty": "0",
+    "output": "69",
+    "quality research": "71.3",
+    "research impact": "43.6",
+    "intl. collaboration": "9"
+  },
+  
+  {
+    "World Rank": "26",
+    "Institution": "Southern University of Science and Technology",
+    "total score": "191.8",
+    "faculty": "0",
+    "output": "68.6",
+    "quality research": "69.2",
+    "research impact": "42.1",
+    "intl. collaboration": "11.8"
+  },
+  
+  {
+    "World Rank": "27",
+    "Institution": "Korea Advanced Institute of Science and Technology",
+    "total score": "190.1",
+    "faculty": "22.5",
+    "output": "59.1",
+    "quality research": "61.2",
+    "research impact": "35.6",
+    "intl. collaboration": "11.7"
+  },
+  
+  {
+    "World Rank": "28",
+    "Institution": "Central South University",
+    "total score": "189.9",
+    "faculty": "3.7",
+    "output": "61.7",
+    "quality research": "68.9",
+    "research impact": "44.8",
+    "intl. collaboration": "10.9"
+  },
+  
+  {
+    "World Rank": "29",
+    "Institution": "University of Electronic Science and Technology of China",
+    "total score": "187.6",
+    "faculty": "21.7",
+    "output": "53.5",
+    "quality research": "60",
+    "research impact": "40.8",
+    "intl. collaboration": "11.5"
+  },
+  
+  {
+    "World Rank": "30",
+    "Institution": "Shandong University",
+    "total score": "186.9",
+    "faculty": "0",
+    "output": "64.6",
+    "quality research": "71.1",
+    "research impact": "41.2",
+    "intl. collaboration": "10"
+  }
+]

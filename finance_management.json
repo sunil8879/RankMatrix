@@ -1,0 +1,802 @@
+[
+ {
+   "rank": 1,
+   "name": "MIT: Sloan ",
+   "location": "US",
+   "wt. salary(USD)": "2,45,991",
+   "tier": "I",
+   "alumni network rank": 4
+ },
+ {
+   "rank": 2,
+   "name": "Insead",
+   "location": "France",
+   "wt. salary(USD)": "2,17,822",
+   "tier": "I",
+   "alumni network rank": 32
+ },
+ {
+   "rank": 3,
+   "name": "University of Pennsylvania: Wharton",
+   "location": "US",
+   "wt. salary(USD)": "2,46,813",
+   "tier": "I",
+   "alumni network rank": 18
+ },
+ {
+   "rank": 4,
+   "name": "IESE Business School",
+   "location": "Spain",
+   "wt. salary(USD)": "1,96,560",
+   "tier": "I",
+   "alumni network rank": 2
+ },
+ {
+   "rank": 4,
+   "name": "London Business School",
+   "location": "UK",
+   "wt. salary(USD)": "2,17,389",
+   "tier": "I",
+   "alumni network rank": 28
+ },
+ {
+   "rank": 6,
+   "name": "HEC Paris",
+   "location": "France",
+   "wt. salary(USD)": "2,00,984",
+   "tier": "I",
+   "alumni network rank": 42
+ },
+ {
+   "rank": 7,
+   "name": "Esade Business School",
+   "location": "Spain",
+   "wt. salary(USD)": "2,06,389",
+   "tier": "I",
+   "alumni network rank": 37
+ },
+ {
+   "rank": 8,
+   "name": "Ceibs ",
+   "location": "China",
+   "wt. salary(USD)": "2,02,343",
+   "tier": "I",
+   "alumni network rank": 31
+ },
+ {
+   "rank": 9,
+   "name": "UC Berkeley: Haas",
+   "location": "US",
+   "wt. salary(USD)": "2,20,903",
+   "tier": "II",
+   "alumni network rank": 15
+ },
+ {
+   "rank": 10,
+   "name": "Harvard Business School ",
+   "location": "US",
+   "wt. salary(USD)": "2,59,874",
+   "tier": "II",
+   "alumni network rank": 11
+ },
+ {
+   "rank": 11,
+   "name": "Northwestern University, Kellogg School of Management ",
+   "location": "US",
+   "wt. salary(USD)": "2,19,821",
+   "tier": "II",
+   "alumni network rank": 9
+ },
+ {
+   "rank": 12,
+   "name": "Nanyang Business School, NTU Singapore",
+   "location": "Singapore",
+   "wt. salary(USD)": "1,94,918",
+   "tier": "II",
+   "alumni network rank": 62
+ },
+ {
+   "rank": 12,
+   "name": "Indian School of Business ",
+   "location": "India",
+   "wt. salary(USD)": "2,01,712",
+   "tier": "II",
+   "alumni network rank": 6
+ },
+ {
+   "rank": 14,
+   "name": "Peking University: Guanghua ",
+   "location": "China",
+   "wt. salary(USD)": "1,77,317",
+   "tier": "II",
+   "alumni network rank": 12
+ },
+ {
+   "rank": 15,
+   "name": "Cornell University: Johnson ",
+   "location": "US",
+   "wt. salary(USD)": "2,04,930",
+   "tier": "II",
+   "alumni network rank": 3
+ },
+ {
+   "rank": 16,
+   "name": "Duke University's Fuqua School of Business ",
+   "location": "US",
+   "wt. salary(USD)": "2,10,049",
+   "tier": "II",
+   "alumni network rank": 29
+ },
+ {
+   "rank": 17,
+   "name": "Yale School of Management ",
+   "location": "US",
+   "wt. salary(USD)": "2,09,061",
+   "tier": "II",
+   "alumni network rank": 20
+ },
+ {
+   "rank": 17,
+   "name": "University of Cambridge: Judge ",
+   "location": "UK",
+   "wt. salary(USD)": "1,97,370",
+   "tier": "II",
+   "alumni network rank": 27
+ },
+ {
+   "rank": 19,
+   "name": "University of Virginia: Darden ",
+   "location": "US",
+   "wt. salary(USD)": "2,11,697",
+   "tier": "II",
+   "alumni network rank": 10
+ },
+ {
+   "rank": 20,
+   "name": "University of Chicago: Booth ",
+   "location": "US",
+   "wt. salary(USD)": "2,31,939",
+   "tier": "II",
+   "alumni network rank": 7
+ },
+ {
+   "rank": 21,
+   "name": "IE Business School",
+   "location": "Spain",
+   "wt. salary(USD)": "1,76,305",
+   "tier": "II",
+   "alumni network rank": 56
+ },
+ {
+   "rank": 22,
+   "name": "ESCP Business School",
+   "location": "France",
+   "wt. salary(USD)": "1,42,324",
+   "tier": "II",
+   "alumni network rank": 73
+ },
+ {
+   "rank": 23,
+   "name": "New York University: Stern ",
+   "location": "US",
+   "wt. salary(USD)": "2,10,675",
+   "tier": "II",
+   "alumni network rank": 36
+ },
+ {
+   "rank": 24,
+   "name": "HKUST Business School ",
+   "location": "Hong Kong",
+   "wt. salary(USD)": "1,71,999",
+   "tier": "II",
+   "alumni network rank": 69
+ },
+ {
+   "rank": 24,
+   "name": "Essec Business School ",
+   "location": "France",
+   "wt. salary(USD)": "1,39,055",
+   "tier": "II",
+   "alumni network rank": 40
+ },
+ {
+   "rank": 26,
+   "name": "Dartmouth College: Tuck ",
+   "location": "US",
+   "wt. salary(USD)": "2,11,074",
+   "tier": "II",
+   "alumni network rank": 1
+ },
+ {
+   "rank": 27,
+   "name": "University of Oxford: Sa�d",
+   "location": "UK",
+   "wt. salary(USD)": "1,89,841",
+   "tier": "II",
+   "alumni network rank": 61
+ },
+ {
+   "rank": 27,
+   "name": "Indian Institute of Management Ahmedabad ",
+   "location": "India",
+   "wt. salary(USD)": "2,27,942",
+   "tier": "II",
+   "alumni network rank": 21
+ },
+ {
+   "rank": 29,
+   "name": "National University of Singapore Business School ",
+   "location": "Singapore",
+   "wt. salary(USD)": "1,81,224",
+   "tier": "II",
+   "alumni network rank": 75
+ },
+ {
+   "rank": 30,
+   "name": "Fudan University School of Management ",
+   "location": "China",
+   "wt. salary(USD)": "1,71,138",
+   "tier": "II",
+   "alumni network rank": 30
+ },
+ {
+   "rank": 30,
+   "name": "IMD � International Institute for Management Development ",
+   "location": "Switzerland",
+   "wt. salary(USD)": "1,83,444",
+   "tier": "II",
+   "alumni network rank": 41
+ },
+ {
+   "rank": 32,
+   "name": "UCLA Anderson School of Management ",
+   "location": "US",
+   "wt. salary(USD)": "1,94,399",
+   "tier": "II",
+   "alumni network rank": 23
+ },
+ {
+   "rank": 33,
+   "name": "HKU Business School ",
+   "location": "Hong Kong",
+   "wt. salary(USD)": "1,64,890",
+   "tier": "II",
+   "alumni network rank": 65
+ },
+ {
+   "rank": 34,
+   "name": "Indian Institute of Management Bangalore ",
+   "location": "India",
+   "wt. salary(USD)": "1,87,973",
+   "tier": "II",
+   "alumni network rank": 33
+ },
+ {
+   "rank": 34,
+   "name": "University of Michigan: Ross",
+   "location": "US",
+   "wt. salary(USD)": "1,97,193",
+   "tier": "II",
+   "alumni network rank": 16
+ },
+ {
+   "rank": 36,
+   "name": "Shanghai University of Finance and Economics: College of Business ",
+   "location": "China",
+   "wt. salary(USD)": "1,97,720",
+   "tier": "II",
+   "alumni network rank": 19
+ },
+ {
+   "rank": 37,
+   "name": "Washington University: Olin ",
+   "location": "US",
+   "wt. salary(USD)": "1,65,812",
+   "tier": "II",
+   "alumni network rank": 26
+ },
+ {
+   "rank": 38,
+   "name": "Rice University: Jones ",
+   "location": "US",
+   "wt. salary(USD)": "1,92,461",
+   "tier": "II",
+   "alumni network rank": 43
+ },
+ {
+   "rank": 39,
+   "name": "Imperial Business School",
+   "location": "UK",
+   "wt. salary(USD)": "1,59,684",
+   "tier": "II",
+   "alumni network rank": 78
+ },
+ {
+   "rank": 40,
+   "name": "University of North Carolina: Kenan-Flagler ",
+   "location": "US",
+   "wt. salary(USD)": "1,80,961",
+   "tier": "II",
+   "alumni network rank": 17
+ },
+ {
+   "rank": 41,
+   "name": "Carnegie Mellon: Tepper ",
+   "location": "US",
+   "wt. salary(USD)": "1,88,281",
+   "tier": "II",
+   "alumni network rank": 54
+ },
+ {
+   "rank": 41,
+   "name": "University of Texas at Austin: McCombs ",
+   "location": "US",
+   "wt. salary(USD)": "1,94,009",
+   "tier": "II",
+   "alumni network rank": 14
+ },
+ {
+   "rank": 41,
+   "name": "EMLyon Business School ",
+   "location": "France",
+   "wt. salary(USD)": "1,39,691",
+   "tier": "II",
+   "alumni network rank": 72
+ },
+ {
+   "rank": 44,
+   "name": "Georgia Tech Scheller College of Business ",
+   "location": "US",
+   "wt. salary(USD)": "1,71,740",
+   "tier": "II",
+   "alumni network rank": 24
+ },
+ {
+   "rank": 45,
+   "name": "University of Washington: Michael G. Foster ",
+   "location": "US",
+   "wt. salary(USD)": "1,89,429",
+   "tier": "II",
+   "alumni network rank": 67
+ },
+ {
+   "rank": 46,
+   "name": "University of Southern California: Marshall ",
+   "location": "US",
+   "wt. salary(USD)": "1,88,451",
+   "tier": "II",
+   "alumni network rank": 13
+ },
+ {
+   "rank": 47,
+   "name": "Edhec Business School ",
+   "location": "France",
+   "wt. salary(USD)": "1,25,429",
+   "tier": "II",
+   "alumni network rank": 53
+ },
+ {
+   "rank": 48,
+   "name": "AGSM at UNSW Business School",
+   "location": "Australia",
+   "wt. salary(USD)": "1,54,223",
+   "tier": "II",
+   "alumni network rank": 55
+ },
+ {
+   "rank": 49,
+   "name": "Georgetown University: McDonough",
+   "location": "US",
+   "wt. salary(USD)": "1,84,076",
+   "tier": "II",
+   "alumni network rank": 46
+ },
+ {
+   "rank": 49,
+   "name": "Alliance Manchester Business School",
+   "location": "UK",
+   "wt. salary(USD)": "1,44,437",
+   "tier": "II",
+   "alumni network rank": 44
+ },
+ {
+   "rank": 51,
+   "name": "Vanderbilt University: Owen ",
+   "location": "US",
+   "wt. salary(USD)": "1,88,825",
+   "tier": "II",
+   "alumni network rank": 50
+ },
+ {
+   "rank": 52,
+   "name": "Rotterdam School of Management, Erasmus University",
+   "location": "Netherlands",
+   "wt. salary(USD)": "1,37,495",
+   "tier": "III",
+   "alumni network rank": 85
+ },
+ {
+   "rank": 53,
+   "name": "Indian Institute of Management Calcutta ",
+   "location": "India",
+   "wt. salary(USD)": "1,73,476",
+   "tier": "III",
+   "alumni network rank": 51
+ },
+ {
+   "rank": 54,
+   "name": "Arizona State University: WP Carey ",
+   "location": "US",
+   "wt. salary(USD)": "1,46,323",
+   "tier": "III",
+   "alumni network rank": 45
+ },
+ {
+   "rank": 55,
+   "name": "Cranfield School of Management ",
+   "location": "UK",
+   "wt. salary(USD)": "1,50,277",
+   "tier": "III",
+   "alumni network rank": 25
+ },
+ {
+   "rank": 56,
+   "name": "Emory University: Goizueta ",
+   "location": "US",
+   "wt. salary(USD)": "1,85,235",
+   "tier": "III",
+   "alumni network rank": 58
+ },
+ {
+   "rank": 57,
+   "name": "Singapore Management University: Lee Kong Chian ",
+   "location": "Singapore",
+   "wt. salary(USD)": "1,55,830",
+   "tier": "III",
+   "alumni network rank": 89
+ },
+ {
+   "rank": 58,
+   "name": "University of St Gallen ",
+   "location": "Switzerland",
+   "wt. salary(USD)": "1,64,541",
+   "tier": "III",
+   "alumni network rank": 79
+ },
+ {
+   "rank": 58,
+   "name": "Indian Institute of Management Lucknow ",
+   "location": "India",
+   "wt. salary(USD)": "1,66,121",
+   "tier": "III",
+   "alumni network rank": 47
+ },
+ {
+   "rank": 60,
+   "name": "University of Georgia: Terry ",
+   "location": "US",
+   "wt. salary(USD)": "1,50,638",
+   "tier": "III",
+   "alumni network rank": 57
+ },
+ {
+   "rank": 61,
+   "name": "University of Notre Dame: Mendoza ",
+   "location": "US",
+   "wt. salary(USD)": "1,69,053",
+   "tier": "III",
+   "alumni network rank": 8
+ },
+ {
+   "rank": 62,
+   "name": "University of Rochester: Simon Business School ",
+   "location": "US",
+   "wt. salary(USD)": "1,61,236",
+   "tier": "III",
+   "alumni network rank": 49
+ },
+ {
+   "rank": 62,
+   "name": "Indian Institute of Management Indore ",
+   "location": "India",
+   "wt. salary(USD)": "1,63,234",
+   "tier": "III",
+   "alumni network rank": 48
+ },
+ {
+   "rank": 64,
+   "name": "Boston University Questrom School of Business ",
+   "location": "US",
+   "wt. salary(USD)": "1,53,767",
+   "tier": "III",
+   "alumni network rank": 84
+ },
+ {
+   "rank": 65,
+   "name": "Mannheim Business School ",
+   "location": "Germany",
+   "wt. salary(USD)": "1,47,702",
+   "tier": "III",
+   "alumni network rank": 87
+ },
+ {
+   "rank": 65,
+   "name": "Indian Institute of Management Kozhikode ",
+   "location": "India",
+   "wt. salary(USD)": "1,57,483",
+   "tier": "III",
+   "alumni network rank": 22
+ },
+ {
+   "rank": 67,
+   "name": "Michigan State University: Broad",
+   "location": "US",
+   "wt. salary(USD)": "1,56,393",
+   "tier": "III",
+   "alumni network rank": 77
+ },
+ {
+   "rank": 68,
+   "name": "University of Texas at Dallas: Jindal ",
+   "location": "US",
+   "wt. salary(USD)": "1,39,070",
+   "tier": "III",
+   "alumni network rank": 35
+ },
+ {
+   "rank": 69,
+   "name": "WHU � Otto Beisheim School of Management",
+   "location": "Germany",
+   "wt. salary(USD)": "1,34,423",
+   "tier": "III",
+   "alumni network rank": 39
+ },
+ {
+   "rank": 70,
+   "name": "Warwick Business School",
+   "location": "UK",
+   "wt. salary(USD)": "1,35,682",
+   "tier": "III",
+   "alumni network rank": 64
+ },
+ {
+   "rank": 70,
+   "name": "University of Pittsburgh: Katz ",
+   "location": "US",
+   "wt. salary(USD)": "1,60,075",
+   "tier": "III",
+   "alumni network rank": 97
+ },
+ {
+   "rank": 72,
+   "name": "Bayes Business School",
+   "location": "UK",
+   "wt. salary(USD)": "1,39,302",
+   "tier": "III",
+   "alumni network rank": 86
+ },
+ {
+   "rank": 73,
+   "name": "University College Dublin: Smurfit ",
+   "location": "Ireland",
+   "wt. salary(USD)": "1,21,433",
+   "tier": "III",
+   "alumni network rank": 66
+ },
+ {
+   "rank": 74,
+   "name": "Western University: Ivey ",
+   "location": "Canada",
+   "wt. salary(USD)": "1,28,001",
+   "tier": "III",
+   "alumni network rank": 52
+ },
+ {
+   "rank": 74,
+   "name": "SP Jain Institute of Management & Research (SPJIMR) ",
+   "location": "India",
+   "wt. salary(USD)": "1,56,649",
+   "tier": "III",
+   "alumni network rank": 76
+ },
+ {
+   "rank": 76,
+   "name": "Fordham University: Gabelli ",
+   "location": "US",
+   "wt. salary(USD)": "1,60,227",
+   "tier": "III",
+   "alumni network rank": 60
+ },
+ {
+   "rank": 77,
+   "name": "Brigham Young University: Marriott ",
+   "location": "US",
+   "wt. salary(USD)": "1,60,035",
+   "tier": "III",
+   "alumni network rank": 5
+ },
+ {
+   "rank": 78,
+   "name": "Miami Herbert Business School ",
+   "location": "US",
+   "wt. salary(USD)": "1,39,600",
+   "tier": "III",
+   "alumni network rank": 63
+ },
+ {
+   "rank": 79,
+   "name": "The Lisbon MBA Catolica | Nova ",
+   "location": "Portugal",
+   "wt. salary(USD)": "1,38,232",
+   "tier": "III",
+   "alumni network rank": 99
+ },
+ {
+   "rank": 79,
+   "name": "ESMT Berlin",
+   "location": "Germany",
+   "wt. salary(USD)": "1,32,108",
+   "tier": "III",
+   "alumni network rank": 80
+ },
+ {
+   "rank": 81,
+   "name": "University of Toronto: Rotman ",
+   "location": "Canada",
+   "wt. salary(USD)": "1,29,228",
+   "tier": "III",
+   "alumni network rank": 83
+ },
+ {
+   "rank": 82,
+   "name": "William & Mary: Mason",
+   "location": "US",
+   "wt. salary(USD)": "1,49,386",
+   "tier": "III",
+   "alumni network rank": 59
+ },
+ {
+   "rank": 82,
+   "name": "XLRI � Xavier School of Management ",
+   "location": "India",
+   "wt. salary(USD)": "1,38,457",
+   "tier": "III",
+   "alumni network rank": 38
+ },
+ {
+   "rank": 84,
+   "name": "Wisconsin School of Business ",
+   "location": "US",
+   "wt. salary(USD)": "1,51,340",
+   "tier": "III",
+   "alumni network rank": 34
+ },
+ {
+   "rank": 85,
+   "name": "Durham University Business School",
+   "location": "UK",
+   "wt. salary(USD)": "1,14,303",
+   "tier": "III",
+   "alumni network rank": 98
+ },
+ {
+   "rank": 85,
+   "name": "Copenhagen Business School (CBS)",
+   "location": "Denmark",
+   "wt. salary(USD)": "1,34,804",
+   "tier": "III",
+   "alumni network rank": 93
+ },
+ {
+   "rank": 87,
+   "name": "McGill University: Desautels ",
+   "location": "Canada",
+   "wt. salary(USD)": "1,22,804",
+   "tier": "III",
+   "alumni network rank": 74
+ },
+ {
+   "rank": 88,
+   "name": "Audencia",
+   "location": "France",
+   "wt. salary(USD)": "95,847",
+   "tier": "III",
+   "alumni network rank": 100
+ },
+ {
+   "rank": 89,
+   "name": "Hult International Business School ",
+   "location": "US",
+   "wt. salary(USD)": "1,28,661",
+   "tier": "IV",
+   "alumni network rank": 82
+ },
+ {
+   "rank": 90,
+   "name": "Polimi School of Management ",
+   "location": "Italy",
+   "wt. salary(USD)": "1,22,887",
+   "tier": "IV",
+   "alumni network rank": 95
+ },
+ {
+   "rank": 91,
+   "name": "University of Edinburgh Business School ",
+   "location": "UK",
+   "wt. salary(USD)": "1,29,180",
+   "tier": "IV",
+   "alumni network rank": 81
+ },
+ {
+   "rank": 92,
+   "name": "Queen's University: Smith ",
+   "location": "Canada",
+   "wt. salary(USD)": "1,21,244",
+   "tier": "IV",
+   "alumni network rank": 68
+ },
+ {
+   "rank": 92,
+   "name": "Frankfurt School of Finance and Management ",
+   "location": "Germany",
+   "wt. salary(USD)": "1,24,933",
+   "tier": "IV",
+   "alumni network rank": 88
+ },
+ {
+   "rank": 92,
+   "name": "University of Bath School of Management ",
+   "location": "UK",
+   "wt. salary(USD)": "1,01,976",
+   "tier": "IV",
+   "alumni network rank": 71
+ },
+ {
+   "rank": 95,
+   "name": "Eada Business School Barcelona",
+   "location": "Spain",
+   "wt. salary(USD)": "1,10,344",
+   "tier": "IV",
+   "alumni network rank": 92
+ },
+ {
+   "rank": 96,
+   "name": "University of Porto � FEP | PBS ",
+   "location": "Portugal",
+   "wt. salary(USD)": "1,10,508",
+   "tier": "IV",
+   "alumni network rank": 94
+ },
+ {
+   "rank": 97,
+   "name": "Sasin School of Management ",
+   "location": "Thailand",
+   "wt. salary(USD)": "1,06,915",
+   "tier": "IV",
+   "alumni network rank": 70
+ },
+ {
+   "rank": 98,
+   "name": "University of Liverpool Management School ",
+   "location": "UK",
+   "wt. salary(USD)": "96,274",
+   "tier": "IV",
+   "alumni network rank": 96
+ },
+ {
+   "rank": 99,
+   "name": "University of British Columbia: Sauder ",
+   "location": "Canada",
+   "wt. salary(USD)": "1,11,074",
+   "tier": "IV",
+   "alumni network rank": 91
+ },
+ {
+   "rank": 100,
+   "name": "University of Glasgow: Adam Smith ",
+   "location": "UK",
+   "wt. salary(USD)": "1,07,711",
+   "tier": "IV",
+   "alumni network rank": 90
+ }
+];

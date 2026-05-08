@@ -1,0 +1,1802 @@
+[
+ {
+   "Rank": "#1",
+   "University": "Massachusetts Institute of Technology (MIT)",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "96.00%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#2",
+   "University": "Imperial College London",
+   "Country": "United Kingdom",
+   "Region": "Europe",
+   "Employment Rate": "96.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#3",
+   "University": "Stanford University",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "95.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#4",
+   "University": "Harvard University",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "95.20%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#5",
+   "University": "University of Chicago",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "95.10%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#6",
+   "University": "ETH Zurich",
+   "Country": "Switzerland",
+   "Region": "Europe",
+   "Employment Rate": "95.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#7",
+   "University": "The University of Hong Kong",
+   "Country": "Hong Kong",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "95.00%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#8",
+   "University": "University of California, Los Angeles (UCLA)",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "94.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#9",
+   "University": "Tsinghua University",
+   "Country": "China",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "94.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#10",
+   "University": "Cornell University",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "94.20%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#11",
+   "University": "Yale University",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "94.00%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#12",
+   "University": "Institut Polytechnique de Paris",
+   "Country": "France",
+   "Region": "Europe",
+   "Employment Rate": "94.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#13",
+   "University": "National University of Singapore (NUS)",
+   "Country": "Singapore",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "94.00%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#14",
+   "University": "Princeton University",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "93.80%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#15",
+   "University": "Columbia University",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "93.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#16",
+   "University": "Nanyang Technological University (NTU)",
+   "Country": "Singapore",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "93.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#17",
+   "University": "University of Pennsylvania",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "93.20%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#18",
+   "University": "EPFL",
+   "Country": "Switzerland",
+   "Region": "Europe",
+   "Employment Rate": "93.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#19",
+   "University": "Peking University",
+   "Country": "China",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "93.00%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#20",
+   "University": "The University of Sydney",
+   "Country": "Australia",
+   "Region": "Oceania",
+   "Employment Rate": "93.00%",
+   "Time Frame - Months After Graduation": "4- 6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#21",
+   "University": "New York University (NYU)",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "92.80%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#22",
+   "University": "University of Michigan-Ann Arbor",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "92.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#23",
+   "University": "The University of Tokyo",
+   "Country": "Japan",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "92.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#24",
+   "University": "Duke University",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "92.00%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#25",
+   "University": "Technical University of Munich",
+   "Country": "Germany",
+   "Region": "Europe",
+   "Employment Rate": "92.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#26",
+   "University": "The University of Melbourne",
+   "Country": "Australia",
+   "Region": "Oceania",
+   "Employment Rate": "92.00%",
+   "Time Frame - Months After Graduation": "4- 6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#27",
+   "University": "Northwestern University",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "91.80%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#28",
+   "University": "Georgia Institute of Technology",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "91.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#29",
+   "University": "Kyoto University",
+   "Country": "Japan",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "91.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#30",
+   "University": "UNSW Sydney",
+   "Country": "Australia",
+   "Region": "Oceania",
+   "Employment Rate": "91.50%",
+   "Time Frame - Months After Graduation": "4- 6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#31",
+   "University": "UC Berkeley",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "91.00%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#32",
+   "University": "HEC Paris",
+   "Country": "France",
+   "Region": "Europe",
+   "Employment Rate": "91.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#33",
+   "University": "University of Cambridge",
+   "Country": "United Kingdom",
+   "Region": "Europe",
+   "Employment Rate": "91.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#34",
+   "University": "KAIST",
+   "Country": "South Korea",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "91.00%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Hybrid"
+ },
+ {
+   "Rank": "#35",
+   "University": "Caltech",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "90.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#36",
+   "University": "Seoul National University",
+   "Country": "South Korea",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "90.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Hybrid"
+ },
+ {
+   "Rank": "#37",
+   "University": "Monash University",
+   "Country": "Australia",
+   "Region": "Oceania",
+   "Employment Rate": "90.50%",
+   "Time Frame - Months After Graduation": "4- 6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#38",
+   "University": "University of Oxford",
+   "Country": "United Kingdom",
+   "Region": "Europe",
+   "Employment Rate": "90.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#39",
+   "University": "KTH Royal Institute of Technology",
+   "Country": "Sweden",
+   "Region": "Europe",
+   "Employment Rate": "90.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#40",
+   "University": "LMU Munich",
+   "Country": "Germany",
+   "Region": "Europe",
+   "Employment Rate": "90.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#41",
+   "University": "Indian Institute of Technology Bombay",
+   "Country": "India",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "90.00%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#42",
+   "University": "Tecnol�gico de Monterrey",
+   "Country": "Mexico",
+   "Region": "Latin America",
+   "Employment Rate": "90.00%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "Hybrid"
+ },
+ {
+   "Rank": "#43",
+   "University": "University of Toronto",
+   "Country": "Canada",
+   "Region": "North America",
+   "Employment Rate": "89.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#44",
+   "University": "Indian Institute of Technology Delhi",
+   "Country": "India",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "89.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#45",
+   "University": "The University of Auckland",
+   "Country": "New Zealand",
+   "Region": "Oceania",
+   "Employment Rate": "89.50%",
+   "Time Frame - Months After Graduation": "4-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#46",
+   "University": "University of Illinois Urbana-Champaign",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "89.20%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#47",
+   "University": "University of Waterloo",
+   "Country": "Canada",
+   "Region": "North America",
+   "Employment Rate": "89.00%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#48",
+   "University": "University of Amsterdam",
+   "Country": "Netherlands",
+   "Region": "Europe",
+   "Employment Rate": "89.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#49",
+   "University": "LSE",
+   "Country": "United Kingdom",
+   "Region": "Europe",
+   "Employment Rate": "89.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#50",
+   "University": "University of Bath",
+   "Country": "United Kingdom",
+   "Region": "Europe",
+   "Employment Rate": "89.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#51",
+   "University": "Delft University of Technology",
+   "Country": "Netherlands",
+   "Region": "Europe",
+   "Employment Rate": "89.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#52",
+   "University": "Fudan University",
+   "Country": "China",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "89.00%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#53",
+   "University": "McGill University",
+   "Country": "Canada",
+   "Region": "North America",
+   "Employment Rate": "88.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#54",
+   "University": "Shanghai Jiao Tong University",
+   "Country": "China",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "88.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#55",
+   "University": "Australian National University (ANU)",
+   "Country": "Australia",
+   "Region": "Oceania",
+   "Employment Rate": "88.50%",
+   "Time Frame - Months After Graduation": "4- 6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#56",
+   "University": "Purdue University",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "88.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#57",
+   "University": "ENS Paris",
+   "Country": "France",
+   "Region": "Europe",
+   "Employment Rate": "88.50%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#58",
+   "University": "Tohoku University",
+   "Country": "Japan",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "88.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#59",
+   "University": "University of Texas at Austin",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "88.20%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#60",
+   "University": "University of British Columbia",
+   "Country": "Canada",
+   "Region": "North America",
+   "Employment Rate": "88.00%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#61",
+   "University": "UCL",
+   "Country": "United Kingdom",
+   "Region": "Europe",
+   "Employment Rate": "88.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#62",
+   "University": "Bocconi University",
+   "Country": "Italy",
+   "Region": "Europe",
+   "Employment Rate": "88.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#63",
+   "University": "Zhejiang University",
+   "Country": "China",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "88.00%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "placement based"
+ },
+ {
+   "Rank": "#64",
+   "University": "Universidade de S�o Paulo",
+   "Country": "Brazil",
+   "Region": "Latin America",
+   "Employment Rate": "88.00%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#65",
+   "University": "KAUST",
+   "Country": "Saudi Arabia",
+   "Region": "Middle East",
+   "Employment Rate": "88.00%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#66",
+   "University": "RWTH Aachen University",
+   "Country": "Germany",
+   "Region": "Europe",
+   "Employment Rate": "88.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#67",
+   "University": "Osaka University",
+   "Country": "Japan",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "88.00%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#68",
+   "University": "IIT Madras",
+   "Country": "India",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "88.00%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#69",
+   "University": "The University of Queensland",
+   "Country": "Australia",
+   "Region": "Oceania",
+   "Employment Rate": "88.00%",
+   "Time Frame - Months After Graduation": "4- 6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#70",
+   "University": "Texas A&M University",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "87.80%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#71",
+   "University": "Carnegie Mellon University",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "87.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#72",
+   "University": "Hong Kong University of Science and Technology",
+   "Country": "Hong Kong",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "87.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#73",
+   "University": "Penn State University",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "87.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#74",
+   "University": "University of Bristol",
+   "Country": "United Kingdom",
+   "Region": "Europe",
+   "Employment Rate": "87.50%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#75",
+   "University": "Erasmus University Rotterdam",
+   "Country": "Netherlands",
+   "Region": "Europe",
+   "Employment Rate": "87.50%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#76",
+   "University": "Kyushu University",
+   "Country": "Japan",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "87.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#77",
+   "University": "IIT Kanpur",
+   "Country": "India",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "87.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#78",
+   "University": "The University of Western Australia",
+   "Country": "Australia",
+   "Region": "Oceania",
+   "Employment Rate": "87.50%",
+   "Time Frame - Months After Graduation": "4- 6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#79",
+   "University": "Technion - Israel Institute of Technology",
+   "Country": "Israel",
+   "Region": "Middle East",
+   "Employment Rate": "87.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#80",
+   "University": "University of Washington",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "87.20%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#81",
+   "University": "Harbin Institute of Technology",
+   "Country": "China",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "87.20%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#82",
+   "University": "University of Technology Sydney (UTS)",
+   "Country": "Australia",
+   "Region": "Oceania",
+   "Employment Rate": "87.20%",
+   "Time Frame - Months After Graduation": "4- 6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#83",
+   "University": "Virginia Tech",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "87.10%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#84",
+   "University": "Johns Hopkins University",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "87.00%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#85",
+   "University": "Loughborough University",
+   "Country": "United Kingdom",
+   "Region": "Europe",
+   "Employment Rate": "87.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#86",
+   "University": "University of Warwick",
+   "Country": "United Kingdom",
+   "Region": "Europe",
+   "Employment Rate": "87.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#87",
+   "University": "Sciences Po",
+   "Country": "France",
+   "Region": "Europe",
+   "Employment Rate": "87.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#88",
+   "University": "Chinese University of Hong Kong",
+   "Country": "Hong Kong",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "87.00%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "placement based"
+ },
+ {
+   "Rank": "#89",
+   "University": "KU Leuven",
+   "Country": "Belgium",
+   "Region": "Europe",
+   "Employment Rate": "87.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#90",
+   "University": "McMaster University",
+   "Country": "Canada",
+   "Region": "North America",
+   "Employment Rate": "87.00%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#91",
+   "University": "Nagoya University",
+   "Country": "Japan",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "87.00%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#92",
+   "University": "IIT Kharagpur",
+   "Country": "India",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "87.00%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#93",
+   "University": "Ohio State University",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "86.90%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#94",
+   "University": "University of Wisconsin-Madison",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "86.80%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#95",
+   "University": "Western University",
+   "Country": "Canada",
+   "Region": "North America",
+   "Employment Rate": "86.80%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#96",
+   "University": "Utrecht University",
+   "Country": "Netherlands",
+   "Region": "Europe",
+   "Employment Rate": "86.80%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#97",
+   "University": "Sun Yat-sen University",
+   "Country": "China",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "86.80%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#98",
+   "University": "RMIT University",
+   "Country": "Australia",
+   "Region": "Oceania",
+   "Employment Rate": "86.80%",
+   "Time Frame - Months After Graduation": "4- 6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#99",
+   "University": "Brown University",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "86.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#100",
+   "University": "ESADE Business School",
+   "Country": "Spain",
+   "Region": "Europe",
+   "Employment Rate": "86.50%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#101",
+   "University": "University of Florida",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "86.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#102",
+   "University": "Queen's University",
+   "Country": "Canada",
+   "Region": "North America",
+   "Employment Rate": "86.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#103",
+   "University": "Heidelberg University",
+   "Country": "Germany",
+   "Region": "Europe",
+   "Employment Rate": "86.50%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#104",
+   "University": "Universit� Paris-Saclay",
+   "Country": "France",
+   "Region": "Europe",
+   "Employment Rate": "86.50%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#105",
+   "University": "Hokkaido University",
+   "Country": "Japan",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "86.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#106",
+   "University": "Xi'an Jiaotong University",
+   "Country": "China",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "86.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#107",
+   "University": "Indian Institute of Science (IISc)",
+   "Country": "India",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "86.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#108",
+   "University": "The University of Adelaide",
+   "Country": "Australia",
+   "Region": "Oceania",
+   "Employment Rate": "86.50%",
+   "Time Frame - Months After Graduation": "4- 6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#109",
+   "University": "Universidade Estadual de Campinas (Unicamp)",
+   "Country": "Brazil",
+   "Region": "Latin America",
+   "Employment Rate": "86.50%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#110",
+   "University": "Tel Aviv University",
+   "Country": "Israel",
+   "Region": "Middle East",
+   "Employment Rate": "86.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#111",
+   "University": "University of Nottingham",
+   "Country": "United Kingdom",
+   "Region": "Europe",
+   "Employment Rate": "86.40%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#112",
+   "University": "University of Maryland, College Park",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "86.20%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#113",
+   "University": "TU Berlin",
+   "Country": "Germany",
+   "Region": "Europe",
+   "Employment Rate": "86.20%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#114",
+   "University": "University of Leeds",
+   "Country": "United Kingdom",
+   "Region": "Europe",
+   "Employment Rate": "86.20%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#115",
+   "University": "Tongji University",
+   "Country": "China",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "86.20%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#116",
+   "University": "Dartmouth College",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "86.00%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#117",
+   "University": "Trinity College Dublin",
+   "Country": "Ireland",
+   "Region": "Europe",
+   "Employment Rate": "86.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#118",
+   "University": "Waseda University",
+   "Country": "Japan",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "86.00%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#119",
+   "University": "American University of Beirut (AUB)",
+   "Country": "Lebanon",
+   "Region": "Middle East",
+   "Employment Rate": "86.00%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#120",
+   "University": "University of Zurich",
+   "Country": "Switzerland",
+   "Region": "Europe",
+   "Employment Rate": "86.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#121",
+   "University": "University of Glasgow",
+   "Country": "United Kingdom",
+   "Region": "Europe",
+   "Employment Rate": "86.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#122",
+   "University": "Leiden University",
+   "Country": "Netherlands",
+   "Region": "Europe",
+   "Employment Rate": "86.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#123",
+   "University": "IIT Roorkee",
+   "Country": "India",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "86.00%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#124",
+   "University": "University of Otago",
+   "Country": "New Zealand",
+   "Region": "Oceania",
+   "Employment Rate": "86.00%",
+   "Time Frame - Months After Graduation": "4- 6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#125",
+   "University": "University of Calgary",
+   "Country": "Canada",
+   "Region": "North America",
+   "Employment Rate": "85.90%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#126",
+   "University": "Rutgers University",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "85.80%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#127",
+   "University": "University of Birmingham",
+   "Country": "United Kingdom",
+   "Region": "Europe",
+   "Employment Rate": "85.80%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#128",
+   "University": "Ghent University",
+   "Country": "Belgium",
+   "Region": "Europe",
+   "Employment Rate": "85.80%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#129",
+   "University": "Wuhan University",
+   "Country": "China",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "85.80%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#130",
+   "University": "University of Copenhagen",
+   "Country": "Denmark",
+   "Region": "Europe",
+   "Employment Rate": "85.50%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#131",
+   "University": "Korea University",
+   "Country": "South Korea",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "85.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Hybrid"
+ },
+ {
+   "Rank": "#132",
+   "University": "University of Colorado Boulder",
+   "Country": "United States",
+   "Region": "North America",
+   "Employment Rate": "85.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#133",
+   "University": "University of Sheffield",
+   "Country": "United Kingdom",
+   "Region": "Europe",
+   "Employment Rate": "85.50%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#134",
+   "University": "University of Groningen",
+   "Country": "Netherlands",
+   "Region": "Europe",
+   "Employment Rate": "85.50%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#135",
+   "University": "Macquarie University",
+   "Country": "Australia",
+   "Region": "Oceania",
+   "Employment Rate": "85.50%",
+   "Time Frame - Months After Graduation": "4- 6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#136",
+   "University": "Victoria University of Wellington",
+   "Country": "New Zealand",
+   "Region": "Oceania",
+   "Employment Rate": "85.50%",
+   "Time Frame - Months After Graduation": "4- 6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#137",
+   "University": "KFUPM",
+   "Country": "Saudi Arabia",
+   "Region": "Middle East",
+   "Employment Rate": "85.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#138",
+   "University": "University of Southampton",
+   "Country": "United Kingdom",
+   "Region": "Europe",
+   "Employment Rate": "85.20%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#139",
+   "University": "Politecnico di Milano",
+   "Country": "Italy",
+   "Region": "Europe",
+   "Employment Rate": "85.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#140",
+   "University": "University of Edinburgh",
+   "Country": "United Kingdom",
+   "Region": "Europe",
+   "Employment Rate": "85.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#141",
+   "University": "Nankai University",
+   "Country": "China",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "85.00%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#142",
+   "University": "Universidad de Buenos Aires",
+   "Country": "Argentina",
+   "Region": "Latin America",
+   "Employment Rate": "85.00%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "Hybrid"
+ },
+ {
+   "Rank": "#143",
+   "University": "University of Oslo",
+   "Country": "Norway",
+   "Region": "Europe",
+   "Employment Rate": "85.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#144",
+   "University": "Sorbonne University",
+   "Country": "France",
+   "Region": "Europe",
+   "Employment Rate": "85.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#145",
+   "University": "Universiti Malaya",
+   "Country": "Malaysia",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "85.00%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Hybrid"
+ },
+ {
+   "Rank": "#146",
+   "University": "University of Wollongong",
+   "Country": "Australia",
+   "Region": "Oceania",
+   "Employment Rate": "85.00%",
+   "Time Frame - Months After Graduation": "4-6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#147",
+   "University": "Instituto Polit�cnico Nacional (IPN)",
+   "Country": "Mexico",
+   "Region": "Latin America",
+   "Employment Rate": "85.00%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#148",
+   "University": "Hebrew University of Jerusalem",
+   "Country": "Israel",
+   "Region": "Middle East",
+   "Employment Rate": "85.00%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#149",
+   "University": "Newcastle University",
+   "Country": "United Kingdom",
+   "Region": "Europe",
+   "Employment Rate": "84.80%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#150",
+   "University": "Sungkyunkwan University",
+   "Country": "South Korea",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "84.80%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Hybrid"
+ },
+ {
+   "Rank": "#151",
+   "University": "National Taiwan University",
+   "Country": "Taiwan",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "84.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#152",
+   "University": "University of Helsinki",
+   "Country": "Finland",
+   "Region": "Europe",
+   "Employment Rate": "84.50%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#153",
+   "University": "Humboldt University of Berlin",
+   "Country": "Germany",
+   "Region": "Europe",
+   "Employment Rate": "84.50%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#154",
+   "University": "University of Bologna",
+   "Country": "Italy",
+   "Region": "Europe",
+   "Employment Rate": "84.50%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#155",
+   "University": "Yonsei University",
+   "Country": "South Korea",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "84.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Hybrid"
+ },
+ {
+   "Rank": "#156",
+   "University": "University of Canterbury",
+   "Country": "New Zealand",
+   "Region": "Oceania",
+   "Employment Rate": "84.50%",
+   "Time Frame - Months After Graduation": "4- 6 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#157",
+   "University": "Federal University of Rio de Janeiro",
+   "Country": "Brazil",
+   "Region": "Latin America",
+   "Employment Rate": "84.50%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#158",
+   "University": "Pompeu Fabra University",
+   "Country": "Spain",
+   "Region": "Europe",
+   "Employment Rate": "84.20%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#159",
+   "University": "University of Manchester",
+   "Country": "United Kingdom",
+   "Region": "Europe",
+   "Employment Rate": "84.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#160",
+   "University": "Pontificia Universidad Cat�lica de Chile",
+   "Country": "Chile",
+   "Region": "Latin America",
+   "Employment Rate": "84.00%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#161",
+   "University": "King Abdulaziz University",
+   "Country": "Saudi Arabia",
+   "Region": "Middle East",
+   "Employment Rate": "84.00%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#162",
+   "University": "Lund University",
+   "Country": "Sweden",
+   "Region": "Europe",
+   "Employment Rate": "84.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#163",
+   "University": "University of Padua",
+   "Country": "Italy",
+   "Region": "Europe",
+   "Employment Rate": "84.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#164",
+   "University": "Aarhus University",
+   "Country": "Denmark",
+   "Region": "Europe",
+   "Employment Rate": "84.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#165",
+   "University": "Freie Universit�t Berlin",
+   "Country": "Germany",
+   "Region": "Europe",
+   "Employment Rate": "83.80%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#166",
+   "University": "University of Vienna",
+   "Country": "Austria",
+   "Region": "Europe",
+   "Employment Rate": "83.50%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#167",
+   "University": "Sapienza University of Rome",
+   "Country": "Italy",
+   "Region": "Europe",
+   "Employment Rate": "83.50%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#168",
+   "University": "Uppsala University",
+   "Country": "Sweden",
+   "Region": "Europe",
+   "Employment Rate": "83.50%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#169",
+   "University": "Hanyang University",
+   "Country": "South Korea",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "83.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Hybrid"
+ },
+ {
+   "Rank": "#170",
+   "University": "Universiti Putra Malaysia",
+   "Country": "Malaysia",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "83.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#171",
+   "University": "UNESP",
+   "Country": "Brazil",
+   "Region": "Latin America",
+   "Employment Rate": "83.50%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#172",
+   "University": "King Saud University",
+   "Country": "Saudi Arabia",
+   "Region": "Middle East",
+   "Employment Rate": "83.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#173",
+   "University": "Khalifa University",
+   "Country": "UAE",
+   "Region": "Middle East",
+   "Employment Rate": "83.00%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#174",
+   "University": "Autonomous University of Madrid",
+   "Country": "Spain",
+   "Region": "Europe",
+   "Employment Rate": "83.00%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#175",
+   "University": "Universidad de Chile",
+   "Country": "Chile",
+   "Region": "Latin America",
+   "Employment Rate": "83.00%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#176",
+   "University": "University of Barcelona",
+   "Country": "Spain",
+   "Region": "Europe",
+   "Employment Rate": "82.50%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#177",
+   "University": "Kyung Hee University",
+   "Country": "South Korea",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "82.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Hybrid"
+ },
+ {
+   "Rank": "#178",
+   "University": "Universidad Aut�noma Metropolitana",
+   "Country": "Mexico",
+   "Region": "Latin America",
+   "Employment Rate": "82.50%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#179",
+   "University": "Qatar University",
+   "Country": "Qatar",
+   "Region": "Middle East",
+   "Employment Rate": "82.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#180",
+   "University": "Universidad de los Andes",
+   "Country": "Colombia",
+   "Region": "Latin America",
+   "Employment Rate": "82.00%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#181",
+   "University": "Ko� University",
+   "Country": "Turkey",
+   "Region": "Middle East",
+   "Employment Rate": "82.00%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#182",
+   "University": "Stellenbosch University",
+   "Country": "South Africa",
+   "Region": "Africa",
+   "Employment Rate": "82.00%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#183",
+   "University": "Chulalongkorn University",
+   "Country": "Thailand",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "82.00%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#184",
+   "University": "Complutense University of Madrid",
+   "Country": "Spain",
+   "Region": "Europe",
+   "Employment Rate": "81.50%",
+   "Time Frame - Months After Graduation": "12-15 months",
+   "Metric type": "Outcome based"
+ },
+ {
+   "Rank": "#185",
+   "University": "Pontificia Universidad Cat�lica del Per�",
+   "Country": "Peru",
+   "Region": "Latin America",
+   "Employment Rate": "81.50%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#186",
+   "University": "United Arab Emirates University",
+   "Country": "UAE",
+   "Region": "Middle East",
+   "Employment Rate": "81.50%",
+   "Time Frame - Months After Graduation": "3-6 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#187",
+   "University": "UNAM",
+   "Country": "Mexico",
+   "Region": "Latin America",
+   "Employment Rate": "81.00%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#188",
+   "University": "University of Cape Town",
+   "Country": "South Africa",
+   "Region": "Africa",
+   "Employment Rate": "81.00%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#189",
+   "University": "Mahidol University",
+   "Country": "Thailand",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "81.00%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#190",
+   "University": "University of Indonesia",
+   "Country": "Indonesia",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "80.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "Placement based"
+ },
+ {
+   "Rank": "#191",
+   "University": "University of the Witwatersrand",
+   "Country": "South Africa",
+   "Region": "Africa",
+   "Employment Rate": "80.00%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "Hybrid"
+ },
+ {
+   "Rank": "#192",
+   "University": "Universidad Nacional Mayor de San Marcos",
+   "Country": "Peru",
+   "Region": "Latin America",
+   "Employment Rate": "80.00%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#193",
+   "University": "Gadjah Mada University",
+   "Country": "Indonesia",
+   "Region": "Asia-Pacific",
+   "Employment Rate": "79.50%",
+   "Time Frame - Months After Graduation": "0-3 months",
+   "Metric type": "placement based"
+ },
+ {
+   "Rank": "#194",
+   "University": "University of Pretoria",
+   "Country": "South Africa",
+   "Region": "Africa",
+   "Employment Rate": "79.50%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#195",
+   "University": "The American University in Cairo",
+   "Country": "Egypt",
+   "Region": "Africa",
+   "Employment Rate": "79.00%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#196",
+   "University": "University of KwaZulu-Natal",
+   "Country": "South Africa",
+   "Region": "Africa",
+   "Employment Rate": "78.00%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#197",
+   "University": "Makerere University",
+   "Country": "Uganda",
+   "Region": "Africa",
+   "Employment Rate": "77.00%",
+   "Time Frame - Months After Graduation": "6-18 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#198",
+   "University": "Cairo University",
+   "Country": "Egypt",
+   "Region": "Africa",
+   "Employment Rate": "76.50%",
+   "Time Frame - Months After Graduation": "6-12 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#199",
+   "University": "University of Nairobi",
+   "Country": "Kenya",
+   "Region": "Africa",
+   "Employment Rate": "75.00%",
+   "Time Frame - Months After Graduation": "6-18 months",
+   "Metric type": "hybrid"
+ },
+ {
+   "Rank": "#200",
+   "University": "University of Ghana",
+   "Country": "Ghana",
+   "Region": "Africa",
+   "Employment Rate": "74.00%",
+   "Time Frame - Months After Graduation": "6-18 months",
+   "Metric type": "hybrid"
+ }
+]

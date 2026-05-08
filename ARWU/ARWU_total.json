@@ -1,0 +1,7802 @@
+[
+ {
+   "World Rank": "1",
+   "Institution": "Harvard University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "1"
+   },
+   "total score": 100,
+   "alumni": 100,
+   "award": 96.2,
+   "HiCi": 100,
+   "N & S": 100,
+   "PUB": 96.8,
+   "PCP": 84.5
+},
+ {
+   "World Rank": "2",
+   "Institution": "Stanford University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "2"
+   },
+   "total score": 76.8,
+   "alumni": 44.4,
+   "award": 86.3,
+   "HiCi": 75.6,
+   "N & S": 88.3,
+   "PUB": 71.5,
+   "PCP": 57.4
+},
+ {
+   "World Rank": "3",
+   "Institution": "Massachusetts Institute of Technology ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "3"
+   },
+   "total score": 71.2,
+   "alumni": 73,
+   "award": 84.4,
+   "HiCi": 57.4,
+   "N & S": 73.6,
+   "PUB": 56.9,
+   "PCP": 73.9
+},
+ {
+   "World Rank": "4",
+   "Institution": "University of Cambridge ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "1"
+   },
+   "total score": 68.6,
+   "alumni": 80.4,
+   "award": 89,
+   "HiCi": 44.6,
+   "N & S": 63.5,
+   "PUB": 66.1,
+   "PCP": 59.4
+},
+ {
+   "World Rank": "5",
+   "Institution": "University of California, Berkeley ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "4"
+   },
+   "total score": 61.8,
+   "alumni": 66.6,
+   "award": 74.9,
+   "HiCi": 47,
+   "N & S": 64,
+   "PUB": 54.1,
+   "PCP": 53.5
+},
+ {
+   "World Rank": "6",
+   "Institution": "University of Oxford ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "2"
+   },
+   "total score": 61,
+   "alumni": 50.5,
+   "award": 58.5,
+   "HiCi": 51.4,
+   "N & S": 61.2,
+   "PUB": 75.7,
+   "PCP": 48
+},
+ {
+   "World Rank": "7",
+   "Institution": "Princeton University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "5"
+   },
+   "total score": 59.4,
+   "alumni": 60.1,
+   "award": 100,
+   "HiCi": 27.1,
+   "N & S": 52.7,
+   "PUB": 41.3,
+   "PCP": 74.2
+},
+ {
+   "World Rank": "8",
+   "Institution": "Columbia University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "6"
+   },
+   "total score": 55.8,
+   "alumni": 58.3,
+   "award": 61.9,
+   "HiCi": 46.1,
+   "N & S": 54,
+   "PUB": 64,
+   "PCP": 31
+},
+ {
+   "World Rank": "9",
+   "Institution": "California Institute of Technology ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "7"
+   },
+   "total score": 55.5,
+   "alumni": 54.7,
+   "award": 62.1,
+   "HiCi": 31.6,
+   "N & S": 58.7,
+   "PUB": 39.5,
+   "PCP": 100
+},
+ {
+   "World Rank": "10",
+   "Institution": "University of Chicago ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "8"
+   },
+   "total score": 54.2,
+   "alumni": 60.1,
+   "award": 84.3,
+   "HiCi": 30.2,
+   "N & S": 44.2,
+   "PUB": 52.8,
+   "PCP": 43
+},
+ {
+   "World Rank": "11",
+   "Institution": "Yale University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "9"
+   },
+   "total score": 53.6,
+   "alumni": 51.5,
+   "award": 48.6,
+   "HiCi": 47,
+   "N & S": 57.1,
+   "PUB": 62.6,
+   "PCP": 38
+},
+ {
+   "World Rank": "12",
+   "Institution": "Cornell University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "10"
+   },
+   "total score": 49.8,
+   "alumni": 42.6,
+   "award": 43.3,
+   "HiCi": 37.8,
+   "N & S": 56.2,
+   "PUB": 61.4,
+   "PCP": 42.8
+},
+ {
+   "World Rank": "13",
+   "Institution": "Paris-Saclay University ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "1"
+   },
+   "total score": 49.1,
+   "alumni": 37.4,
+   "award": 72.3,
+   "HiCi": 32.9,
+   "N & S": 29.3,
+   "PUB": 62.5,
+   "PCP": 45.1
+},
+ {
+   "World Rank": "14",
+   "Institution": "University College London ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "3"
+   },
+   "total score": 48.5,
+   "alumni": 30.6,
+   "award": 30.8,
+   "HiCi": 51.4,
+   "N & S": 44.5,
+   "PUB": 76.5,
+   "PCP": 34.1
+},
+ {
+   "World Rank": "14",
+   "Institution": "University of Pennsylvania ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "11"
+   },
+   "total score": 48.5,
+   "alumni": 31.4,
+   "award": 38.8,
+   "HiCi": 47.4,
+   "N & S": 46.6,
+   "PUB": 66.2,
+   "PCP": 40.8
+},
+ {
+   "World Rank": "16",
+   "Institution": "University of California, Los Angeles ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "12"
+   },
+   "total score": 48,
+   "alumni": 29.3,
+   "award": 44.1,
+   "HiCi": 43.1,
+   "N & S": 52.9,
+   "PUB": 64.2,
+   "PCP": 28
+},
+ {
+   "World Rank": "17",
+   "Institution": "University of Washington ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "13"
+   },
+   "total score": 46.2,
+   "alumni": 22.2,
+   "award": 35.5,
+   "HiCi": 42.1,
+   "N & S": 54.5,
+   "PUB": 68.2,
+   "PCP": 25.2
+},
+ {
+   "World Rank": "18",
+   "Institution": "Tsinghua University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "1"
+   },
+   "total score": 46,
+   "alumni": 8.8,
+   "award": 0,
+   "HiCi": 63.5,
+   "N & S": 49.5,
+   "PUB": 88.1,
+   "PCP": 35.4
+},
+ {
+   "World Rank": "19",
+   "Institution": "Johns Hopkins University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "14"
+   },
+   "total score": 45.5,
+   "alumni": 33.4,
+   "award": 33.9,
+   "HiCi": 45.6,
+   "N & S": 38.6,
+   "PUB": 72.2,
+   "PCP": 27.9
+},
+ {
+   "World Rank": "20",
+   "Institution": "University of California, San Diego ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "15"
+   },
+   "total score": 45.3,
+   "alumni": 17.7,
+   "award": 31.7,
+   "HiCi": 49.2,
+   "N & S": 55.8,
+   "PUB": 58.6,
+   "PCP": 31.4
+},
+ {
+   "World Rank": "21",
+   "Institution": "University of California, San Francisco ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "16"
+   },
+   "total score": 44.7,
+   "alumni": 0,
+   "award": 41,
+   "HiCi": 46.5,
+   "N & S": 57.2,
+   "PUB": 57.5,
+   "PCP": 29.6
+},
+ {
+   "World Rank": "22",
+   "Institution": "ETH Zurich ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+   "total score": 44.1,
+   "alumni": 26,
+   "award": 41.4,
+   "HiCi": 28.7,
+   "N & S": 54.1,
+   "PUB": 52.7,
+   "PCP": 47.8
+},
+ {
+   "World Rank": "23",
+   "Institution": "Peking University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "2"
+   },
+   "total score": 42.5,
+   "alumni": 10.2,
+   "award": 0,
+   "HiCi": 47.4,
+   "N & S": 48.8,
+   "PUB": 88.8,
+   "PCP": 32.1
+},
+ {
+   "World Rank": "24",
+   "Institution": "Zhejiang University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "3"
+   },
+   "total score": 42,
+   "alumni": 0,
+   "award": 0,
+   "HiCi": 47.9,
+   "N & S": 42,
+   "PUB": 100,
+   "PCP": 28.3
+},
+ {
+   "World Rank": "25",
+   "Institution": "University of Toronto ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "1"
+   },
+   "total score": 41.5,
+   "alumni": 16.1,
+   "award": 23.9,
+   "HiCi": 38.9,
+   "N & S": 36.2,
+   "PUB": 79.1,
+   "PCP": 30
+},
+ {
+   "World Rank": "26",
+   "Institution": "Imperial College London ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "4"
+   },
+   "total score": 40.4,
+   "alumni": 12.5,
+   "award": 30.6,
+   "HiCi": 39.5,
+   "N & S": 37.8,
+   "PUB": 62.5,
+   "PCP": 39
+},
+ {
+   "World Rank": "26",
+   "Institution": "Washington University in St Louis ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "17"
+   },
+   "total score": 40.4,
+   "alumni": 20.4,
+   "award": 26.8,
+   "HiCi": 47,
+   "N & S": 42.9,
+   "PUB": 51.1,
+   "PCP": 35.6
+},
+ {
+   "World Rank": "28",
+   "Institution": "New York University ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "18"
+   },
+   "total score": 38.9,
+   "alumni": 26,
+   "award": 34.4,
+   "HiCi": 31.6,
+   "N & S": 42,
+   "PUB": 58.1,
+   "PCP": 19.6
+},
+ {
+   "World Rank": "29",
+   "Institution": "Rockefeller University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "19"
+   },
+   "total score": 38.7,
+   "alumni": 15.3,
+   "award": 56.4,
+   "HiCi": 26.3,
+   "N & S": 45.2,
+   "PUB": 14.8,
+   "PCP": 74.5
+},
+ {
+   "World Rank": "30",
+   "Institution": "Shanghai Jiao Tong University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "4"
+   },
+   "total score": 37.7,
+   "alumni": 0,
+   "award": 0,
+   "HiCi": 37.8,
+   "N & S": 33.1,
+   "PUB": 97.8,
+   "PCP": 28.3
+},
+ {
+   "World Rank": "31",
+   "Institution": "Northwestern University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "20"
+   },
+   "total score": 37.5,
+   "alumni": 12.5,
+   "award": 25.3,
+   "HiCi": 39.5,
+   "N & S": 40.5,
+   "PUB": 56.4,
+   "PCP": 28.5
+},
+ {
+   "World Rank": "31",
+   "Institution": "The University of Tokyo ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "1"
+   },
+   "total score": 37.5,
+   "alumni": 35.7,
+   "award": 23,
+   "HiCi": 16.1,
+   "N & S": 46.2,
+   "PUB": 67,
+   "PCP": 23.2
+},
+ {
+   "World Rank": "33",
+   "Institution": "University of Michigan, Ann Arbor ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "21"
+   },
+   "total score": 37.4,
+   "alumni": 36.4,
+   "award": 9.6,
+   "HiCi": 31.6,
+   "N & S": 39.7,
+   "PUB": 71.4,
+   "PCP": 22.2
+},
+ {
+   "World Rank": "34",
+   "Institution": "PSL University ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "2"
+   },
+   "total score": 37.3,
+   "alumni": 49.4,
+   "award": 44.1,
+   "HiCi": 11.4,
+   "N & S": 25.9,
+   "PUB": 50.5,
+   "PCP": 49
+},
+ {
+   "World Rank": "35",
+   "Institution": "University of Copenhagen ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+   "total score": 37.2,
+   "alumni": 18.4,
+   "award": 20.2,
+   "HiCi": 29.4,
+   "N & S": 40.4,
+   "PUB": 63.7,
+   "PCP": 35.6
+},
+ {
+   "World Rank": "36",
+   "Institution": "University of Wisconsin, Madison ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "22"
+   },
+   "total score": 36.4,
+   "alumni": 27.4,
+   "award": 30.6,
+   "HiCi": 25.5,
+   "N & S": 36.1,
+   "PUB": 59,
+   "PCP": 23.5
+},
+ {
+   "World Rank": "37",
+   "Institution": "The University of Edinburgh ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "5"
+   },
+   "total score": 35.7,
+   "alumni": 27.9,
+   "award": 22.1,
+   "HiCi": 38.9,
+   "N & S": 31.4,
+   "PUB": 53.3,
+   "PCP": 27.1
+},
+ {
+   "World Rank": "38",
+   "Institution": "The University of Melbourne ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "1"
+   },
+   "total score": 35.5,
+   "alumni": 14.4,
+   "award": 11.1,
+   "HiCi": 41.1,
+   "N & S": 27.1,
+   "PUB": 70.3,
+   "PCP": 30.5
+},
+ {
+   "World Rank": "39",
+   "Institution": "University of North Carolina at Chapel Hill ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "23"
+   },
+   "total score": 35,
+   "alumni": 7.2,
+   "award": 21.5,
+   "HiCi": 37.2,
+   "N & S": 36,
+   "PUB": 56.7,
+   "PCP": 30.1
+},
+ {
+   "World Rank": "40",
+   "Institution": "University of Science and Technology of China ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "5"
+   },
+   "total score": 34.9,
+   "alumni": 0,
+   "award": 0,
+   "HiCi": 40.6,
+   "N & S": 36.9,
+   "PUB": 76.7,
+   "PCP": 30.8
+},
+ {
+   "World Rank": "41",
+   "Institution": "Fudan University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "6"
+   },
+   "total score": 34.5,
+   "alumni": 0,
+   "award": 0,
+   "HiCi": 38.9,
+   "N & S": 33.6,
+   "PUB": 81,
+   "PCP": 27.5
+},
+ {
+   "World Rank": "42",
+   "Institution": "University of Munich ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "1"
+   },
+   "total score": 34.4,
+   "alumni": 24.4,
+   "award": 18.8,
+   "HiCi": 27.1,
+   "N & S": 33.9,
+   "PUB": 53.6,
+   "PCP": 42.4
+},
+ {
+   "World Rank": "43",
+   "Institution": "Sorbonne University ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "3"
+   },
+   "total score": 34.3,
+   "alumni": 38.7,
+   "award": 22.9,
+   "HiCi": 20.8,
+   "N & S": 30.5,
+   "PUB": 59.2,
+   "PCP": 27.3
+},
+ {
+   "World Rank": "44",
+   "Institution": "Swiss Federal Institute of Technology Lausanne ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "2"
+   },
+   "total score": 34.1,
+   "alumni": 0,
+   "award": 28.5,
+   "HiCi": 27.1,
+   "N & S": 44.2,
+   "PUB": 39,
+   "PCP": 52.7
+},
+ {
+   "World Rank": "45",
+   "Institution": "Technical University of Munich ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "2"
+   },
+   "total score": 33.7,
+   "alumni": 33.4,
+   "award": 16.9,
+   "HiCi": 25.5,
+   "N & S": 28.7,
+   "PUB": 52.8,
+   "PCP": 46.4
+},
+ {
+   "World Rank": "46",
+   "Institution": "Duke University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "24"
+   },
+   "total score": 33.6,
+   "alumni": 19.1,
+   "award": 17.5,
+   "HiCi": 28.7,
+   "N & S": 38.8,
+   "PUB": 58,
+   "PCP": 20.9
+},
+ {
+   "World Rank": "46",
+   "Institution": "Kyoto University ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "2"
+   },
+   "total score": 33.6,
+   "alumni": 33,
+   "award": 38,
+   "HiCi": 18.6,
+   "N & S": 25.8,
+   "PUB": 53.3,
+   "PCP": 21.1
+},
+ {
+   "World Rank": "46",
+   "Institution": "The University of Manchester ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "6"
+   },
+   "total score": 33.6,
+   "alumni": 19.7,
+   "award": 28.5,
+   "HiCi": 22.8,
+   "N & S": 31.7,
+   "PUB": 55.9,
+   "PCP": 28
+},
+ {
+   "World Rank": "49",
+   "Institution": "The University of Texas at Austin ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "25"
+   },
+   "total score": 33.4,
+   "alumni": 22.8,
+   "award": 21.2,
+   "HiCi": 31.6,
+   "N & S": 30.7,
+   "PUB": 53.4,
+   "PCP": 27.9
+},
+ {
+   "World Rank": "50",
+   "Institution": "Karolinska Institute ",
+   "Country": "Sweden",
+   "National": {
+      "Regional Rank": "1"
+   },
+   "total score": 32.9,
+   "alumni": 22.2,
+   "award": 23.3,
+   "HiCi": 21.8,
+   "N & S": 25.6,
+   "PUB": 53.3,
+   "PCP": 49.5
+},
+ {
+   "World Rank": "51",
+   "Institution": "Heidelberg University ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "3"
+   },
+   "total score": 32.7,
+   "alumni": 17.7,
+   "award": 20.7,
+   "HiCi": 22.8,
+   "N & S": 31.6,
+   "PUB": 50.9,
+   "PCP": 48.2
+},
+ {
+   "World Rank": "51",
+   "Institution": "University of Minnesota, Twin Cities ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "26"
+   },
+   "total score": 32.7,
+   "alumni": 25.5,
+   "award": 14.7,
+   "HiCi": 34.2,
+   "N & S": 28.3,
+   "PUB": 57.9,
+   "PCP": 21.6
+},
+ {
+   "World Rank": "53",
+   "Institution": "University of British Columbia ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "2"
+   },
+   "total score": 32.3,
+   "alumni": 13.5,
+   "award": 16.9,
+   "HiCi": 30.9,
+   "N & S": 29.1,
+   "PUB": 61.9,
+   "PCP": 22.8
+},
+ {
+   "World Rank": "53",
+   "Institution": "University of Illinois Urbana, Champaign ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "27"
+   },
+   "total score": 32.3,
+   "alumni": 25,
+   "award": 32.3,
+   "HiCi": 17.4,
+   "N & S": 31.4,
+   "PUB": 50.5,
+   "PCP": 25.1
+},
+ {
+   "World Rank": "55",
+   "Institution": "University of Maryland, College Park ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "28"
+   },
+   "total score": 32.2,
+   "alumni": 16.9,
+   "award": 18.1,
+   "HiCi": 33.5,
+   "N & S": 34.7,
+   "PUB": 46.2,
+   "PCP": 30.7
+},
+ {
+   "World Rank": "56",
+   "Institution": "National University of Singapore ",
+   "Country": "Singapore",
+   "National": {
+      "Regional Rank": "1"
+   },
+   "total score": 32.1,
+   "alumni": 0,
+   "award": 0,
+   "HiCi": 43.6,
+   "N & S": 30.1,
+   "PUB": 64.5,
+   "PCP": 35.1
+},
+ {
+   "World Rank": "56",
+   "Institution": "Utrecht University ",
+   "Country": "Netherlands",
+   "National": {
+      "Regional Rank": "1"
+   },
+   "total score": 32.1,
+   "alumni": 20.4,
+   "award": 16.9,
+   "HiCi": 35.4,
+   "N & S": 24.9,
+   "PUB": 55.1,
+   "PCP": 26.3
+},
+ {
+   "World Rank": "58",
+   "Institution": "University of Geneva ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "3"
+   },
+   "total score": 31.9,
+   "alumni": 36.8,
+   "award": 36.5,
+   "HiCi": 13.2,
+   "N & S": 27.1,
+   "PUB": 41,
+   "PCP": 36.8
+},
+ {
+   "World Rank": "58",
+   "Institution": "University of Texas Southwestern Medical Center ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "29"
+   },
+   "total score": 31.9,
+   "alumni": 16.9,
+   "award": 30.8,
+   "HiCi": 28.7,
+   "N & S": 35,
+   "PUB": 39.1,
+   "PCP": 25.1
+},
+ {
+   "World Rank": "60",
+   "Institution": "Universit� Paris Cit� ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "4"
+   },
+   "total score": 31.8,
+   "alumni": 14.8,
+   "award": 9.9,
+   "HiCi": 34.8,
+   "N & S": 31.2,
+   "PUB": 58.7,
+   "PCP": 25.1
+},
+ {
+   "World Rank": "61",
+   "Institution": "King's College London ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "7"
+   },
+   "total score": 31.7,
+   "alumni": 22.8,
+   "award": 16.5,
+   "HiCi": 37.8,
+   "N & S": 18.6,
+   "PUB": 55.6,
+   "PCP": 27.3
+},
+ {
+   "World Rank": "62",
+   "Institution": "University of Colorado Boulder ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "30-31"
+   },
+   "total score": 30.9,
+   "alumni": 11.4,
+   "award": 30.7,
+   "HiCi": 20.8,
+   "N & S": 34.9,
+   "PUB": 41.9,
+   "PCP": 31.8
+},
+ {
+   "World Rank": "62",
+   "Institution": "Vanderbilt University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "30-31"
+   },
+   "total score": 30.9,
+   "alumni": 20.4,
+   "award": 25.5,
+   "HiCi": 24.6,
+   "N & S": 23.5,
+   "PUB": 49.4,
+   "PCP": 33.5
+},
+ {
+   "World Rank": "64",
+   "Institution": "University of Zurich ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "4"
+   },
+   "total score": 30.8,
+   "alumni": 0,
+   "award": 20.2,
+   "HiCi": 25.5,
+   "N & S": 32.9,
+   "PUB": 52.8,
+   "PCP": 35.9
+},
+ {
+   "World Rank": "65",
+   "Institution": "Sun Yat-sen University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "7"
+   },
+   "total score": 30.6,
+   "alumni": 0,
+   "award": 0,
+   "HiCi": 27.9,
+   "N & S": 20.4,
+   "PUB": 87.6,
+   "PCP": 25.4
+},
+ {
+   "World Rank": "65",
+   "Institution": "The University of Queensland ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "2"
+   },
+   "total score": 30.6,
+   "alumni": 11.4,
+   "award": 0,
+   "HiCi": 41.1,
+   "N & S": 23.9,
+   "PUB": 61.3,
+   "PCP": 33
+},
+ {
+   "World Rank": "67",
+   "Institution": "The University of Hong Kong ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+   "total score": 30.5,
+   "alumni": 0,
+   "award": 0,
+   "HiCi": 48.3,
+   "N & S": 28.4,
+   "PUB": 56.3,
+   "PCP": 29.6
+},
+ {
+   "World Rank": "68",
+   "Institution": "University of Bonn ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "4"
+   },
+   "total score": 30.1,
+   "alumni": 29.7,
+   "award": 32.3,
+   "HiCi": 17.4,
+   "N & S": 20.4,
+   "PUB": 40.7,
+   "PCP": 40.4
+},
+ {
+   "World Rank": "68",
+   "Institution": "University of Southern California ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "32"
+   },
+   "total score": 30.1,
+   "alumni": 0,
+   "award": 28.5,
+   "HiCi": 29.4,
+   "N & S": 24.4,
+   "PUB": 51.6,
+   "PCP": 24
+},
+ {
+   "World Rank": "70",
+   "Institution": "University of California, Santa Barbara ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "33"
+   },
+   "total score": 30,
+   "alumni": 13.5,
+   "award": 35.2,
+   "HiCi": 16.1,
+   "N & S": 36.9,
+   "PUB": 32.9,
+   "PCP": 34.8
+},
+ {
+   "World Rank": "71",
+   "Institution": "Weizmann Institute of Science ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+   "total score": 29.7,
+   "alumni": 16.1,
+   "award": 14.7,
+   "HiCi": 34.2,
+   "N & S": 40.8,
+   "PUB": 23.5,
+   "PCP": 45.2
+},
+ {
+   "World Rank": "72",
+   "Institution": "University of Sydney ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "3"
+   },
+   "total score": 29.2,
+   "alumni": 12.5,
+   "award": 0,
+   "HiCi": 34.8,
+   "N & S": 22,
+   "PUB": 64.6,
+   "PCP": 28
+},
+ {
+   "World Rank": "73",
+   "Institution": "Huazhong University of Science and Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "8"
+   },
+   "total score": 29,
+   "alumni": 0,
+   "award": 0,
+   "HiCi": 30.2,
+   "N & S": 20.2,
+   "PUB": 78.9,
+   "PCP": 23.1
+},
+ {
+   "World Rank": "73",
+   "Institution": "University of Groningen ",
+   "Country": "Netherlands",
+   "National": {
+      "Regional Rank": "2"
+   },
+   "total score": 29,
+   "alumni": 12.5,
+   "award": 22.1,
+   "HiCi": 22.8,
+   "N & S": 22.9,
+   "PUB": 53.2,
+   "PCP": 26.6
+},
+ {
+   "World Rank": "75",
+   "Institution": "Nanjing University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "9"
+   },
+   "total score": 28.8,
+   "alumni": 0,
+   "award": 0,
+   "HiCi": 29.4,
+   "N & S": 29.6,
+   "PUB": 67.7,
+   "PCP": 26.4
+},
+ {
+   "World Rank": "76",
+   "Institution": "KU Leuven ",
+   "Country": "Belgium",
+   "National": {
+      "Regional Rank": "1"
+   },
+   "total score": 28.6,
+   "alumni": 0,
+   "award": 0,
+   "HiCi": 34.2,
+   "N & S": 29.5,
+   "PUB": 58.7,
+   "PCP": 33
+},
+ {
+   "World Rank": "76",
+   "Institution": "McGill University ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "3"
+   },
+   "total score": 28.6,
+   "alumni": 28.8,
+   "award": 0,
+   "HiCi": 25.5,
+   "N & S": 28.8,
+   "PUB": 57.2,
+   "PCP": 26
+},
+ {
+   "World Rank": "76",
+   "Institution": "Monash University ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "4"
+   },
+   "total score": 28.6,
+   "alumni": 0,
+   "award": 0,
+   "HiCi": 30.9,
+   "N & S": 27.3,
+   "PUB": 65.4,
+   "PCP": 30
+},
+ {
+   "World Rank": "79",
+   "Institution": "University of California, Irvine ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "34"
+   },
+   "total score": 28.5,
+   "alumni": 14.4,
+   "award": 26.3,
+   "HiCi": 20.8,
+   "N & S": 26.8,
+   "PUB": 45.3,
+   "PCP": 23.3
+},
+ {
+   "World Rank": "80",
+   "Institution": "The University of New South Wales ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "5"
+   },
+   "total score": 28.4,
+   "alumni": 0,
+   "award": 0,
+   "HiCi": 36.6,
+   "N & S": 25.3,
+   "PUB": 61.3,
+   "PCP": 29.4
+},
+ {
+   "World Rank": "81",
+   "Institution": "Seoul National University ",
+   "Country": "South Korea",
+   "National": {
+      "Regional Rank": "1"
+   },
+   "total score": 28.3,
+   "alumni": 15.3,
+   "award": 0,
+   "HiCi": 23.7,
+   "N & S": 25.3,
+   "PUB": 67.6,
+   "PCP": 25.8
+},
+ {
+   "World Rank": "81",
+   "Institution": "Wuhan University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "10"
+   },
+   "total score": 28.3,
+   "alumni": 0,
+   "award": 0,
+   "HiCi": 31.6,
+   "N & S": 24.2,
+   "PUB": 71.5,
+   "PCP": 20.6
+},
+ {
+   "World Rank": "83",
+   "Institution": "Ohio State University, Columbus ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "35"
+   },
+   "total score": 28.2,
+   "alumni": 10.2,
+   "award": 16.5,
+   "HiCi": 24.6,
+   "N & S": 21.6,
+   "PUB": 60.7,
+   "PCP": 16.4
+},
+ {
+   "World Rank": "83",
+   "Institution": "University of Oslo ",
+   "Country": "Norway",
+   "National": {
+      "Regional Rank": "1"
+   },
+   "total score": 28.2,
+   "alumni": 24.4,
+   "award": 28.5,
+   "HiCi": 16.1,
+   "N & S": 14.4,
+   "PUB": 51.6,
+   "PCP": 27.7
+},
+ {
+   "World Rank": "85",
+   "Institution": "Aarhus University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "2"
+   },
+   "total score": 28.1,
+   "alumni": 10.2,
+   "award": 19.8,
+   "HiCi": 17.4,
+   "N & S": 26.7,
+   "PUB": 53.3,
+   "PCP": 27.6
+},
+ {
+   "World Rank": "86",
+   "Institution": "The University of Texas MD Anderson Cancer Center ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "36"
+   },
+   "total score": 28,
+   "alumni": 0,
+   "award": 13.5,
+   "HiCi": 36,
+   "N & S": 22.9,
+   "PUB": 36.2,
+   "PCP": 54.2
+},
+ {
+   "World Rank": "87",
+   "Institution": "Sichuan University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "11"
+   },
+   "total score": 27.7,
+   "alumni": 0,
+   "award": 0,
+   "HiCi": 22.8,
+   "N & S": 17,
+   "PUB": 82.9,
+   "PCP": 23.1
+},
+ {
+   "World Rank": "88",
+   "Institution": "Nanyang Technological University ",
+   "Country": "Singapore",
+   "National": {
+      "Regional Rank": "2"
+   },
+   "total score": 27.4,
+   "alumni": 0,
+   "award": 0,
+   "HiCi": 40.6,
+   "N & S": 22.4,
+   "PUB": 54.8,
+   "PCP": 30.2
+},
+ {
+   "World Rank": "88",
+   "Institution": "The Hebrew University of Jerusalem ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "2"
+   },
+   "total score": 27.4,
+   "alumni": 29.3,
+   "award": 25.5,
+   "HiCi": 13.2,
+   "N & S": 24.3,
+   "PUB": 40.6,
+   "PCP": 29.7
+},
+ {
+   "World Rank": "88",
+   "Institution": "University of Pittsburgh ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "37"
+   },
+   "total score": 27.4,
+   "alumni": 16.1,
+   "award": 0,
+   "HiCi": 34.2,
+   "N & S": 25.5,
+   "PUB": 56.5,
+   "PCP": 17.7
+},
+ {
+   "World Rank": "91",
+   "Institution": "Ghent University ",
+   "Country": "Belgium",
+   "National": {
+      "Regional Rank": "2"
+   },
+   "total score": 27.2,
+   "alumni": 0,
+   "award": 9,
+   "HiCi": 32.2,
+   "N & S": 20,
+   "PUB": 54.2,
+   "PCP": 32.7
+},
+ {
+   "World Rank": "92",
+   "Institution": "Xi'an Jiaotong University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "12"
+   },
+   "total score": 27.1,
+   "alumni": 0,
+   "award": 0,
+   "HiCi": 24.6,
+   "N & S": 15.9,
+   "PUB": 79.7,
+   "PCP": 22.6
+},
+ {
+   "World Rank": "93",
+   "Institution": "Uppsala University ",
+   "Country": "Sweden",
+   "National": {
+      "Regional Rank": "2"
+   },
+   "total score": 27,
+   "alumni": 19.7,
+   "award": 20.2,
+   "HiCi": 11.4,
+   "N & S": 26.8,
+   "PUB": 49.5,
+   "PCP": 26.8
+},
+ {
+   "World Rank": "94",
+   "Institution": "University of Basel ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "5"
+   },
+   "total score": 26.8,
+   "alumni": 21,
+   "award": 13.8,
+   "HiCi": 18.6,
+   "N & S": 28.6,
+   "PUB": 39.2,
+   "PCP": 38.5
+},
+ {
+   "World Rank": "94",
+   "Institution": "University of Helsinki ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+   "total score": 26.8,
+   "alumni": 15.3,
+   "award": 15.6,
+   "HiCi": 17.4,
+   "N & S": 24.3,
+   "PUB": 51.8,
+   "PCP": 26.4
+},
+ {
+   "World Rank": "96",
+   "Institution": "Central South University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "13"
+   },
+   "total score": 26.6,
+   "alumni": 0,
+   "award": 0,
+   "HiCi": 25.5,
+   "N & S": 10.5,
+   "PUB": 80.9,
+   "PCP": 24
+},
+ {
+   "World Rank": "97",
+   "Institution": "Technion-Israel Institute of Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "3"
+   },
+   "total score": 26.5,
+   "alumni": 21.6,
+   "award": 34.2,
+   "HiCi": 11.4,
+   "N & S": 20.4,
+   "PUB": 33.1,
+   "PCP": 37.9
+},
+ {
+   "World Rank": "98",
+   "Institution": "University of Bristol ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "8"
+   },
+   "total score": 26.4,
+   "alumni": 5.1,
+   "award": 12.8,
+   "HiCi": 27.9,
+   "N & S": 27.3,
+   "PUB": 44.4,
+   "PCP": 26.6
+},
+ {
+   "World Rank": "99",
+   "Institution": "City University of Hong Kong ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "2"
+   },
+   "total score": 26.3,
+   "alumni": 0,
+   "award": 0,
+   "HiCi": 40,
+   "N & S": 21.1,
+   "PUB": 50.5,
+   "PCP": 31.6
+},
+ {
+   "World Rank": "100",
+   "Institution": "Stockholm University ",
+   "Country": "Sweden",
+   "National": {
+      "Regional Rank": "3"
+   },
+   "total score": 26.1,
+   "alumni": 20.4,
+   "award": 22.1,
+   "HiCi": 14.7,
+   "N & S": 27.3,
+   "PUB": 39.6,
+   "PCP": 25.9
+},
+ {
+   "World Rank": "101-150",
+   "Institution": "Beihang University",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "14-27"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Beijing Institute of Technology",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "14-27"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Beijing Normal University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "14-27"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Boston University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "38-48"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Brown University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "38-48"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Carnegie Mellon University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "38-48"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Emory University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "38-48"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Erasmus University Rotterdam ",
+   "Country": "Netherlands",
+   "National": {
+      "Regional Rank": "03-Jun"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Harbin Institute of Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "14-27"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Icahn School of Medicine at Mount Sinai ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "38-48"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Indiana University, Bloomington ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "38-48"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Institute of Science Tokyo ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "03-Apr"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Jilin University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "14-27"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "King Saud University ",
+   "Country": "Saudi Arabia",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Leiden University ",
+   "Country": "Netherlands",
+   "National": {
+      "Regional Rank": "03-Jun"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Lund University ",
+   "Country": "Sweden",
+   "National": {
+      "Regional Rank": "4"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Mayo Clinic College of Medicine and Science, Minnesota ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "38-48"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "McMaster University ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "04-May"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Moscow State University ",
+   "Country": "Russia",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Nagoya University ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "03-Apr"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Northwestern Polytechnical University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "14-27"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Pennsylvania State University, University Park ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "38-48"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Purdue University, West Lafayette ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "38-48"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Radboud University Nijmegen ",
+   "Country": "Netherlands",
+   "National": {
+      "Regional Rank": "03-Jun"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Rice University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "38-48"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Sapienza University of Rome ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Shandong University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "14-27"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Soochow University (China) ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "14-27"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "South China University of Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "14-27"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Southeast University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "14-27"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Southern University of Science and Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "14-27"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "The Australian National University ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "06-Jul"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "The Chinese University of Hong Kong ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "3"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "The University of Warwick ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "09-Dec"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "The University of Western Australia ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "06-Jul"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Tianjin University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "14-27"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Tongji University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "14-27"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Universit� libre de Bruxelles (ULB) ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "3"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "University of Alberta ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "04-May"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "University of Amsterdam ",
+   "Country": "Netherlands",
+   "National": {
+      "Regional Rank": "03-Jun"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "University of California, Davis ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "38-48"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "University of Freiburg ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "5"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "University of Glasgow ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "09-Dec"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "University of Lausanne ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "6"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "University of Liverpool ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "09-Dec"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "University of Nottingham ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "09-Dec"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "University of Sao Paulo ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "University of Strasbourg ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "5"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "University of Vienna ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "101-150",
+   "Institution": "Xiamen University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "14-27"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Aix Marseille University ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "06-Aug"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Arizona State University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "49-58"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Case Western Reserve University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "49-58"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "China Agricultural University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "28-35"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Chongqing University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "28-35"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Dalian University of Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "28-35"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Delft University of Technology ",
+   "Country": "Netherlands",
+   "National": {
+      "Regional Rank": "07-Sep"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Georgia Institute of Technology ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "49-58"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Goethe University Frankfurt ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "06-Nov"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Hunan University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "28-35"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Michigan State University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "49-58"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Nankai University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "28-35"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "NTNU - Norwegian University of Science and Technology ",
+   "Country": "Norway",
+   "National": {
+      "Regional Rank": "2"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Peking Union Medical College ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "28-35"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Rutgers, The State University of New Jersey - New Brunswick ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "49-58"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Sungkyunkwan University ",
+   "Country": "South Korea",
+   "National": {
+      "Regional Rank": "02-Mar"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Technical University of Denmark ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "3"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "The Hong Kong Polytechnic University ",
+   "Country": "Hong Kong",
+   "National": {
+      "Regional Rank": "4"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "The London School of Economics and Political Science ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "13-18"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "The University of Adelaide ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "8"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "The University of Calgary ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "06-Aug"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "The University of Sheffield ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "13-18"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Universit� Grenoble Alpes ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "06-Aug"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Arizona ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "49-58"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Barcelona ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Bern ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "7"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Birmingham ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "13-18"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of California, Santa Cruz ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "49-58"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Cologne ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "06-Nov"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Electronic Science and Technology of China ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "28-35"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Exeter ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "13-18"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Florida ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "49-58"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Goettingen ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "06-Nov"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Gothenburg ",
+   "Country": "Sweden",
+   "National": {
+      "Regional Rank": "5"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Leeds ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "13-18"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Mainz ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "06-Nov"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Massachusetts Chan Medical School ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "49-58"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Milan ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "02-Mar"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Montpellier ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "06-Aug"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Montreal ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "06-Aug"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Muenster ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "06-Nov"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Padua ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "02-Mar"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Southampton ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "13-18"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Tuebingen ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "06-Nov"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Utah ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "49-58"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "University of Waterloo ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "06-Aug"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Vrije Universiteit Amsterdam ",
+   "Country": "Belgium",
+   "National": {
+      "Regional Rank": "07-Sep"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Wageningen University & Research ",
+   "Country": "Netherlands",
+   "National": {
+      "Regional Rank": "07-Sep"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Yonsei University ",
+   "Country": "South Korea",
+   "National": {
+      "Regional Rank": "02-Mar"
+   },
+ {
+   "World Rank": "151-200",
+   "Institution": "Zhengzhou University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "28-35"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Baylor College of Medicine ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Beijing University of Chemical Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "36-54"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Beijing University of Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "36-54"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Capital Medical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "36-54"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Cardiff University ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "19-26"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Catholic University of Louvain ",
+   "Country": "Belgium",
+   "National": {
+      "Regional Rank": "4"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "China University of Geosciences ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "36-54"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Claude Bernard University Lyon 1 ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "09-Dec"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Curtin University ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "Sep-13"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Deakin University ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "Sep-13"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Dresden University of Technology ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "Dec-21"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Durham University ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "19-26"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "East China Normal University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "36-54"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "East China University of Science and Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "36-54"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "George Mason University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Hanyang University ",
+   "Country": "South Korea",
+   "National": {
+      "Regional Rank": "04-Jun"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Heinrich Heine University Duesseldorf ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "Dec-21"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Hokkaido University ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "05-Oct"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Huazhong Agricultural University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "36-54"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Institut polytechnique de Paris ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "09-Dec"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Keio University ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "05-Oct"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Kiel University ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "Dec-21"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "King Abdullah University of Science and Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "2"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Korea Advanced Institute of Science and Technology ",
+   "Country": "South Korea",
+   "National": {
+      "Regional Rank": "04-Jun"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Korea University ",
+   "Country": "South Korea",
+   "National": {
+      "Regional Rank": "04-Jun"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "KTH Royal Institute of Technology ",
+   "Country": "Sweden",
+   "National": {
+      "Regional Rank": "6"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Kyushu University ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "05-Oct"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Lanzhou University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "36-54"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "London School of Hygiene & Tropical Medicine ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "19-26"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Macquarie University ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "Sep-13"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Medical University of Vienna ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "02-Apr"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Nanjing Agricultural University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "36-54"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Nanjing Medical University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "36-54"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Nanjing University of Aeronautics and Astronautics ",
+   "Country": "New Zealand",
+   "National": {
+      "Regional Rank": "36-54"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Nanjing University of Science & Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "36-54"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "National Autonomous University of Mexico ",
+   "Country": "New Zealand",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "National Taiwan University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Newcastle University ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "19-26"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "North Carolina State University at Raleigh ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Northeastern University (Boston) ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Northeastern University (Shenyang) ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "36-54"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Northwest A&F University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "36-54"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Oregon Health & Science University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Oregon State University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Osaka University ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "05-Oct"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Queen Mary University of London ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "19-26"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Queen's University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "09-Oct"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Ruhr University Bochum ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "Dec-21"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "RWTH Aachen University ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "Dec-21"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Shanghai University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "36-54"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Shenzhen University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "36-54"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Southern Medical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "36-54"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Swinburne University of Technology ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "Sep-13"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Technical University of Berlin ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "Dec-21"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Tel Aviv University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "4"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Texas A&M University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "The Hong Kong University of Science and Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "5"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "The University of Auckland ",
+   "Country": "New Zealand",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "The University of Tennessee, Knoxville ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "The University of Texas Health Science Center at Houston ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Tohoku University ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "05-Oct"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Trinity College Dublin ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Tufts University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Aberdeen ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "19-26"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Bergen ",
+   "Country": "Norway",
+   "National": {
+      "Regional Rank": "3"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Bologna ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "04-Jul"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Bordeaux ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "09-Dec"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Buenos Aires ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of California, Riverside ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Cape Town ",
+   "Country": "South Africa",
+   "National": {
+      "Regional Rank": "01-Feb"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Colorado at Denver ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Connecticut ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Delaware ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Erlangen-Nuremberg ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "Dec-21"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Hamburg ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "Dec-21"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Houston ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Innsbruck ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "02-Apr"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Leipzig ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "Dec-21"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Lisbon ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "01-Feb"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Lorraine ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "09-Dec"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Massachusetts, Amherst ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Missouri, Columbia ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Naples Federico II ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "04-Jul"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Ottawa ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "09-Oct"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Pisa ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "04-Jul"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Porto ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "01-Feb"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Rochester ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Science and Technology Beijing ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "36-54"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Sussex ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "19-26"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Technology Sydney ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "Sep-13"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of the Witwatersrand ",
+   "Country": "South Africa",
+   "National": {
+      "Regional Rank": "01-Feb"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Tsukuba ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "05-Oct"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Turin ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "04-Jul"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Valencia ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "2"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Virginia ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of Wuerzburg ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "Dec-21"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "University of York ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "19-26"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Vienna University of Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "02-Apr"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Virginia Polytechnic Institute and State University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "59-78"
+   },
+ {
+   "World Rank": "201-300",
+   "Institution": "Wuhan University of Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "36-54"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Aalborg University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "04-May"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Albert Einstein College of Medicine ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "79-96"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Anhui University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Autonomous University of Barcelona ",
+   "Country": "New Zealand",
+   "National": {
+      "Regional Rank": "03-Aug"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Autonomous University of Madrid ",
+   "Country": "New Zealand",
+   "National": {
+      "Regional Rank": "03-Aug"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Ben-Gurion University of the Negev ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "5"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Brandeis University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "79-96"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Chalmers University of Technology ",
+   "Country": "Sweden",
+   "National": {
+      "Regional Rank": "07-Aug"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Charles University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "China University of Petroleum (East China) ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Colorado State University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "79-96"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Complutense University of Madrid ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "03-Aug"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Dalhousie University ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "Nov-15"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Dartmouth College ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "79-96"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Ecole Normale Superieure - Lyon ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "13-14"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Eindhoven University of Technology ",
+   "Country": "Netherlands",
+   "National": {
+      "Regional Rank": "10-Nov"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Florida State University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "79-96"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Fujian Medical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Fuzhou University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "George Washington University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "79-96"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Griffith University ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "14-20"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Guangdong University of Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Guangxi University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Guangzhou Medical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Henan University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Jiangnan University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Jiangsu University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Jinan University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Karlsruhe Institute of Technology (KIT) ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "22-27"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Kunming University of Science and Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Kyung Hee University ",
+   "Country": "South Korea",
+   "National": {
+      "Regional Rank": "07-Sep"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "La Trobe University ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "14-20"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Lancaster University ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "27-32"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Laval University ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "Nov-15"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Linkoping University ",
+   "Country": "Sweden",
+   "National": {
+      "Regional Rank": "07-Aug"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Maastricht University ",
+   "Country": "Netherlands",
+   "National": {
+      "Regional Rank": "10-Nov"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Nanchang University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Nanjing Tech University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Nanjing University of Information Science & Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Nanjing University of Posts and Telecommunications ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Ocean University of China ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Paul Sabatier University (Toulouse 3) ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "13-14"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Pohang University of Science and Technology ",
+   "Country": "South Korea",
+   "National": {
+      "Regional Rank": "07-Sep"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Polytechnic University of Milan ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "08-Dec"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Pompeu Fabra University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "03-Aug"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Princess Nourah bint Abdulrahman University ",
+   "Country": "Saudi Arabia",
+   "National": {
+      "Regional Rank": "3"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Qingdao University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Queen's University Belfast ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "27-32"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Queensland University of Technology ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "14-20"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Renmin University of China ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "RMIT University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "14-20"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "ShanghaiTech University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "South China Agricultural University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Southwest Jiaotong University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Stony Brook University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "79-96"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "The University of Georgia ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "79-96"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Ulsan National Institute of Science and Technology ",
+   "Country": "South Korea",
+   "National": {
+      "Regional Rank": "07-Sep"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University College Cork ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "02-Mar"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University College Dublin ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "02-Mar"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Alabama at Birmingham ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "79-96"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Antwerp ",
+   "Country": "Belgium",
+   "National": {
+      "Regional Rank": "05-Jun"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Cincinnati ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "79-96"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Duisburg-Essen ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "22-27"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Dundee ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "27-32"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of East Anglia ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "27-32"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Florence ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "08-Dec"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Genoa ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "08-Dec"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Granada ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "03-Aug"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Hawaii at Manoa ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "79-96"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Iowa ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "79-96"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Kansas ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "79-96"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Kentucky ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "79-96"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Leicester ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "27-32"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Macau ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Manitoba ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "Nov-15"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Marburg ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "22-27"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Miami ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "79-96"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Milano-Bicocca ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "08-Dec"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Nebraska, Lincoln ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "79-96"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Notre Dame ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "79-96"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Potsdam ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "22-27"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Shanghai for Science and Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Southern Denmark ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "04-May"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of St Andrews ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "27-32"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Stuttgart ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "22-27"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Tasmania ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "14-20"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of the Basque Country ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "03-Aug"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Trento ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "08-Dec"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Ulm ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "22-27"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Victoria ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "Nov-15"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "University of Wollongong ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "14-20"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Virginia Commonwealth University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "79-96"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Vrije Universiteit Brussel ",
+   "Country": "Belgium",
+   "National": {
+      "Regional Rank": "05-Jun"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Western Sydney University ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "14-20"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Western University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "Nov-15"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Westlake University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Xidian University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Yangzhou University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Yunnan University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "301-400",
+   "Institution": "Zhejiang University of Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "55-82"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Aalto University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "02-Apr"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Anhui Medical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "83-101"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Cairo University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Catholic University of the Sacred Heart ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "13-18"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "China Medical University (Taichung) ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "02-May"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "China University of Geosciences Beijing ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "83-101"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "China University of Mining and Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "83-101"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "CUNY Graduate School and University Center ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "97-111"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Donghua University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "83-101"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Flinders University ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "21-24"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Fujian Agriculture and Forestry University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "83-101"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Georgetown University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "97-111"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Guangzhou University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "83-101"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Guizhou University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "83-101"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Hainan University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "83-101"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Hannover Medical School ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "28-35"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Hefei University of Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "83-101"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Hiroshima University ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "Nov-13"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Hohai University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "83-101"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Indiana University, Indianapolis ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "97-111"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Iowa State University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "97-111"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "James Cook University ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "21-24"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "King Khalid University ",
+   "Country": "Saudi Arabia",
+   "National": {
+      "Regional Rank": "4"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Kyungpook National University ",
+   "Country": "South Korea",
+   "National": {
+      "Regional Rank": "10-Dec"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Leibniz University Hannover ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "28-35"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Louisiana State University, Baton Rouge ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "97-111"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Macau University of Science and Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "2"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Masaryk University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "2"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Medical University of Graz ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "05-Jun"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Medical University of Innsbruck ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "05-Jun"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Nanjing Normal University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "83-101"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Nanjing University of Chinese Medicine ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "83-101"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "National Cheng Kung University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "02-May"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "National Tsing Hua University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "02-May"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "National University of Defense Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "83-101"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "National Yang Ming Chiao Tung University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "02-May"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Ningbo University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "83-101"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Northwest University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "83-101"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Okinawa Institute of Science and Technology Graduate University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "Nov-13"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Osaka Metropolitan University ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "Nov-13"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Polytechnic University of Valencia ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "09-Oct"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Pusan National University ",
+   "Country": "South Korea",
+   "National": {
+      "Regional Rank": "10-Dec"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Saarland University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "28-35"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Sao Paulo State University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "02-Mar"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Sejong University ",
+   "Country": "South Korea",
+   "National": {
+      "Regional Rank": "10-Dec"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Simon Fraser University ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "16-17"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "South China Normal University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "83-101"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Southwest University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "83-101"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "St Petersburg University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "2"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Stellenbosch University ",
+   "Country": "South Africa",
+   "National": {
+      "Regional Rank": "3"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Swedish University of Agricultural Sciences ",
+   "Country": "Russia",
+   "National": {
+      "Regional Rank": "09-Oct"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Technical University Darmstadt ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "28-35"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Tehran University of Medical Sciences ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "01-Feb"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Temple University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "97-111"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "The Chinese University of Hong Kong, Shenzhen ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "83-101"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "The University of Newcastle, Australia ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "21-24"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "The University of Reading ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "33-37"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "The University of Texas at Dallas ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "97-111"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Toulouse Capitole University ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "15-18"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Umea University ",
+   "Country": "Sweden",
+   "National": {
+      "Regional Rank": "09-Oct"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Aveiro ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "3"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Bari ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "13-18"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Bath ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "33-37"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Bayreuth ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "28-35"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Belgrade ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Campinas ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "02-Mar"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Canterbury ",
+   "Country": "New Zealand",
+   "National": {
+      "Regional Rank": "02-Apr"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Central Florida ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "97-111"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of C�te d'Azur ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "15-18"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Essex ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "33-37"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Illinois Chicago ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "97-111"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Jena ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "28-35"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Kent ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "33-37"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Konstanz ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "28-35"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Liege ",
+   "Country": "Belgium",
+   "National": {
+      "Regional Rank": "7"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Lille ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "15-18"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Maryland, Baltimore ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "97-111"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Oklahoma, Norman ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "97-111"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Otago ",
+   "Country": "New Zealand",
+   "National": {
+      "Regional Rank": "02-Apr"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Oulu ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "02-Apr"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Pavia ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "13-18"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Regensburg ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "28-35"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Rennes ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "15-18"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Rome Tor Vergata ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "13-18"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Saskatchewan ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "16-17"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Seville ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "09-Oct"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of South Australia ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "21-24"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of South Carolina, Columbia ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "97-111"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of South Florida ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "97-111"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Surrey ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "33-37"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Szeged ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Tehran ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "01-Feb"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Turku ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "02-Apr"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Vermont ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "97-111"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Verona ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "13-18"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "University of Warsaw ",
+   "Country": "Poland",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Victoria University of Wellington ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "02-Apr"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Vita-Salute San Raffaele University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "13-18"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Washington State University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "97-111"
+   },
+ {
+   "World Rank": "401-500",
+   "Institution": "Wenzhou Medical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "83-101"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Alexandria University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "2"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Aristotle University of Thessaloniki ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "01-Feb"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Auburn University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Bangor University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "38"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Bar-Ilan University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "6"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Beijing Jiaotong University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Boston College ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Carleton University ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "18-19"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Central China Normal University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Changzhou University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "China University of Petroleum, Beijing ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Chongqing Medical University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Drexel University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Eotvos Lorand University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "2"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Federal University of Minas Gerais ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "04-May"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Federal University of Rio de Janeiro ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "04-May"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Fujian Normal University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Hangzhou Dianzi University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Hangzhou Normal University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Harbin Engineering University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Hebei University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Hebei University of Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Indian Institute of Science ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "01-Feb"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Istanbul University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Jagiellonian University ",
+   "Country": "Poland",
+   "National": {
+      "Regional Rank": "2"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Jiangsu University of Science and Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "King Abdulaziz University ",
+   "Country": "Saudi Arabia",
+   "National": {
+      "Regional Rank": "5"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Kobe University ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "14-15"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Medical College of Wisconsin ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Medical University of South Carolina ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Murdoch University ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "25"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Nanjing Forestry University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "National and Kapodistrian University of Athens ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "01-Feb"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "National Polytechnic Institute ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "2"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "National Sun Yat-Sen University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "6"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "North China Electric Power University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Northeast Agricultural University ",
+   "Country": "Russia",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Northeast Normal University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Northern Arizona University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Okayama University ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "14-15"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Pontifical Catholic University of Chile ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "01-Feb"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Qatar University ",
+   "Country": "Qatar",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Saint Louis University (USA) ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "San Diego State University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Shaanxi Normal University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Shandong Agricultural University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Shandong University of Science and Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Shanxi University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Tampere University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "5"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Texas Tech University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "The City College of New York ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "The University of New Mexico, Albuquerque ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "The University of Texas Health Science Center at San Antonio ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "The University of Texas Medical Branch at Galveston ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Tianjin Medical University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Tulane University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "UiT The Arctic University of Norway ",
+   "Country": "Norway",
+   "National": {
+      "Regional Rank": "4"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University at Buffalo, the State University of New York ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Arkansas at Fayetteville ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Bremen ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "36-40"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of California, Merced ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Campania Luigi Vanvitelli ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "19-22"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Catania ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "19-22"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Chile ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "01-Feb"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Coimbra ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "04-May"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Fribourg ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "8"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Galway ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "4"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Giessen ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "36-40"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Guelph ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "18-19"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Halle-Wittenberg ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "36-40"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Johannesburg ",
+   "Country": "South Africa",
+   "National": {
+      "Regional Rank": "04-May"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Ljubljana ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Luebeck ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "36-40"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Maine ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Minho ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "04-May"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Nantes ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "19"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Navarra ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "Nov-14"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Nevada, Las Vegas ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Nevada, Reno ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Oregon ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Parma ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "19-22"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Perugia ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "19-22"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Pretoria ",
+   "Country": "South Africa",
+   "National": {
+      "Regional Rank": "04-May"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Rostock ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "36-40"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Salamanca ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "Nov-14"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Santiago Compostela ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "Nov-14"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Tartu ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Twente ",
+   "Country": "Netherlands",
+   "National": {
+      "Regional Rank": "12"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Ulsan ",
+   "Country": "South Korea",
+   "National": {
+      "Regional Rank": "13-14"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "University of Zaragoza ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "Nov-14"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Utah State University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Vellore Institute of Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "01-Feb"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Vilnius University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Wake Forest University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Wenzhou University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "West Virginia University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "112-135"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Xi'an University of Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Yanshan University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Yeungnam University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "13-14"
+   },
+ {
+   "World Rank": "501-600",
+   "Institution": "Zhejiang Sci-Tech University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "102-126"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Addis Ababa University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Ain Shams University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "03-Apr"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Air Force Medical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Australian Catholic University ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "26-27"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Baylor University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "136-152"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Beijing Forestry University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Beijing Technology and Business University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Binghamton University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "136-152"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Brescia University ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "23-29"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Brunel University London ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "39-41"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Chang Gung University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "7"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Chang'an University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Chengdu University of Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Chiba University ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "16"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "China Medical University (Shenyang) ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "China University of Mining and Technology-Beijing ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Chonnam National University ",
+   "Country": "South Korea",
+   "National": {
+      "Regional Rank": "15-17"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Chulalongkorn University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "01-Feb"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Clemson University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "136-152"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Colorado School of Mines ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "136-152"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Concordia University ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "20-21"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Dalian Maritime University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Ewha Womans University ",
+   "Country": "Oman",
+   "National": {
+      "Regional Rank": "15-17"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Federal University of Rio Grande do Sul ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "06-Jul"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Federal University of Santa Catarina ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "06-Jul"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Florida International University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "136-152"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Georgia State University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "136-152"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Graz University of Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "07-Sep"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Henan University of Science and Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Homi Bhabha National Institute ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "03-Jul"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Hong Kong Baptist University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "6"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Hunan Normal University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Indian Institute of Technology Delhi ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "03-Jul"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Indian Institute of Technology Kanpur ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "03-Jul"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "INHA University ",
+   "Country": "South Korea",
+   "National": {
+      "Regional Rank": "15-17"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Kansas State University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "136-152"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Khalifa University ",
+   "Country": "United Arab Emirates",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Lanzhou University of Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Lebanese American University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Liverpool John Moores University ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "39-41"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Mahidol University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "01-Feb"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Manchester Metropolitan University ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "39-41"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Mansoura University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "03-Apr"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Marche Polytechnic University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "23-29"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Mississippi State University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "136-152"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Moscow Institute of Physics and Technology ",
+   "Country": "Russia",
+   "National": {
+      "Regional Rank": "3"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Nantong University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Naval Medical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Northeast Forestry University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Polytechnic University of Madrid ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "15-19"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Polytechnic University of Turin ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "23-29"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Qilu University of Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Qingdao University of Science & Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Rensselaer Polytechnic Institute ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "136-152"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Rush University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "136-152"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Saveetha Institute of Medical and Technical Sciences (Deemed to be University) ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "03-Jul"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Semmelweis University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "3"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Shandong First Medical University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Shanghai Normal University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Shanghai Ocean University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Southwest Petroleum University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Taif University ",
+   "Country": "Saudi Arabia",
+   "National": {
+      "Regional Rank": "6"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Taiyuan University of Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Technical University of Braunschweig ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "41-44"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Technical University of Dortmund ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "41-44"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Thomas Jefferson University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "136-152"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Universit� Della Svizzera Italiana ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "9"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Alicante ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "15-19"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Augsburg ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "41-44"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Burgundy Europe ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "20"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Delhi ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "03-Jul"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Eastern Finland ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "6"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Ferrara ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "23-29"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Graz ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "07-Sep"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Haifa ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "7"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Health Sciences Turkey ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "2"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Iceland ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of KwaZulu-Natal ",
+   "Country": "South Africa",
+   "National": {
+      "Regional Rank": "6"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Louisville ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "136-152"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Luxembourg ",
+   "Country": "Luxembourg",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Malaya ",
+   "Country": "Malaysia",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Murcia ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "15-19"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Natural Resources and Life Sciences, Vienna ",
+   "Country": "Russia",
+   "National": {
+      "Regional Rank": "07-Sep"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of New Hampshire ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "136-152"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of North Texas ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "136-152"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Oldenburg ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "41-44"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Oviedo ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "15-19"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Salerno ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "23-29"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Siena ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "23-29"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Southern Queensland ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "26-27"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Toledo ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "136-152"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Trieste ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "23-29"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Wyoming ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "136-152"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University of Zagreb ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "University Rovira i Virgili ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "15-19"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Wayne State University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "136-152"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Xinjiang University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "York University ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "20-21"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Zhejiang Chinese Medical University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "601-700",
+   "Institution": "Zhejiang Normal University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "127-150"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Al-Azhar University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "5"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Anhui Agricultural University ",
+   "Country": "Russia",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Ankara University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "03-Jun"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Army Medical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Beijing University of Posts and Telecommunications ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Bielefeld University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "45-46"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Brigham Young University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "153-162"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "China Pharmaceutical University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Chongqing University of Posts and Telecommunications ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Chung-Ang University ",
+   "Country": "South Korea",
+   "National": {
+      "Regional Rank": "18-24"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Chungbuk National University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "18-24"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Chungnam National University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "18-24"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "City St George�s, University of London ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "42-49"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "COMSATS University Islamabad ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "01-Feb"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Copenhagen Business School ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "6"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Federal University of Parana ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "08-Nov"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Federal University of Santa Maria ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "08-Nov"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Federal University of Sao Paulo ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "08-Nov"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Gachon University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "18-24"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Guangxi Normal University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Hacettepe University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "03-Jun"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Hallym University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "18-24"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Harbin Medical University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Hebei Medical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Henan Normal University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Heriot-Watt University ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "42-49"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Hubei University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Humanitas University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "30-33"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Indian Institute of Technology Madras ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "08-Sep"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Istanbul University Cerrahpasa ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "03-Jun"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Jeonbuk National University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "18-24"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Jiangxi Normal University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Kangwon National University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "18-24"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Kent State University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "153-162"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Kindai University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "17-20"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "King Fahd University of Petroleum and Minerals ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "07-Aug"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Kitasato University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "17-20"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Koc University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "03-Jun"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Lulea University of Technology ",
+   "Country": "Sweden",
+   "National": {
+      "Regional Rank": "11-Dec"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Memorial University of Newfoundland ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "22-24"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "National Taiwan University of Science and Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "8"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "National University of Malaysia ",
+   "Country": "Malaysia",
+   "National": {
+      "Regional Rank": "02-Mar"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Northumbria University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "42-49"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "North-West University ",
+   "Country": "South Africa",
+   "National": {
+      "Regional Rank": "7"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Norwegian University of Life Sciences ",
+   "Country": "Norway",
+   "National": {
+      "Regional Rank": "5"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "NOVA University Lisbon ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "6"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Oklahoma State University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "153-162"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Palack� University Olomouc ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "3"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Paris-East Cr�teil University ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "21-22"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Polytechnic University of Catalonia ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "20-25"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Prince Sattam Bin Abdulaziz University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "07-Aug"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Scuola Normale Superiore - Pisa ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "30-33"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Shantou University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Shanxi Medical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Shinshu University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "17-20"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Southern Methodist University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "153-162"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Southwestern University of Finance and Economics ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "SRM Institute of Science & Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "08-Sep"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Stockholm School of Economics ",
+   "Country": "Sweden",
+   "National": {
+      "Regional Rank": "11-Dec"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "SUNY Downstate Health Sciences University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "153-162"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Suzhou University of Science and Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Swansea University ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "42-49"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Tarbiat Modares University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "3"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "The University of Alabama, Tuscaloosa ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "153-162"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "The University of Texas at Arlington ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "153-162"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "The University of Texas at San Antonio ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "153-162"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "The University of Waikato ",
+   "Country": "New Zealand",
+   "National": {
+      "Regional Rank": "5"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Tiangong University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Tianjin University of Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Tilburg University ",
+   "Country": "Netherlands",
+   "National": {
+      "Regional Rank": "13"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "United Arab Emirates University ",
+   "Country": "United Arab Emirates",
+   "National": {
+      "Regional Rank": "2"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University at Albany ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "153-162"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of Alcala ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "20-25"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of Bras�lia ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "08-Nov"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of Calabria ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "30-33"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of Cantabria ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "20-25"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of Clermont Auvergne ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "21-22"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of Extremadura ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "20-25"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of Greenwich ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "42-49"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of Jinan ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of Jyvaskyla ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "7"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of La Laguna ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "20-25"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of Limerick ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "5"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of Mannheim ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "45-46"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of Maryland, Baltimore County ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "153-162"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of Palermo(Italy) ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "30-33"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of Plymouth ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "42-49"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of Quebec Montreal ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "22-24"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of Science, Malaysia ",
+   "Country": "Malaysia",
+   "National": {
+      "Regional Rank": "02-Mar"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of Sherbrooke ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "22-24"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of South China ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of Stirling ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "42-49"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of Strathclyde ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "42-49"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of the Balearic Islands ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "20-25"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "University of the Punjab ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "01-Feb"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Waseda University ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "17-20"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Wuhan Institute of Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Wuhan University of Science and Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Xiangtan University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "701-800",
+   "Institution": "Xuzhou Medical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "151-173"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "AGH University of Krakow ",
+   "Country": "Poland",
+   "National": {
+      "Regional Rank": "3"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Anhui Normal University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Augusta University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "163-174"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Birkbeck, University of London ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "50-58"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Brock University ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "25"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Budapest University of Technology and Economics ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "4"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Capital Normal University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Central University of Finance and Economics ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Changsha University of Science & Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Chengdu University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Chiang Mai University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "3"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Cranfield University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "50-58"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Czech Technical University in Prague ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "04-May"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Czech University of Life Sciences Prague ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "04-May"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Dongguan University of Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Edith Cowan University ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "28-29"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Ege University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "07-Aug"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Federal University of Sao Carlos ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "Dec-13"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Federal University of Vicosa ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "Dec-13"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Guangxi Medical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Guangzhou University of Chinese Medicine ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Heilongjiang University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "HSE University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "04-Jun"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Indian Institute of Technology Bombay ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "Oct-13"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Indian Institute of Technology Kharagpur ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "Oct-13"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Indian Institute of Technology Roorkee ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "Oct-13"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "INSA Toulouse ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "23-26"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Istanbul Technical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "07-Aug"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Johannes Kepler University Linz ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "10"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Kanazawa University ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "21-24"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "King Faisal University ",
+   "Country": "Saudi Arabia",
+   "National": {
+      "Regional Rank": "09-Oct"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Konkuk University ",
+   "Country": "South Korea",
+   "National": {
+      "Regional Rank": "25=26"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Loughborough University ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "50-58"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Manipal Academy of Higher Education ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "Oct-13"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Massey University ",
+   "Country": "New Zealand",
+   "National": {
+      "Regional Rank": "6"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Maynooth University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "6"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Montana State University, Bozeman ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "163-174"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Nagasaki University ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "21-24"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "National Central University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "09-Nov"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "National Chung Hsing University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "09-Nov"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "National University of Colombia ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "01-Feb"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "New Jersey Institute of Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "163-174"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "New York University Abu Dhabi ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "3"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "North China University of Water Resources and Electric Power ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "North University of China ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Nottingham Trent University ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "50-58"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Ohio University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "163-174"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Old Dominion University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "163-174"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Politecnico di Bari ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "34-37"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Qassim University ",
+   "Country": "Saudi Arabia",
+   "National": {
+      "Regional Rank": "09-Oct"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Qingdao Agricultural University ",
+   "Country": "Russia",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Royal Holloway, University of London ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "50-58"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Shahid Beheshti University of Medical Sciences ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "04-May"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Shandong Normal University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Shanghai University of Finance and Economics ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Shanghai University of Traditional Chinese Medicine ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Sharif University of Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "04-May"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Shenyang Pharmaceutical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Sichuan Agricultural University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Skolkovo Institute of Science and Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "04-Jun"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Syracuse University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "163-174"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Taipei Medical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "09-Nov"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "The Catholic University of Korea ",
+   "Country": "South Korea",
+   "National": {
+      "Regional Rank": "25=26"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "The Education University of Hong Kong ",
+   "Country": "Hong Kong",
+   "National": {
+      "Regional Rank": "7"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "The Graduate University for Advanced Studies, SOKENDAI ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "21-24"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "The Royal Veterinary College ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "50-58"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "The University of Texas at El Paso ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "163-174"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Tokyo University of Science ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "21-24"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Ulster University ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "50-58"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Antioquia ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "01-Feb"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Cagliari ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "34-37"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Crete ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "3"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Cyprus ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Hertfordshire ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "50-58"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Hull ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "50-58"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Jaen ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "26-29"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Kassel ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "47-48"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Lleida ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "26-29"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Magdeburg ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "47-48"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Malaga ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "26-29"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Messina ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "34-37"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Missouri, Kansas City ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "163-174"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Modena and Reggio Emilia ",
+   "Country": "Italy",
+   "National": {
+      "Regional Rank": "34-37"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Nebraska Medical Center ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "163-174"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Oklahoma Health Sciences Center ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "163-174"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Poitiers ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "23-26"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Rhode Island ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "163-174"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of South Africa ",
+   "Country": "South Africa",
+   "National": {
+      "Regional Rank": "8"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of the Sunshine Coast ",
+   "Country": "Australia",
+   "National": {
+      "Regional Rank": "28-29"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Versailles Saint-Quentin-en-Yvelines ",
+   "Country": "France",
+   "National": {
+      "Regional Rank": "23-26"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Vigo ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "26-29"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University of Wisconsin, Milwaukee ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "163-174"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University Putra Malaysia ",
+   "Country": "Malaysia",
+   "National": {
+      "Regional Rank": "4"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "University Savoie Mont Blanc ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "23-26"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Ural Federal University ",
+   "Country": "Russia",
+   "National": {
+      "Regional Rank": "04-Jun"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Xi'an Jiaotong-Liverpool University ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Xi'an University of Architecture and Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Yangtze University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Yantai University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "801-900",
+   "Institution": "Zhejiang A&F University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "174-195"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Adam Mickiewicz University ",
+   "Country": "Poland",
+   "National": {
+      "Regional Rank": "04-Jul"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Ajou University ",
+   "Country": "South Korea",
+   "National": {
+      "Regional Rank": "27-30"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Al-Imam Mohammad Ibn Saud Islamic University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "Nov-13"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Amherst College ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "175-183"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Anhui University of Science & Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Ataturk University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "09-Nov"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Auckland University of Technology ",
+   "Country": "New Zealand",
+   "National": {
+      "Regional Rank": "7"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Banaras Hindu University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "14-15"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Carlos III University of Madrid ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "30-36"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Chengdu University of Traditional Chinese Medicine ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "China Jiliang University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Comenius University in Bratislava ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Dalian Medical University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Dongguk University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "27-30"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Federal University of Bahia ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "14-18"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Federal University of Ceara ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "14-18"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Federal University of Pelotas ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "14-18"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Federal University of Pernambuco ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "14-18"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Free University of Bozen-Bolzano ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "38-41"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Gansu Agricultural University ",
+   "Country": "Russia",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Gazi University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "09-Nov"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Gyeongsang National University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "27-30"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Hainan Medical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Hamburg University of Technology ",
+   "Country": "Germany",
+   "National": {
+      "Regional Rank": "49-51"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Hangzhou City University ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Hangzhou Medical College ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Hassan II University of Casablanca ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Hebei Normal University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Henan Agricultural University ",
+   "Country": "Russia",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Henan Polytechnic University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Huaqiao University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Hunan Agricultural University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Iran University of Medical Sciences ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "6"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Jaume I University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "30-36"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Jazan University ",
+   "Country": "Saudi Arabia",
+   "National": {
+      "Regional Rank": "Nov-13"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Jilin Agricultural University ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Juntendo University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "25-29"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Kaohsiung Medical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "12"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Kumamoto University ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "25-29"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Kunming Medical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Lehigh University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "175-183"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Liaocheng University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Lingnan University ",
+   "Country": "Hong Kong",
+   "National": {
+      "Regional Rank": "8"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Linnaeus University ",
+   "Country": "Sweden",
+   "National": {
+      "Regional Rank": "13-14"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Loyola University Chicago ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "175-183"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Marmara University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "09-Nov"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Michigan Technological University ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "175-183"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Nanjing University of Finance & Economics ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Nicolaus Copernicus University ",
+   "Country": "Poland",
+   "National": {
+      "Regional Rank": "04-Jul"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Ningxia University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "North Dakota State University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "175-183"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Novosibirsk State University ",
+   "Country": "Russia",
+   "National": {
+      "Regional Rank": "7"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Orebro University ",
+   "Country": "Sweden",
+   "National": {
+      "Regional Rank": "13-14"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Pukyong National University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "27-30"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "RCSI University of Medicine and Health Sciences ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "7"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Rio de Janeiro State University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "14-18"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Roma Tre University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "38-41"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Rutgers University, Newark ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "175-183"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Shaanxi University of Science & Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Shandong University of Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Shihezi University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Southwest Medical University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Southwest University of Science and Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Taiyuan University of Science and Technology ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "The Islamia University of Bahawalpur ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "03-Apr"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "The Open University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "59-61"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Tokushima University ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "25-29"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Tokyo University of Agriculture and Technology ",
+   "Country": "Japan",
+   "National": {
+      "Regional Rank": "25-29"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Umm Al-Qura University ",
+   "Country": "Saudi Arabia",
+   "National": {
+      "Regional Rank": "Nov-13"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Alaska Fairbanks ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "175-183"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Arkansas for Medical Sciences ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "175-183"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Beira Interior ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "7"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Cadiz ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "30-36"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Calcutta ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "14-15"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Castilla-La Mancha ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "30-36"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Central Lancashire ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "59-61"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Chieti-Pescara ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "38-41"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Cordoba ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "30-36"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Eastern Piedmont ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "38-41"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Ghana ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "1"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Girona ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "30-36"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Hohenheim ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "49-51"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of International Business and Economics ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Lahore ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "03-Apr"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Las Palmas de Gran Canaria ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "30-36"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of New Brunswick ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "26-28"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Patras ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "4"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Picardie Jules Verne ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "27"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Portsmouth ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "59-61"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Regina ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "26-28"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Sharjah ",
+   "Country": "United Arab Emirates",
+   "National": {
+      "Regional Rank": "4"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Tennessee Health Science Center ",
+   "Country": "United States",
+   "National": {
+      "Regional Rank": "175-183"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Windsor ",
+   "Country": "Canada",
+   "National": {
+      "Regional Rank": "26-28"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "University of Wuppertal ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "49-51"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Warsaw University of Technology ",
+   "Country": "Poland",
+   "National": {
+      "Regional Rank": "04-Jul"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Wroclaw University of Science and Technology ",
+   "Country": "Poland",
+   "National": {
+      "Regional Rank": "04-Jul"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Xi'an University of Science and Technology ",
+   "Country": "China",
+   "National": {
+      "Regional Rank": "196-222"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Yokohama City University ",
+   "Country": "United Kingdom",
+   "National": {
+      "Regional Rank": "25-29"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Zagazig University ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "6"
+   },
+ {
+   "World Rank": "901-1000",
+   "Institution": "Zhongnan University of Economics and Law ",
+   "Country": "Unknown",
+   "National": {
+      "Regional Rank": "196-222"
+   }
+];

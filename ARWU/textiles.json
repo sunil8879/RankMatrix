@@ -1,0 +1,333 @@
+[
+  {
+    "World Rank": "1",
+    "Institution": "Donghua University",
+    "total score": "282.2",
+    "faculty": "40",
+    "output": "100",
+    "quality research": "100",
+    "research impact": "33.7",
+    "intl. collaboration": "8.5"
+  },
+  
+  {
+    "World Rank": "2",
+    "Institution": "Wuhan Textile University",
+    "total score": "177",
+    "faculty": "0",
+    "output": "62.4",
+    "quality research": "67.3",
+    "research impact": "37.8",
+    "intl. collaboration": "9.6"
+  },
+  
+  {
+    "World Rank": "3",
+    "Institution": "Jiangnan University",
+    "total score": "174.4",
+    "faculty": "4.4",
+    "output": "58.9",
+    "quality research": "73.3",
+    "research impact": "31.2",
+    "intl. collaboration": "6.5"
+  },
+  
+  {
+    "World Rank": "4",
+    "Institution": "Qingdao University",
+    "total score": "172",
+    "faculty": "0",
+    "output": "52",
+    "quality research": "65.9",
+    "research impact": "43.8",
+    "intl. collaboration": "10.2"
+  },
+  
+  {
+    "World Rank": "5",
+    "Institution": "The Hong Kong Polytechnic University",
+    "total score": "164.8",
+    "faculty": "23.5",
+    "output": "50.7",
+    "quality research": "49.7",
+    "research impact": "31.4",
+    "intl. collaboration": "9.5"
+  },
+  
+  {
+    "World Rank": "6",
+    "Institution": "King Abdulaziz University",
+    "total score": "160.9",
+    "faculty": "0",
+    "output": "52",
+    "quality research": "39.3",
+    "research impact": "50",
+    "intl. collaboration": "19.6"
+  },
+  
+  {
+    "World Rank": "7",
+    "Institution": "Seoul National University",
+    "total score": "158.8",
+    "faculty": "22.7",
+    "output": "50",
+    "quality research": "47",
+    "research impact": "32",
+    "intl. collaboration": "7.2"
+  },
+  
+  {
+    "World Rank": "8",
+    "Institution": "University Putra Malaysia",
+    "total score": "157.6",
+    "faculty": "0",
+    "output": "55.3",
+    "quality research": "43",
+    "research impact": "43.6",
+    "intl. collaboration": "15.7"
+  },
+  
+  {
+    "World Rank": "9",
+    "Institution": "South China University of Technology",
+    "total score": "153.9",
+    "faculty": "0",
+    "output": "31.2",
+    "quality research": "76.2",
+    "research impact": "39.2",
+    "intl. collaboration": "7.4"
+  },
+  
+  {
+    "World Rank": "10",
+    "Institution": "King Mongkut's University of Technology North Bangkok",
+    "total score": "151",
+    "faculty": "0",
+    "output": "44.1",
+    "quality research": "37.3",
+    "research impact": "50",
+    "intl. collaboration": "19.7"
+  },
+  
+  {
+    "World Rank": "11",
+    "Institution": "King Saud University",
+    "total score": "150.6",
+    "faculty": "0",
+    "output": "43.3",
+    "quality research": "38.6",
+    "research impact": "48.7",
+    "intl. collaboration": "20"
+  },
+  
+  {
+    "World Rank": "12",
+    "Institution": "Nanjing Forestry University",
+    "total score": "147.9",
+    "faculty": "0",
+    "output": "27.6",
+    "quality research": "61.1",
+    "research impact": "47.5",
+    "intl. collaboration": "11.7"
+  },
+  
+  {
+    "World Rank": "13",
+    "Institution": "Zhejiang Sci-Tech University",
+    "total score": "146.7",
+    "faculty": "0",
+    "output": "44.1",
+    "quality research": "64.3",
+    "research impact": "32.2",
+    "intl. collaboration": "6.1"
+  },
+  
+  {
+    "World Rank": "14",
+    "Institution": "Soochow University (Suzhou)",
+    "total score": "143.5",
+    "faculty": "0",
+    "output": "42.5",
+    "quality research": "57.4",
+    "research impact": "35.2",
+    "intl. collaboration": "8.4"
+  },
+  
+  {
+    "World Rank": "15",
+    "Institution": "Shanghai Jiao Tong University",
+    "total score": "139",
+    "faculty": "6.2",
+    "output": "40",
+    "quality research": "34",
+    "research impact": "50",
+    "intl. collaboration": "8.9"
+  },
+  
+  {
+    "World Rank": "16",
+    "Institution": "North Carolina State University at Raleigh",
+    "total score": "138.3",
+    "faculty": "13.3",
+    "output": "35.4",
+    "quality research": "40.9",
+    "research impact": "35.3",
+    "intl. collaboration": "13.4"
+  },
+  
+  {
+    "World Rank": "17",
+    "Institution": "National Textile University",
+    "total score": "137.2",
+    "faculty": "0",
+    "output": "47.1",
+    "quality research": "44.5",
+    "research impact": "31.5",
+    "intl. collaboration": "14"
+  },
+  
+  {
+    "World Rank": "18",
+    "Institution": "Tiangong University",
+    "total score": "136.7",
+    "faculty": "0",
+    "output": "36.3",
+    "quality research": "61.1",
+    "research impact": "30.8",
+    "intl. collaboration": "8.5"
+  },
+  
+  {
+    "World Rank": "19",
+    "Institution": "Southwest University",
+    "total score": "133.4",
+    "faculty": "0",
+    "output": "34.4",
+    "quality research": "47.3",
+    "research impact": "42.3",
+    "intl. collaboration": "9.4"
+  },
+  
+  {
+    "World Rank": "20",
+    "Institution": "Universite de Monastir",
+    "total score": "131.9",
+    "faculty": "0",
+    "output": "52.7",
+    "quality research": "39.3",
+    "research impact": "25",
+    "intl. collaboration": "14.9"
+  },
+  
+  {
+    "World Rank": "21",
+    "Institution": "Indian Institute of Technology Delhi",
+    "total score": "131.3",
+    "faculty": "10.9",
+    "output": "40",
+    "quality research": "44.8",
+    "research impact": "28.7",
+    "intl. collaboration": "6.9"
+  },
+  
+  {
+    "World Rank": "22",
+    "Institution": "University of Minho",
+    "total score": "130.8",
+    "faculty": "32.7",
+    "output": "18.6",
+    "quality research": "28.2",
+    "research impact": "35.1",
+    "intl. collaboration": "16.2"
+  },
+  
+  {
+    "World Rank": "23",
+    "Institution": "Bahir Dar University",
+    "total score": "129.7",
+    "faculty": "0",
+    "output": "49.3",
+    "quality research": "34",
+    "research impact": "31.8",
+    "intl. collaboration": "14.6"
+  },
+  
+  {
+    "World Rank": "24",
+    "Institution": "Shaanxi University of Science & Technology",
+    "total score": "128.7",
+    "faculty": "0",
+    "output": "23.6",
+    "quality research": "53.2",
+    "research impact": "43.2",
+    "intl. collaboration": "8.7"
+  },
+  
+  {
+    "World Rank": "25",
+    "Institution": "Vellore Institute of Technology",
+    "total score": "128.1",
+    "faculty": "0",
+    "output": "46.4",
+    "quality research": "37.6",
+    "research impact": "34.8",
+    "intl. collaboration": "9.3"
+  },
+  
+  {
+    "World Rank": "26",
+    "Institution": "Universiti Teknologi Malaysia",
+    "total score": "127.2",
+    "faculty": "0",
+    "output": "37.3",
+    "quality research": "34.4",
+    "research impact": "38.5",
+    "intl. collaboration": "17.1"
+  },
+  
+  {
+    "World Rank": "27",
+    "Institution": "Guangxi University",
+    "total score": "124.5",
+    "faculty": "0",
+    "output": "23.6",
+    "quality research": "46.5",
+    "research impact": "46",
+    "intl. collaboration": "8.5"
+  },
+  
+  {
+    "World Rank": "27",
+    "Institution": "Southeast University",
+    "total score": "124.5",
+    "faculty": "0",
+    "output": "34.4",
+    "quality research": "38.3",
+    "research impact": "43.9",
+    "intl. collaboration": "8"
+  },
+  
+  {
+    "World Rank": "29",
+    "Institution": "Nanjing Tech University",
+    "total score": "122.7",
+    "faculty": "0",
+    "output": "27.6",
+    "quality research": "51",
+    "research impact": "38.6",
+    "intl. collaboration": "5.5"
+  },
+  
+  {
+    "World Rank": "30",
+    "Institution": "The University of Manchester",
+    "total score": "122.1",
+    "faculty": "22.2",
+    "output": "23.6",
+    "quality research": "24.3",
+    "research impact": "32.9",
+    "intl. collaboration": "19.1"
+  }
+  
+ 
+]

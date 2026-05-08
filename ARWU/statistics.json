@@ -1,0 +1,333 @@
+[
+  {
+    "World Rank": "1",
+    "Institution": "Harvard University",
+    "total score": "354.6",
+    "faculty": "63.8",
+    "output": "164.7",
+    "quality research": "100",
+    "research impact": "19.9",
+    "intl. collaboration": "6.2"
+  },
+  
+  {
+    "World Rank": "2",
+    "Institution": "Stanford University",
+    "total score": "294.5",
+    "faculty": "61.6",
+    "output": "131.7",
+    "quality research": "75.6",
+    "research impact": "20",
+    "intl. collaboration": "5.6"
+  },
+  
+  {
+    "World Rank": "3",
+    "Institution": "University of Pennsylvania",
+    "total score": "266.3",
+    "faculty": "36.3",
+    "output": "128.3",
+    "quality research": "78.9",
+    "research impact": "17.2",
+    "intl. collaboration": "5.6"
+  },
+  
+  {
+    "World Rank": "4",
+    "Institution": "University of California, Berkeley",
+    "total score": "260.5",
+    "faculty": "29.7",
+    "output": "141.3",
+    "quality research": "64.9",
+    "research impact": "18.7",
+    "intl. collaboration": "6"
+  },
+  
+  {
+    "World Rank": "5",
+    "Institution": "University of Chicago",
+    "total score": "248.3",
+    "faculty": "28.3",
+    "output": "132.1",
+    "quality research": "63.2",
+    "research impact": "19.5",
+    "intl. collaboration": "5.3"
+  },
+  
+  {
+    "World Rank": "6",
+    "Institution": "Columbia University",
+    "total score": "239.9",
+    "faculty": "41.7",
+    "output": "104.2",
+    "quality research": "71.5",
+    "research impact": "16.6",
+    "intl. collaboration": "5.9"
+  },
+  
+  {
+    "World Rank": "7",
+    "Institution": "Princeton University",
+    "total score": "234.8",
+    "faculty": "63",
+    "output": "95.6",
+    "quality research": "50.5",
+    "research impact": "19.6",
+    "intl. collaboration": "6.1"
+  },
+  
+  {
+    "World Rank": "8",
+    "Institution": "University of Toronto",
+    "total score": "228",
+    "faculty": "51.3",
+    "output": "94.9",
+    "quality research": "59.6",
+    "research impact": "14.4",
+    "intl. collaboration": "7.8"
+  },
+  
+  {
+    "World Rank": "9",
+    "Institution": "University of Cambridge",
+    "total score": "215",
+    "faculty": "20.6",
+    "output": "99.2",
+    "quality research": "69.8",
+    "research impact": "17.4",
+    "intl. collaboration": "8.1"
+  },
+  
+  {
+    "World Rank": "10",
+    "Institution": "Duke University",
+    "total score": "214.2",
+    "faculty": "30.6",
+    "output": "98.1",
+    "quality research": "65.4",
+    "research impact": "14.6",
+    "intl. collaboration": "5.6"
+  },
+  
+  {
+    "World Rank": "11",
+    "Institution": "Johns Hopkins University",
+    "total score": "213.7",
+    "faculty": "42",
+    "output": "90.6",
+    "quality research": "58.5",
+    "research impact": "17",
+    "intl. collaboration": "5.5"
+  },
+  
+  {
+    "World Rank": "12",
+    "Institution": "University of Washington",
+    "total score": "208.8",
+    "faculty": "16.3",
+    "output": "104.1",
+    "quality research": "66.5",
+    "research impact": "15.5",
+    "intl. collaboration": "6.3"
+  },
+  
+  {
+    "World Rank": "13",
+    "Institution": "University of Oxford",
+    "total score": "205.7",
+    "faculty": "36.3",
+    "output": "86.5",
+    "quality research": "57",
+    "research impact": "17.9",
+    "intl. collaboration": "7.9"
+  },
+  
+  {
+    "World Rank": "14",
+    "Institution": "University of Michigan, Ann Arbor",
+    "total score": "203.6",
+    "faculty": "28.2",
+    "output": "76",
+    "quality research": "79.2",
+    "research impact": "14.6",
+    "intl. collaboration": "5.6"
+  },
+  
+  {
+    "World Rank": "15",
+    "Institution": "Carnegie Mellon University",
+    "total score": "197.1",
+    "faculty": "23.1",
+    "output": "94.8",
+    "quality research": "54.3",
+    "research impact": "18.7",
+    "intl. collaboration": "6.2"
+  },
+  
+  {
+    "World Rank": "16",
+    "Institution": "Pennsylvania State University, University Park",
+    "total score": "182.7",
+    "faculty": "3.9",
+    "output": "102",
+    "quality research": "56.1",
+    "research impact": "14",
+    "intl. collaboration": "6.7"
+  },
+  
+  {
+    "World Rank": "17",
+    "Institution": "Massachusetts Institute of Technology",
+    "total score": "182.1",
+    "faculty": "44.5",
+    "output": "53.1",
+    "quality research": "58.4",
+    "research impact": "20",
+    "intl. collaboration": "6.2"
+  },
+  
+  {
+    "World Rank": "18",
+    "Institution": "University of California, Los Angeles",
+    "total score": "177.7",
+    "faculty": "16.3",
+    "output": "84",
+    "quality research": "55.8",
+    "research impact": "15.6",
+    "intl. collaboration": "6"
+  },
+  
+  {
+    "World Rank": "19",
+    "Institution": "University of Wisconsin, Madison",
+    "total score": "171.5",
+    "faculty": "16.3",
+    "output": "83.2",
+    "quality research": "52.9",
+    "research impact": "13.6",
+    "intl. collaboration": "5.5"
+  },
+  
+  {
+    "World Rank": "20",
+    "Institution": "University of North Carolina at Chapel Hill",
+    "total score": "169.7",
+    "faculty": "8.2",
+    "output": "80.4",
+    "quality research": "61.8",
+    "research impact": "13.8",
+    "intl. collaboration": "5.5"
+  },
+  
+  {
+    "World Rank": "21",
+    "Institution": "National University of Singapore",
+    "total score": "168.2",
+    "faculty": "19.1",
+    "output": "63",
+    "quality research": "62",
+    "research impact": "14.6",
+    "intl. collaboration": "9.4"
+  },
+  
+  {
+    "World Rank": "22",
+    "Institution": "ETH Zurich",
+    "total score": "166.9",
+    "faculty": "16.3",
+    "output": "75.5",
+    "quality research": "50.1",
+    "research impact": "16.6",
+    "intl. collaboration": "8.4"
+  },
+  
+  {
+    "World Rank": "23",
+    "Institution": "University of Illinois Urbana, Champaign",
+    "total score": "153",
+    "faculty": "19.9",
+    "output": "59.4",
+    "quality research": "52.5",
+    "research impact": "14.9",
+    "intl. collaboration": "6.3"
+  },
+  
+  {
+    "World Rank": "24",
+    "Institution": "Yale University",
+    "total score": "151.9",
+    "faculty": "5.3",
+    "output": "59.9",
+    "quality research": "64.1",
+    "research impact": "16.1",
+    "intl. collaboration": "6.4"
+  },
+  
+  {
+    "World Rank": "25",
+    "Institution": "University of Copenhagen",
+    "total score": "148.9",
+    "faculty": "30.4",
+    "output": "41.6",
+    "quality research": "52.9",
+    "research impact": "15.6",
+    "intl. collaboration": "8.4"
+  },
+  
+  {
+    "World Rank": "26",
+    "Institution": "Texas A&M University",
+    "total score": "147.6",
+    "faculty": "25.8",
+    "output": "51.3",
+    "quality research": "51.3",
+    "research impact": "12.9",
+    "intl. collaboration": "6.4"
+  },
+  
+  {
+    "World Rank": "27",
+    "Institution": "North Carolina State University at Raleigh",
+    "total score": "144.6",
+    "faculty": "29.6",
+    "output": "48.7",
+    "quality research": "46.5",
+    "research impact": "14.6",
+    "intl. collaboration": "5.2"
+  },
+  
+  {
+    "World Rank": "28",
+    "Institution": "University of Southern California",
+    "total score": "142.6",
+    "faculty": "19.9",
+    "output": "54.3",
+    "quality research": "46.9",
+    "research impact": "15.1",
+    "intl. collaboration": "6.4"
+  },
+  
+  {
+    "World Rank": "29",
+    "Institution": "The University of Warwick",
+    "total score": "141.6",
+    "faculty": "28.2",
+    "output": "46",
+    "quality research": "45.5",
+    "research impact": "14.1",
+    "intl. collaboration": "7.8"
+  },
+  
+  {
+    "World Rank": "30",
+    "Institution": "Paris-Saclay University",
+    "total score": "141.4",
+    "faculty": "24.5",
+    "output": "48.9",
+    "quality research": "48.7",
+    "research impact": "12.7",
+    "intl. collaboration": "6.7"
+  }
+  
+  
+]

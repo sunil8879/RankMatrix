@@ -1,0 +1,702 @@
+[
+ {
+   "Rank 2026": 1,
+   "University": "Massachusetts Institute of Technology",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 2,
+   "University": "California Institute of Technology",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 3,
+   "University": "Stanford University",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 4,
+   "University": "Harvard University",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 5,
+   "University": "University of Cambridge",
+   "Country": {
+      "Region": "UK"
+   }
+},
+ {
+   "Rank 2026": 6,
+   "University": "Princeton University",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 7,
+   "University": "University of Oxford",
+   "Country": {
+      "Region": "UK"
+   }
+},
+ {
+   "Rank 2026": 8,
+   "University": "The University of Tokyo",
+   "Country": {
+      "Region": "Japan"
+   }
+},
+ {
+   "Rank 2026": 9,
+   "University": "National University of Singapore",
+   "Country": {
+      "Region": "Singapore"
+   }
+},
+ {
+   "Rank 2026": 10,
+   "University": "Imperial College London",
+   "Country": {
+      "Region": "UK"
+   }
+},
+ {
+   "Rank 2026": 11,
+   "University": "Peking University",
+   "Country": {
+      "Region": "China"
+   }
+},
+ {
+   "Rank 2026": 12,
+   "University": "Yale University",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 13,
+   "University": "Technical University of Munich",
+   "Country": {
+      "Region": "Germany"
+   }
+},
+ {
+   "Rank 2026": 14,
+   "University": "University of Toronto",
+   "Country": {
+      "Region": "Canada"
+   }
+},
+ {
+   "Rank 2026": 15,
+   "University": "Columbia University",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 16,
+   "University": "University of California, Berkeley",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 17,
+   "University": "ETH Zurich",
+   "Country": {
+      "Region": "Switzerland"
+   }
+},
+ {
+   "Rank 2026": 18,
+   "University": "IE University",
+   "Country": {
+      "Region": "Spain"
+   }
+},
+ {
+   "Rank 2026": 19,
+   "University": "Tsinghua University",
+   "Country": {
+      "Region": "China"
+   }
+},
+ {
+   "Rank 2026": 20,
+   "University": "CentraleSup�lec � Paris Saclay University",
+   "Country": {
+      "Region": "France"
+   }
+},
+ {
+   "Rank 2026": 21,
+   "University": "Carnegie Mellon University",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 22,
+   "University": "HEC Paris",
+   "Country": {
+      "Region": "France"
+   }
+},
+ {
+   "Rank 2026": 23,
+   "University": "London School of Economics and Political Science (LSE)",
+   "Country": {
+      "Region": "UK"
+   }
+},
+ {
+   "Rank 2026": 24,
+   "University": "The Hong Kong University of Science and Technology",
+   "Country": {
+      "Region": "Hong Kong"
+   }
+},
+ {
+   "Rank 2026": 25,
+   "University": "New York University",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 26,
+   "University": "�cole Polytechnique � Institut Polytechnique de Paris",
+   "Country": {
+      "Region": "France"
+   }
+},
+ {
+   "Rank 2026": 27,
+   "University": "�cole normale sup�rieure Paris-Saclay",
+   "Country": {
+      "Region": "Switzerland"
+   }
+},
+ {
+   "Rank 2026": 28,
+   "University": "Indian Institute of Technology Delhi",
+   "Country": {
+      "Region": "India"
+   }
+},
+ {
+   "Rank 2026": 29,
+   "University": "Duke University",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 30,
+   "University": "Australian National University",
+   "Country": {
+      "Region": "Australia"
+   }
+},
+ {
+   "Rank 2026": 31,
+   "University": "McGill University",
+   "Country": {
+      "Region": "Canada"
+   }
+},
+ {
+   "Rank 2026": 32,
+   "University": "Tokyo Institute of Technology",
+   "Country": {
+      "Region": "Japan"
+   }
+},
+ {
+   "Rank 2026": 33,
+   "University": "Nanyang Technological University, Singapore",
+   "Country": {
+      "Region": "Singapore"
+   }
+},
+ {
+   "Rank 2026": 34,
+   "University": "Boston University",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 35,
+   "University": "Shanghai Jiao Tong University",
+   "Country": {
+      "Region": "China"
+   }
+},
+ {
+   "Rank 2026": 36,
+   "University": "University of British Columbia",
+   "Country": {
+      "Region": "Canada"
+   }
+},
+ {
+   "Rank 2026": 37,
+   "University": "Kyoto University",
+   "Country": {
+      "Region": "Japan"
+   }
+},
+ {
+   "Rank 2026": 38,
+   "University": "University of Navarra",
+   "Country": {
+      "Region": "Spain"
+   }
+},
+ {
+   "Rank 2026": 39,
+   "University": "London Business School",
+   "Country": {
+      "Region": "UK"
+   }
+},
+ {
+   "Rank 2026": 40,
+   "University": "The University of Chicago",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 41,
+   "University": "Arizona State University (Tempe)",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 42,
+   "University": "EMLyon Business School",
+   "Country": {
+      "Region": "France"
+   }
+},
+ {
+   "Rank 2026": 43,
+   "University": "University of Hong Kong",
+   "Country": {
+      "Region": "Hong Kong"
+   }
+},
+ {
+   "Rank 2026": 44,
+   "University": "University of Melbourne",
+   "Country": {
+      "Region": "Australia"
+   }
+},
+ {
+   "Rank 2026": 45,
+   "University": "Humboldt University of Berlin",
+   "Country": {
+      "Region": "Germany"
+   }
+},
+ {
+   "Rank 2026": 46,
+   "University": "Fudan University",
+   "Country": {
+      "Region": "China"
+   }
+},
+ {
+   "Rank 2026": 47,
+   "University": "Indian Institute of Science",
+   "Country": {
+      "Region": "India"
+   }
+},
+ {
+   "Rank 2026": 48,
+   "University": "Sorbonne University",
+   "Country": {
+      "Region": "France"
+   }
+},
+ {
+   "Rank 2026": 49,
+   "University": "Johns Hopkins University",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 50,
+   "University": "Universit� Paris-Saclay",
+   "Country": {
+      "Region": "France"
+   }
+},
+ {
+   "Rank 2026": 51,
+   "University": "Mines ParisTech � PSL University",
+   "Country": {
+      "Region": "France"
+   }
+},
+ {
+   "Rank 2026": 52,
+   "University": "Dartmouth College",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 53,
+   "University": "ESCP Business School",
+   "Country": {
+      "Region": "France"
+   }
+},
+ {
+   "Rank 2026": 54,
+   "University": "Georgia Institute of Technology",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 55,
+   "University": "EDHEC Business School",
+   "Country": {
+      "Region": "France"
+   }
+},
+ {
+   "Rank 2026": 56,
+   "University": "LMU Munich",
+   "Country": {
+      "Region": "Germany"
+   }
+},
+ {
+   "Rank 2026": 57,
+   "University": "ESSEC Business School",
+   "Country": {
+      "Region": "France"
+   }
+},
+ {
+   "Rank 2026": 58,
+   "University": "Bocconi University",
+   "Country": {
+      "Region": "Italy"
+   }
+},
+ {
+   "Rank 2026": 59,
+   "University": "KU Leuven",
+   "Country": {
+      "Region": "Belgium"
+   }
+},
+ {
+   "Rank 2026": 60,
+   "University": "Indian Institute of Technology Bombay",
+   "Country": {
+      "Region": "India"
+   }
+},
+ {
+   "Rank 2026": 61,
+   "University": "Erasmus University Rotterdam",
+   "Country": {
+      "Region": "Netherlands"
+   }
+},
+ {
+   "Rank 2026": 62,
+   "University": "University of Sydney",
+   "Country": {
+      "Region": "Australia"
+   }
+},
+ {
+   "Rank 2026": 63,
+   "University": "Technical University of Berlin",
+   "Country": {
+      "Region": "Germany"
+   }
+},
+ {
+   "Rank 2026": 64,
+   "University": "King�s College London",
+   "Country": {
+      "Region": "UK"
+   }
+},
+ {
+   "Rank 2026": 65,
+   "University": "University of Manchester",
+   "Country": {
+      "Region": "UK"
+   }
+},
+ {
+   "Rank 2026": 66,
+   "University": "Technion � Israel Institute of Technology",
+   "Country": {
+      "Region": "Israel"
+   }
+},
+ {
+   "Rank 2026": 67,
+   "University": "Seoul National University",
+   "Country": {
+      "Region": "South Korea"
+   }
+},
+ {
+   "Rank 2026": 68,
+   "University": "Tecnol�gico de Monterrey",
+   "Country": {
+      "Region": "Mexico"
+   }
+},
+ {
+   "Rank 2026": 69,
+   "University": "Heidelberg University",
+   "Country": {
+      "Region": "Germany"
+   }
+},
+ {
+   "Rank 2026": 70,
+   "University": "Brown University",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 71,
+   "University": "Zhejiang University",
+   "Country": {
+      "Region": "China"
+   }
+},
+ {
+   "Rank 2026": 72,
+   "University": "Ecole normale sup�rieure Paris-Saclay",
+   "Country": {
+      "Region": "France"
+   }
+},
+ {
+   "Rank 2026": 73,
+   "University": "University of Zurich",
+   "Country": {
+      "Region": "Switzerland"
+   }
+},
+ {
+   "Rank 2026": 74,
+   "University": "Cornell University",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 75,
+   "University": "KTH Royal Institute of Technology",
+   "Country": {
+      "Region": "Sweden"
+   }
+},
+ {
+   "Rank 2026": 76,
+   "University": "Florida Institute of Technology",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 77,
+   "University": "Frankfurt School of Finance & Management",
+   "Country": {
+      "Region": "Germany"
+   }
+},
+ {
+   "Rank 2026": 78,
+   "University": "Korea Advanced Institute of Science and Technology (KAIST)",
+   "Country": {
+      "Region": "South Korea"
+   }
+},
+ {
+   "Rank 2026": 79,
+   "University": "National Taiwan University (NTU)",
+   "Country": {
+      "Region": "Taiwan"
+   }
+},
+ {
+   "Rank 2026": 80,
+   "University": "Stockholm University",
+   "Country": {
+      "Region": "Sweden"
+   }
+},
+ {
+   "Rank 2026": 81,
+   "University": "University of California, Los Angeles",
+   "Country": {
+      "Region": "US"
+   }
+},
+ {
+   "Rank 2026": 82,
+   "University": "National Taiwan University of Science and Technology (Taiwan Tech)",
+   "Country": {
+      "Region": "Taiwan"
+   }
+},
+ {
+   "Rank 2026": 83,
+   "University": "University of Science and Technology of China",
+   "Country": {
+      "Region": "China"
+   }
+},
+ {
+   "Rank 2026": 84,
+   "University": "University of Montreal/HEC",
+   "Country": {
+      "Region": "Canada"
+   }
+},
+ {
+   "Rank 2026": 85,
+   "University": "University of Helsinki",
+   "Country": {
+      "Region": "Finland"
+   }
+},
+ {
+   "Rank 2026": 86,
+   "University": "Delft University of Technology",
+   "Country": {
+      "Region": "Netherlands"
+   }
+},
+ {
+   "Rank 2026": 87,
+   "University": "Hebrew University of Jerusalem",
+   "Country": {
+      "Region": "Israel"
+   }
+},
+ {
+   "Rank 2026": 88,
+   "University": "McMaster University",
+   "Country": {
+      "Region": "Canada"
+   }
+},
+ {
+   "Rank 2026": 89,
+   "University": "University of Auckland",
+   "Country": {
+      "Region": "New Zealand"
+   }
+},
+ {
+   "Rank 2026": 90,
+   "University": "Chinese University of Hong Kong",
+   "Country": {
+      "Region": "Hong Kong"
+   }
+},
+ {
+   "Rank 2026": 91,
+   "University": "Karlsruhe Institute of Technology",
+   "Country": {
+      "Region": "Germany"
+   }
+},
+ {
+   "Rank 2026": 92,
+   "University": "University of S�o Paulo",
+   "Country": {
+      "Region": "Brazil"
+   }
+},
+ {
+   "Rank 2026": 93,
+   "University": "Leiden University",
+   "Country": {
+      "Region": "Netherlands"
+   }
+},
+ {
+   "Rank 2026": 94,
+   "University": "Polytechnic University of Milan",
+   "Country": {
+      "Region": "Italy"
+   }
+},
+ {
+   "Rank 2026": 95,
+   "University": "The University of Queensland",
+   "Country": {
+      "Region": "Australia"
+   }
+},
+ {
+   "Rank 2026": 96,
+   "University": "Technical University of Denmark",
+   "Country": {
+      "Region": "Denmark"
+   }
+},
+ {
+   "Rank 2026": 97,
+   "University": "Free University of Berlin",
+   "Country": {
+      "Region": "Germany"
+   }
+},
+ {
+   "Rank 2026": 98,
+   "University": "Pohang University of Science and Technology (POSTECH)",
+   "Country": {
+      "Region": "South Korea"
+   }
+},
+ {
+   "Rank 2026": 99,
+   "University": "University of Vienna",
+   "Country": {
+      "Region": "Austria"
+   }
+},
+ {
+   "Rank 2026": 100,
+   "University": "Sungkyunkwan University",
+   "Country": {
+      "Region": "South Korea"
+   }
+}
+]

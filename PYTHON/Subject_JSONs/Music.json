@@ -1,0 +1,146 @@
+[
+    {
+        "University":"The Juilliard School",
+        "Location":"United States of America",
+        "Total_Score":100.0,
+        "Meta_Rank":1
+    },
+    {
+        "University":"Royal College of Music",
+        "Location":"United Kingdom",
+        "Total_Score":99.0,
+        "Meta_Rank":2
+    },
+    {
+        "University":"Curtis Institute of Music",
+        "Location":"United States of America",
+        "Total_Score":98.0,
+        "Meta_Rank":3
+    },
+    {
+        "University":"Guildhall School of Music and Drama",
+        "Location":"United Kingdom",
+        "Total_Score":97.0,
+        "Meta_Rank":4
+    },
+    {
+        "University":"Royal Academy of Music",
+        "Location":"United Kingdom",
+        "Total_Score":96.0,
+        "Meta_Rank":5
+    },
+    {
+        "University":"Conservatoire national sup\u00e9rieur de musique et de danse de Paris (CNSMDP)",
+        "Location":"France",
+        "Total_Score":95.0,
+        "Meta_Rank":6
+    },
+    {
+        "University":"Royal Conservatoire of Scotland",
+        "Location":"United Kingdom",
+        "Total_Score":94.0,
+        "Meta_Rank":7
+    },
+    {
+        "University":"Royal Northern College of Music (RNCM)",
+        "Location":"United Kingdom",
+        "Total_Score":93.0,
+        "Meta_Rank":8
+    },
+    {
+        "University":"Shanghai Conservatory of Music",
+        "Location":"China (Mainland)",
+        "Total_Score":92.0,
+        "Meta_Rank":9
+    },
+    {
+        "University":"Moscow State Conservatory P. I. Tchaikovsky",
+        "Location":"Russian Federation",
+        "Total_Score":91.0,
+        "Meta_Rank":10
+    },
+    {
+        "University":"The Royal Danish Academy of Music",
+        "Location":"Denmark",
+        "Total_Score":90.0,
+        "Meta_Rank":11
+    },
+    {
+        "University":"Sibelius Academy, University of the Arts Helsinki",
+        "Location":"Finland",
+        "Total_Score":88.0,
+        "Meta_Rank":12
+    },
+    {
+        "University":"McGill University",
+        "Location":"Canada",
+        "Total_Score":88.0,
+        "Meta_Rank":12
+    },
+    {
+        "University":"University of Rochester",
+        "Location":"United States of America",
+        "Total_Score":86.0,
+        "Meta_Rank":14
+    },
+    {
+        "University":"Indiana University Bloomington",
+        "Location":"United States of America",
+        "Total_Score":85.0,
+        "Meta_Rank":15
+    },
+    {
+        "University":"Liszt Ferenc Academy of Music",
+        "Location":"Hungary",
+        "Total_Score":84.0,
+        "Meta_Rank":16
+    },
+    {
+        "University":"Norwegian Academy of Music",
+        "Location":"Norway",
+        "Total_Score":83.0,
+        "Meta_Rank":17
+    },
+    {
+        "University":"Universit\u00e4t f\u00fcr Musik und darstellende Kunst Wien",
+        "Location":"Austria",
+        "Total_Score":82.0,
+        "Meta_Rank":18
+    },
+    {
+        "University":"Trinity Laban",
+        "Location":"United Kingdom",
+        "Total_Score":81.0,
+        "Meta_Rank":19
+    },
+    {
+        "University":"University of Cambridge",
+        "Location":"United Kingdom",
+        "Total_Score":80.0,
+        "Meta_Rank":20
+    },
+    {
+        "University":"The Gnesins Russian Academy of Music",
+        "Location":"Russian Federation",
+        "Total_Score":79.0,
+        "Meta_Rank":21
+    },
+    {
+        "University":"Chopin University of Music",
+        "Location":"Poland",
+        "Total_Score":78.0,
+        "Meta_Rank":22
+    },
+    {
+        "University":"UCSI University",
+        "Location":"Malaysia",
+        "Total_Score":77.0,
+        "Meta_Rank":23
+    },
+    {
+        "University":"St. Petersburg Conservatory",
+        "Location":"Russian Federation",
+        "Total_Score":76.0,
+        "Meta_Rank":24
+    }
+]

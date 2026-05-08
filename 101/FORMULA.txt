@@ -1,0 +1,28 @@
+1.FOR REMOVING THE SPACES
+=TRIM(CLEAN(SUBSTITUTE(A1, CHAR(160), " ")))
+
+
+FOR AVERAGE (50 ROWS IN QS)
+QS Rank (C2): =IFERROR(VLOOKUP(A2, QS_Data!$A$1:$B$50, 2, FALSE), "")
+
+ARWU Rank (D2): =IFERROR(VLOOKUP(A2, ARWU_Data!$A$1:$B$30, 2, FALSE), "")
+
+CWUR Rank (E2): =IFERROR(VLOOKUP(A2, CWUR_Data!$A$1:$B$10, 2, FALSE), "")
+
+
+
+
+HELPER COLUMNS
+Create three new columns (let’s say H, I, J):
+
+    QS Points (H2): =IF(ISNUMBER(C2), 101-C2, "")
+
+    ARWU Points (I2): =IF(ISNUMBER(D2), 101-D2, "")
+
+    CWUR Points (J2): =IF(ISNUMBER(E2), 101-E2, "")
+
+TOTAL SCORE
+Now, in your Total Score column (F2), use this formula:
+code Excel
+
+=AVERAGE(H2:J2)

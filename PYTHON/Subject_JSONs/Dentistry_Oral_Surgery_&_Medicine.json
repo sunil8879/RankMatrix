@@ -1,0 +1,302 @@
+[
+    {
+        "University":"Karolinska Institutet",
+        "Location":"Sweden",
+        "Total_Score":100.0,
+        "Meta_Rank":1
+    },
+    {
+        "University":"The University of Hong Kong",
+        "Location":"Hong Kong SAR, China",
+        "Total_Score":99.0,
+        "Meta_Rank":2
+    },
+    {
+        "University":"Academic Centre for Dentistry Amsterdam (ACTA), Amsterdam the Netherlands",
+        "Location":"Netherlands",
+        "Total_Score":98.0,
+        "Meta_Rank":3
+    },
+    {
+        "University":"University of Michigan-Ann Arbor",
+        "Location":"United States of America",
+        "Total_Score":97.0,
+        "Meta_Rank":4
+    },
+    {
+        "University":"King's College London",
+        "Location":"United Kingdom",
+        "Total_Score":96.0,
+        "Meta_Rank":5
+    },
+    {
+        "University":"University of California, San Francisco",
+        "Location":"United States of America",
+        "Total_Score":95.0,
+        "Meta_Rank":6
+    },
+    {
+        "University":"University of Zurich",
+        "Location":"Switzerland",
+        "Total_Score":94.0,
+        "Meta_Rank":7
+    },
+    {
+        "University":"University of Bern",
+        "Location":"Switzerland",
+        "Total_Score":93.0,
+        "Meta_Rank":8
+    },
+    {
+        "University":"Institute of Science Tokyo",
+        "Location":"Japan",
+        "Total_Score":92.0,
+        "Meta_Rank":9
+    },
+    {
+        "University":"Sichuan University",
+        "Location":"China (Mainland)",
+        "Total_Score":91.0,
+        "Meta_Rank":10
+    },
+    {
+        "University":"Complutense University of Madrid",
+        "Location":"Spain",
+        "Total_Score":90.0,
+        "Meta_Rank":11
+    },
+    {
+        "University":"Queen Mary University of London",
+        "Location":"United Kingdom",
+        "Total_Score":89.0,
+        "Meta_Rank":12
+    },
+    {
+        "University":"Harvard University",
+        "Location":"United States of America",
+        "Total_Score":88.0,
+        "Meta_Rank":13
+    },
+    {
+        "University":"University of Gothenburg",
+        "Location":"Sweden",
+        "Total_Score":87.0,
+        "Meta_Rank":14
+    },
+    {
+        "University":"Universidade de S\u00e3o Paulo",
+        "Location":"Brazil",
+        "Total_Score":86.0,
+        "Meta_Rank":15
+    },
+    {
+        "University":"Imam Abdulrahman Bin Faisal University (IAU)",
+        "Location":"Saudi Arabia",
+        "Total_Score":85.0,
+        "Meta_Rank":16
+    },
+    {
+        "University":"University of Pennsylvania",
+        "Location":"United States of America",
+        "Total_Score":84.0,
+        "Meta_Rank":17
+    },
+    {
+        "University":"University of North Carolina at Chapel Hill",
+        "Location":"United States of America",
+        "Total_Score":83.0,
+        "Meta_Rank":18
+    },
+    {
+        "University":"University of Birmingham",
+        "Location":"United Kingdom",
+        "Total_Score":82.0,
+        "Meta_Rank":19
+    },
+    {
+        "University":"National University of Singapore (NUS)",
+        "Location":"Singapore",
+        "Total_Score":82.0,
+        "Meta_Rank":19
+    },
+    {
+        "University":"University of Washington",
+        "Location":"United States of America",
+        "Total_Score":80.0,
+        "Meta_Rank":21
+    },
+    {
+        "University":"Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
+        "Location":"Germany",
+        "Total_Score":79.0,
+        "Meta_Rank":22
+    },
+    {
+        "University":"KU Leuven",
+        "Location":"Belgium",
+        "Total_Score":78.0,
+        "Meta_Rank":23
+    },
+    {
+        "University":"New York University (NYU)",
+        "Location":"United States of America",
+        "Total_Score":77.0,
+        "Meta_Rank":24
+    },
+    {
+        "University":"Saveetha Institute of Medical And Technical Sciences (SIMATS)",
+        "Location":"India",
+        "Total_Score":76.0,
+        "Meta_Rank":25
+    },
+    {
+        "University":"Universidade Estadual de Campinas (Unicamp)",
+        "Location":"Brazil",
+        "Total_Score":75.0,
+        "Meta_Rank":26
+    },
+    {
+        "University":"University of California, Los Angeles (UCLA)",
+        "Location":"United States of America",
+        "Total_Score":75.0,
+        "Meta_Rank":26
+    },
+    {
+        "University":"University at Buffalo SUNY",
+        "Location":"United States of America",
+        "Total_Score":73.0,
+        "Meta_Rank":28
+    },
+    {
+        "University":"Tufts University",
+        "Location":"United States of America",
+        "Total_Score":72.0,
+        "Meta_Rank":29
+    },
+    {
+        "University":"Universidad de Chile",
+        "Location":"Chile",
+        "Total_Score":71.0,
+        "Meta_Rank":30
+    },
+    {
+        "University":"University of Geneva",
+        "Location":"Switzerland",
+        "Total_Score":70.0,
+        "Meta_Rank":31
+    },
+    {
+        "University":"Chulalongkorn University",
+        "Location":"Thailand",
+        "Total_Score":69.0,
+        "Meta_Rank":32
+    },
+    {
+        "University":"Wuhan University",
+        "Location":"China (Mainland)",
+        "Total_Score":68.0,
+        "Meta_Rank":33
+    },
+    {
+        "University":"Jordan University of Science & Technology",
+        "Location":"Jordan",
+        "Total_Score":67.0,
+        "Meta_Rank":34
+    },
+    {
+        "University":"The University of Sheffield",
+        "Location":"United Kingdom",
+        "Total_Score":66.0,
+        "Meta_Rank":35
+    },
+    {
+        "University":"Universitat Internacional de Catalunya",
+        "Location":"Spain",
+        "Total_Score":65.0,
+        "Meta_Rank":36
+    },
+    {
+        "University":"UCL",
+        "Location":"United Kingdom",
+        "Total_Score":64.0,
+        "Meta_Rank":37
+    },
+    {
+        "University":"UNESP",
+        "Location":"Brazil",
+        "Total_Score":63.0,
+        "Meta_Rank":38
+    },
+    {
+        "University":"Columbia University",
+        "Location":"United States of America",
+        "Total_Score":63.0,
+        "Meta_Rank":38
+    },
+    {
+        "University":"Malmo University",
+        "Location":"Sweden",
+        "Total_Score":63.0,
+        "Meta_Rank":38
+    },
+    {
+        "University":"The University of Melbourne",
+        "Location":"Australia",
+        "Total_Score":60.0,
+        "Meta_Rank":41
+    },
+    {
+        "University":"Cardiff University",
+        "Location":"United Kingdom",
+        "Total_Score":60.0,
+        "Meta_Rank":41
+    },
+    {
+        "University":"Yonsei University",
+        "Location":"Republic of Korea",
+        "Total_Score":58.0,
+        "Meta_Rank":43
+    },
+    {
+        "University":"Newcastle University",
+        "Location":"United Kingdom",
+        "Total_Score":57.0,
+        "Meta_Rank":44
+    },
+    {
+        "University":"Peking University",
+        "Location":"China (Mainland)",
+        "Total_Score":56.0,
+        "Meta_Rank":45
+    },
+    {
+        "University":"Universidad de los Andes - Chile",
+        "Location":"Chile",
+        "Total_Score":55.0,
+        "Meta_Rank":46
+    },
+    {
+        "University":"Boston University",
+        "Location":"United States of America",
+        "Total_Score":54.0,
+        "Meta_Rank":47
+    },
+    {
+        "University":"The University of Manchester",
+        "Location":"United Kingdom",
+        "Total_Score":53.0,
+        "Meta_Rank":48
+    },
+    {
+        "University":"Adelaide University",
+        "Location":"Australia",
+        "Total_Score":52.0,
+        "Meta_Rank":49
+    },
+    {
+        "University":"University of Otago",
+        "Location":"New Zealand",
+        "Total_Score":51.0,
+        "Meta_Rank":50
+    }
+]

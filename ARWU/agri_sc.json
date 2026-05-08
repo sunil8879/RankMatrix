@@ -1,0 +1,333 @@
+[
+  {
+    "World Rank": "1",
+    "Institution": "China Agricultural University",
+    "total score": "298.8",
+    "faculty": "49.1",
+    "output": "99",
+    "quality research": "96.5",
+    "research impact": "43",
+    "intl. collaboration": "11.2"
+  },
+  
+  {
+    "World Rank": "2",
+    "Institution": "Northwest A&F University",
+    "total score": "289.3",
+    "faculty": "35.9",
+    "output": "100",
+    "quality research": "100",
+    "research impact": "43",
+    "intl. collaboration": "10.4"
+  },
+  
+  {
+    "World Rank": "3",
+    "Institution": "Wageningen University & Research",
+    "total score": "273.4",
+    "faculty": "73.7",
+    "output": "71.1",
+    "quality research": "71",
+    "research impact": "40.2",
+    "intl. collaboration": "17.3"
+  },
+  
+  {
+    "World Rank": "4",
+    "Institution": "Nanjing Agricultural University",
+    "total score": "256.7",
+    "faculty": "43.4",
+    "output": "81.2",
+    "quality research": "80.4",
+    "research impact": "41.3",
+    "intl. collaboration": "10.3"
+  },
+  
+  {
+    "World Rank": "5",
+    "Institution": "University of Florida",
+    "total score": "220.2",
+    "faculty": "53",
+    "output": "60",
+    "quality research": "58.5",
+    "research impact": "34.1",
+    "intl. collaboration": "14.5"
+  },
+  
+  {
+    "World Rank": "6",
+    "Institution": "Technical University of Munich",
+    "total score": "212.9",
+    "faculty": "80",
+    "output": "35.6",
+    "quality research": "39.6",
+    "research impact": "41.9",
+    "intl. collaboration": "15.8"
+  },
+  
+  {
+    "World Rank": "7",
+    "Institution": "Zhejiang University",
+    "total score": "210.5",
+    "faculty": "34.6",
+    "output": "60",
+    "quality research": "60.9",
+    "research impact": "43",
+    "intl. collaboration": "12.1"
+  },
+  
+  {
+    "World Rank": "8",
+    "Institution": "Swedish University of Agricultural Sciences",
+    "total score": "210",
+    "faculty": "43.9",
+    "output": "55.6",
+    "quality research": "56.2",
+    "research impact": "36.8",
+    "intl. collaboration": "17.4"
+  },
+  
+  {
+    "World Rank": "9",
+    "Institution": "South China Agricultural University",
+    "total score": "192.9",
+    "faculty": "9",
+    "output": "66.3",
+    "quality research": "68.9",
+    "research impact": "40.5",
+    "intl. collaboration": "8.2"
+  },
+  
+  {
+    "World Rank": "10",
+    "Institution": "Huazhong Agricultural University",
+    "total score": "191.4",
+    "faculty": "8.2",
+    "output": "66",
+    "quality research": "67.5",
+    "research impact": "39.4",
+    "intl. collaboration": "10.3"
+  },
+  
+  {
+    "World Rank": "11",
+    "Institution": "Aarhus University",
+    "total score": "188.8",
+    "faculty": "33",
+    "output": "50.8",
+    "quality research": "49.4",
+    "research impact": "38.6",
+    "intl. collaboration": "17.1"
+  },
+  
+  {
+    "World Rank": "12",
+    "Institution": "University of Sao Paulo",
+    "total score": "187.1",
+    "faculty": "38.1",
+    "output": "53.1",
+    "quality research": "53.2",
+    "research impact": "29.8",
+    "intl. collaboration": "13"
+  },
+  
+  {
+    "World Rank": "13",
+    "Institution": "The University of Western Australia",
+    "total score": "181.1",
+    "faculty": "33",
+    "output": "45.3",
+    "quality research": "44.3",
+    "research impact": "40.4",
+    "intl. collaboration": "18.1"
+  },
+  
+  {
+    "World Rank": "14",
+    "Institution": "University of Sydney",
+    "total score": "176.6",
+    "faculty": "47.8",
+    "output": "38.1",
+    "quality research": "36.8",
+    "research impact": "38.4",
+    "intl. collaboration": "15.4"
+  },
+  
+  {
+    "World Rank": "15",
+    "Institution": "Colorado State University",
+    "total score": "174.5",
+    "faculty": "52.1",
+    "output": "35.9",
+    "quality research": "36",
+    "research impact": "37.9",
+    "intl. collaboration": "12.6"
+  },
+  
+  {
+    "World Rank": "16",
+    "Institution": "University of California, Davis",
+    "total score": "172.7",
+    "faculty": "23.1",
+    "output": "48.9",
+    "quality research": "49.3",
+    "research impact": "36.8",
+    "intl. collaboration": "14.6"
+  },
+  
+  {
+    "World Rank": "17",
+    "Institution": "Texas A&M University",
+    "total score": "172",
+    "faculty": "32.9",
+    "output": "46",
+    "quality research": "45.1",
+    "research impact": "34.3",
+    "intl. collaboration": "13.6"
+  },
+  
+  {
+    "World Rank": "18",
+    "Institution": "University of Nebraska, Lincoln",
+    "total score": "171.7",
+    "faculty": "53.7",
+    "output": "35",
+    "quality research": "34.6",
+    "research impact": "35.8",
+    "intl. collaboration": "12.6"
+  },
+  
+  {
+    "World Rank": "19",
+    "Institution": "Beijing Forestry University",
+    "total score": "171.3",
+    "faculty": "19",
+    "output": "47.1",
+    "quality research": "57.5",
+    "research impact": "37.9",
+    "intl. collaboration": "9.7"
+  },
+  
+  {
+    "World Rank": "20",
+    "Institution": "Yangzhou University",
+    "total score": "171.1",
+    "faculty": "4.3",
+    "output": "60.7",
+    "quality research": "59",
+    "research impact": "38.1",
+    "intl. collaboration": "9.1"
+  },
+  
+  {
+    "World Rank": "21",
+    "Institution": "Sichuan Agricultural University",
+    "total score": "170.6",
+    "faculty": "0",
+    "output": "61.9",
+    "quality research": "61.2",
+    "research impact": "39",
+    "intl. collaboration": "8.5"
+  },
+  
+  {
+    "World Rank": "22",
+    "Institution": "Kansas State University",
+    "total score": "170.4",
+    "faculty": "46.9",
+    "output": "38.5",
+    "quality research": "37.2",
+    "research impact": "34.2",
+    "intl. collaboration": "13.5"
+  },
+  
+  {
+    "World Rank": "23",
+    "Institution": "Cornell University",
+    "total score": "168.6",
+    "faculty": "28.7",
+    "output": "44.6",
+    "quality research": "43.8",
+    "research impact": "36.9",
+    "intl. collaboration": "14.6"
+  },
+  
+  {
+    "World Rank": "24",
+    "Institution": "The University of Melbourne",
+    "total score": "168.1",
+    "faculty": "30.5",
+    "output": "42.1",
+    "quality research": "41.5",
+    "research impact": "38.6",
+    "intl. collaboration": "15.3"
+  },
+  
+  {
+    "World Rank": "25",
+    "Institution": "University of Alberta",
+    "total score": "167.5",
+    "faculty": "44.6",
+    "output": "35.7",
+    "quality research": "36.5",
+    "research impact": "35.3",
+    "intl. collaboration": "15.4"
+  },
+  
+  {
+    "World Rank": "26",
+    "Institution": "The University of Queensland",
+    "total score": "166.9",
+    "faculty": "24.7",
+    "output": "45.7",
+    "quality research": "45.6",
+    "research impact": "34.7",
+    "intl. collaboration": "16.3"
+  },
+  
+  {
+    "World Rank": "27",
+    "Institution": "The University of Georgia",
+    "total score": "166.7",
+    "faculty": "25.4",
+    "output": "48.2",
+    "quality research": "47.3",
+    "research impact": "33.3",
+    "intl. collaboration": "12.5"
+  },
+  
+  {
+    "World Rank": "28",
+    "Institution": "Czech University of Life Sciences Prague",
+    "total score": "165.1",
+    "faculty": "35.4",
+    "output": "38.3",
+    "quality research": "41.3",
+    "research impact": "34.8",
+    "intl. collaboration": "15.3"
+  },
+  
+  {
+    "World Rank": "29",
+    "Institution": "Hainan University",
+    "total score": "162.3",
+    "faculty": "19.4",
+    "output": "45.1",
+    "quality research": "46.9",
+    "research impact": "40.7",
+    "intl. collaboration": "10.2"
+  },
+  
+  {
+    "World Rank": "30",
+    "Institution": "University of Turin",
+    "total score": "161.2",
+    "faculty": "37.2",
+    "output": "35.4",
+    "quality research": "35.7",
+    "research impact": "39.2",
+    "intl. collaboration": "13.7"
+  }
+  
+  
+]

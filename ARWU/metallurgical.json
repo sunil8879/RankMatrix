@@ -1,0 +1,333 @@
+[
+  {
+    "World Rank": "1",
+    "Institution": "University of Science and Technology Beijing",
+    "total score": "267.2",
+    "faculty": "27.7",
+    "output": "100",
+    "quality research": "95.2",
+    "research impact": "35.9",
+    "intl. collaboration": "8.4"
+  },
+  
+  {
+    "World Rank": "2",
+    "Institution": "Central South University",
+    "total score": "242.5",
+    "faculty": "35.9",
+    "output": "61.6",
+    "quality research": "100",
+    "research impact": "36.6",
+    "intl. collaboration": "8.3"
+  },
+  
+  {
+    "World Rank": "3",
+    "Institution": "Northeastern University (Shenyang)",
+    "total score": "226.5",
+    "faculty": "10.3",
+    "output": "86.9",
+    "quality research": "86.2",
+    "research impact": "35.1",
+    "intl. collaboration": "8"
+  },
+  
+  {
+    "World Rank": "4",
+    "Institution": "Shanghai Jiao Tong University",
+    "total score": "199.7",
+    "faculty": "5",
+    "output": "72.5",
+    "quality research": "71",
+    "research impact": "40.1",
+    "intl. collaboration": "11.1"
+  },
+  
+  {
+    "World Rank": "5",
+    "Institution": "Northwestern Polytechnical University",
+    "total score": "196",
+    "faculty": "0",
+    "output": "64.5",
+    "quality research": "80.2",
+    "research impact": "42.6",
+    "intl. collaboration": "8.6"
+  },
+  
+  {
+    "World Rank": "6",
+    "Institution": "Chongqing University",
+    "total score": "194.9",
+    "faculty": "25.8",
+    "output": "52.7",
+    "quality research": "66.7",
+    "research impact": "40.6",
+    "intl. collaboration": "9.1"
+  },
+  
+  {
+    "World Rank": "7",
+    "Institution": "Harbin Institute of Technology",
+    "total score": "182.7",
+    "faculty": "0",
+    "output": "52.4",
+    "quality research": "84.2",
+    "research impact": "38.1",
+    "intl. collaboration": "8"
+  },
+  
+  {
+    "World Rank": "8",
+    "Institution": "Xi'an Jiaotong University",
+    "total score": "177.7",
+    "faculty": "0",
+    "output": "64.7",
+    "quality research": "65.1",
+    "research impact": "38.7",
+    "intl. collaboration": "9.1"
+  },
+  
+  {
+    "World Rank": "9",
+    "Institution": "University of Science and Technology of China",
+    "total score": "174.6",
+    "faculty": "0",
+    "output": "64",
+    "quality research": "65.8",
+    "research impact": "38.2",
+    "intl. collaboration": "6.6"
+  },
+  
+  {
+    "World Rank": "10",
+    "Institution": "Pohang University of Science and Technology",
+    "total score": "168.5",
+    "faculty": "35.8",
+    "output": "41.1",
+    "quality research": "38.4",
+    "research impact": "39.5",
+    "intl. collaboration": "13.8"
+  },
+  
+  {
+    "World Rank": "11",
+    "Institution": "Tohoku University",
+    "total score": "158",
+    "faculty": "14.3",
+    "output": "55.8",
+    "quality research": "44.2",
+    "research impact": "30.6",
+    "intl. collaboration": "13.1"
+  },
+  
+  {
+    "World Rank": "12",
+    "Institution": "Tsinghua University",
+    "total score": "151.6",
+    "faculty": "7.3",
+    "output": "48.2",
+    "quality research": "50.9",
+    "research impact": "36.6",
+    "intl. collaboration": "8.5"
+  },
+  
+  {
+    "World Rank": "13",
+    "Institution": "Beihang University",
+    "total score": "150.8",
+    "faculty": "7.3",
+    "output": "45.3",
+    "quality research": "52.3",
+    "research impact": "37.8",
+    "intl. collaboration": "8.1"
+  },
+  
+  {
+    "World Rank": "14",
+    "Institution": "Shanghai University",
+    "total score": "148.5",
+    "faculty": "0",
+    "output": "53",
+    "quality research": "50.9",
+    "research impact": "35.3",
+    "intl. collaboration": "9.3"
+  },
+  
+  {
+    "World Rank": "14",
+    "Institution": "The University of Manchester",
+    "total score": "148.5",
+    "faculty": "14.6",
+    "output": "46.1",
+    "quality research": "31.4",
+    "research impact": "39.4",
+    "intl. collaboration": "17"
+  },
+  
+  {
+    "World Rank": "16",
+    "Institution": "City University of Hong Kong",
+    "total score": "148.3",
+    "faculty": "0",
+    "output": "46.8",
+    "quality research": "41.5",
+    "research impact": "48.5",
+    "intl. collaboration": "11.4"
+  },
+  
+  {
+    "World Rank": "17",
+    "Institution": "Tianjin University",
+    "total score": "147.4",
+    "faculty": "12.6",
+    "output": "37.7",
+    "quality research": "49.1",
+    "research impact": "40",
+    "intl. collaboration": "7.9"
+  },
+  
+  {
+    "World Rank": "18",
+    "Institution": "Ohio State University, Columbus",
+    "total score": "142.3",
+    "faculty": "16.1",
+    "output": "44",
+    "quality research": "27.4",
+    "research impact": "40.7",
+    "intl. collaboration": "14.2"
+  },
+  
+  {
+    "World Rank": "19",
+    "Institution": "The University of Tennessee, Knoxville",
+    "total score": "140.4",
+    "faculty": "0",
+    "output": "41",
+    "quality research": "32.1",
+    "research impact": "50",
+    "intl. collaboration": "17.4"
+  },
+  
+  {
+    "World Rank": "20",
+    "Institution": "Nanjing University of Science & Technology",
+    "total score": "139",
+    "faculty": "0",
+    "output": "39.4",
+    "quality research": "47.6",
+    "research impact": "42.5",
+    "intl. collaboration": "9.5"
+  },
+  
+  {
+    "World Rank": "21",
+    "Institution": "Zhejiang University",
+    "total score": "137.2",
+    "faculty": "6.8",
+    "output": "38",
+    "quality research": "45.1",
+    "research impact": "38.1",
+    "intl. collaboration": "9.2"
+  },
+  
+  {
+    "World Rank": "22",
+    "Institution": "Delft University of Technology",
+    "total score": "137",
+    "faculty": "19.6",
+    "output": "35.2",
+    "quality research": "27.3",
+    "research impact": "37.2",
+    "intl. collaboration": "17.7"
+  },
+  
+  {
+    "World Rank": "23",
+    "Institution": "Huazhong University of Science and Technology",
+    "total score": "136.7",
+    "faculty": "0",
+    "output": "38.6",
+    "quality research": "50.9",
+    "research impact": "39.5",
+    "intl. collaboration": "7.6"
+  },
+  
+  {
+    "World Rank": "24",
+    "Institution": "The University of New South Wales",
+    "total score": "135.2",
+    "faculty": "8",
+    "output": "37.1",
+    "quality research": "31.2",
+    "research impact": "40.7",
+    "intl. collaboration": "18.2"
+  },
+  
+  {
+    "World Rank": "25",
+    "Institution": "Shandong University",
+    "total score": "134.7",
+    "faculty": "0",
+    "output": "34.8",
+    "quality research": "52.6",
+    "research impact": "38",
+    "intl. collaboration": "9.4"
+  },
+  
+  {
+    "World Rank": "26",
+    "Institution": "Beijing University of Technology",
+    "total score": "133.8",
+    "faculty": "17.9",
+    "output": "29",
+    "quality research": "42.7",
+    "research impact": "35.9",
+    "intl. collaboration": "8.4"
+  },
+  
+  {
+    "World Rank": "26",
+    "Institution": "Monash University",
+    "total score": "133.8",
+    "faculty": "10.3",
+    "output": "35.3",
+    "quality research": "28",
+    "research impact": "42.2",
+    "intl. collaboration": "18"
+  },
+  
+  {
+    "World Rank": "28",
+    "Institution": "Nanyang Technological University",
+    "total score": "132.9",
+    "faculty": "0",
+    "output": "34.2",
+    "quality research": "33.9",
+    "research impact": "46.3",
+    "intl. collaboration": "18.5"
+  },
+  
+  {
+    "World Rank": "29",
+    "Institution": "Yonsei University",
+    "total score": "132.7",
+    "faculty": "25.3",
+    "output": "27.8",
+    "quality research": "33.3",
+    "research impact": "33.7",
+    "intl. collaboration": "12.7"
+  },
+  
+  {
+    "World Rank": "30",
+    "Institution": "Imperial College London",
+    "total score": "132.3",
+    "faculty": "0",
+    "output": "43.6",
+    "quality research": "31.2",
+    "research impact": "39.5",
+    "intl. collaboration": "18"
+  }
+  
+  
+]
