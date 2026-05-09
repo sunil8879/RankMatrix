@@ -1,0 +1,62 @@
+[
+    {
+        "University":"Harvard University",
+        "Location":"Check Site",
+        "Total_Score":100.0,
+        "Meta_Rank":1
+    },
+    {
+        "University":"University of Oxford",
+        "Location":"Check Site",
+        "Total_Score":99.0,
+        "Meta_Rank":2
+    },
+    {
+        "University":"University of Michigan",
+        "Location":"Check Site",
+        "Total_Score":98.0,
+        "Meta_Rank":3
+    },
+    {
+        "University":"University of Pennsylvania",
+        "Location":"Check Site",
+        "Total_Score":97.0,
+        "Meta_Rank":4
+    },
+    {
+        "University":"Columbia University",
+        "Location":"Check Site",
+        "Total_Score":96.0,
+        "Meta_Rank":5
+    },
+    {
+        "University":"University of Toronto",
+        "Location":"Check Site",
+        "Total_Score":96.0,
+        "Meta_Rank":5
+    },
+    {
+        "University":"Norway University of Oslo",
+        "Location":"Check Site",
+        "Total_Score":94.0,
+        "Meta_Rank":7
+    },
+    {
+        "University":"Yale University",
+        "Location":"Check Site",
+        "Total_Score":93.0,
+        "Meta_Rank":8
+    },
+    {
+        "University":"Erasmus University Rotterdam",
+        "Location":"Check Site",
+        "Total_Score":92.0,
+        "Meta_Rank":9
+    },
+    {
+        "University":"University of Manchester",
+        "Location":"Check Site",
+        "Total_Score":91.0,
+        "Meta_Rank":10
+    }
+]

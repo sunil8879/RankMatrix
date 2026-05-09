@@ -1,0 +1,333 @@
+[
+  {
+    "World Rank": "1",
+    "Institution": "Yangzhou University",
+    "total score": "246",
+    "faculty": "0",
+    "output": "100",
+    "quality research": "98",
+    "research impact": "38.8",
+    "intl. collaboration": "9.3"
+  },
+  
+  {
+    "World Rank": "2",
+    "Institution": "China Agricultural University",
+    "total score": "231.7",
+    "faculty": "26.9",
+    "output": "60.3",
+    "quality research": "92.7",
+    "research impact": "42.7",
+    "intl. collaboration": "9.1"
+  },
+  
+  {
+    "World Rank": "3",
+    "Institution": "Nanjing Agricultural University",
+    "total score": "230.6",
+    "faculty": "0",
+    "output": "92.6",
+    "quality research": "88.7",
+    "research impact": "40.3",
+    "intl. collaboration": "9"
+  },
+  
+  {
+    "World Rank": "4",
+    "Institution": "Ghent University",
+    "total score": "225.2",
+    "faculty": "30.1",
+    "output": "54.4",
+    "quality research": "90.5",
+    "research impact": "35",
+    "intl. collaboration": "15.1"
+  },
+  
+  {
+    "World Rank": "5",
+    "Institution": "University of California, Davis",
+    "total score": "222.4",
+    "faculty": "53.6",
+    "output": "22.2",
+    "quality research": "100",
+    "research impact": "33.8",
+    "intl. collaboration": "12.7"
+  },
+  
+  {
+    "World Rank": "6",
+    "Institution": "University of Veterinary Medicine, Vienna",
+    "total score": "214.8",
+    "faculty": "46.7",
+    "output": "35.1",
+    "quality research": "83.7",
+    "research impact": "33.3",
+    "intl. collaboration": "16"
+  },
+  
+  {
+    "World Rank": "7",
+    "Institution": "Northwest A&F University",
+    "total score": "204.3",
+    "faculty": "0",
+    "output": "67.1",
+    "quality research": "86.1",
+    "research impact": "42.6",
+    "intl. collaboration": "8.4"
+  },
+  
+  {
+    "World Rank": "8",
+    "Institution": "South China Agricultural University",
+    "total score": "203.9",
+    "faculty": "0",
+    "output": "64.8",
+    "quality research": "92.1",
+    "research impact": "40.4",
+    "intl. collaboration": "6.7"
+  },
+  
+  {
+    "World Rank": "9",
+    "Institution": "University of Milan",
+    "total score": "202.7",
+    "faculty": "39.9",
+    "output": "23.6",
+    "quality research": "89.1",
+    "research impact": "37.4",
+    "intl. collaboration": "12.7"
+  },
+  
+  {
+    "World Rank": "10",
+    "Institution": "The Royal Veterinary College",
+    "total score": "199.2",
+    "faculty": "46.3",
+    "output": "19.2",
+    "quality research": "83.3",
+    "research impact": "36",
+    "intl. collaboration": "14.5"
+  },
+  
+  {
+    "World Rank": "11",
+    "Institution": "University of Guelph",
+    "total score": "198.6",
+    "faculty": "31.7",
+    "output": "31.4",
+    "quality research": "85.7",
+    "research impact": "35.1",
+    "intl. collaboration": "14.8"
+  },
+  
+  {
+    "World Rank": "12",
+    "Institution": "The University of Melbourne",
+    "total score": "197.8",
+    "faculty": "32.7",
+    "output": "42.3",
+    "quality research": "71.3",
+    "research impact": "37.2",
+    "intl. collaboration": "14.3"
+  },
+  
+  {
+    "World Rank": "13",
+    "Institution": "University of Veterinary Medicine Hannover",
+    "total score": "197.6",
+    "faculty": "31.9",
+    "output": "32.4",
+    "quality research": "88.6",
+    "research impact": "32.4",
+    "intl. collaboration": "12.3"
+  },
+  
+  {
+    "World Rank": "14",
+    "Institution": "Huazhong Agricultural University",
+    "total score": "194",
+    "faculty": "0",
+    "output": "66.7",
+    "quality research": "78",
+    "research impact": "38.6",
+    "intl. collaboration": "10.8"
+  },
+  
+  {
+    "World Rank": "15",
+    "Institution": "Sichuan Agricultural University",
+    "total score": "189.9",
+    "faculty": "0",
+    "output": "58.3",
+    "quality research": "82.6",
+    "research impact": "42",
+    "intl. collaboration": "7.1"
+  },
+  
+  {
+    "World Rank": "16",
+    "Institution": "University of Minnesota, Twin Cities",
+    "total score": "189.3",
+    "faculty": "38.4",
+    "output": "37.7",
+    "quality research": "66.6",
+    "research impact": "33.3",
+    "intl. collaboration": "13.3"
+  },
+  
+  {
+    "World Rank": "17",
+    "Institution": "Ohio State University, Columbus",
+    "total score": "188",
+    "faculty": "54.2",
+    "output": "22.2",
+    "quality research": "65.9",
+    "research impact": "33.9",
+    "intl. collaboration": "11.7"
+  },
+  
+  {
+    "World Rank": "18",
+    "Institution": "The University of Edinburgh",
+    "total score": "186.5",
+    "faculty": "31",
+    "output": "27.2",
+    "quality research": "79.3",
+    "research impact": "34.1",
+    "intl. collaboration": "14.9"
+  },
+  
+  {
+    "World Rank": "19",
+    "Institution": "Cornell University",
+    "total score": "186.1",
+    "faculty": "47.8",
+    "output": "20.8",
+    "quality research": "71.7",
+    "research impact": "33.9",
+    "intl. collaboration": "11.8"
+  },
+  
+  {
+    "World Rank": "20",
+    "Institution": "University of Bern",
+    "total score": "185.5",
+    "faculty": "26.5",
+    "output": "35.1",
+    "quality research": "75.3",
+    "research impact": "32.8",
+    "intl. collaboration": "15.7"
+  },
+  
+  {
+    "World Rank": "21",
+    "Institution": "University College Dublin",
+    "total score": "185",
+    "faculty": "44.1",
+    "output": "24.8",
+    "quality research": "63.8",
+    "research impact": "35.9",
+    "intl. collaboration": "16.4"
+  },
+  
+  {
+    "World Rank": "21",
+    "Institution": "University of Copenhagen",
+    "total score": "185",
+    "faculty": "9.4",
+    "output": "43",
+    "quality research": "78.3",
+    "research impact": "38.3",
+    "intl. collaboration": "15.9"
+  },
+  
+  {
+    "World Rank": "23",
+    "Institution": "Autonomous University of Barcelona",
+    "total score": "184.8",
+    "faculty": "9.4",
+    "output": "41.6",
+    "quality research": "80.5",
+    "research impact": "37.7",
+    "intl. collaboration": "15.7"
+  },
+  
+  {
+    "World Rank": "24",
+    "Institution": "Utrecht University",
+    "total score": "183",
+    "faculty": "15.3",
+    "output": "31.4",
+    "quality research": "83.4",
+    "research impact": "37",
+    "intl. collaboration": "15.8"
+  },
+  
+  {
+    "World Rank": "25",
+    "Institution": "University of Pisa",
+    "total score": "182.4",
+    "faculty": "60",
+    "output": "7.9",
+    "quality research": "66.3",
+    "research impact": "35.7",
+    "intl. collaboration": "12.6"
+  },
+  
+  {
+    "World Rank": "26",
+    "Institution": "Seoul National University",
+    "total score": "181.3",
+    "faculty": "54.3",
+    "output": "31.4",
+    "quality research": "55.7",
+    "research impact": "30.1",
+    "intl. collaboration": "9.8"
+  },
+  
+  {
+    "World Rank": "27",
+    "Institution": "Free University Berlin",
+    "total score": "179.8",
+    "faculty": "34.2",
+    "output": "35.1",
+    "quality research": "63.6",
+    "research impact": "33.8",
+    "intl. collaboration": "13.2"
+  },
+  
+  {
+    "World Rank": "28",
+    "Institution": "Purdue University, West Lafayette",
+    "total score": "179.7",
+    "faculty": "49.3",
+    "output": "22.2",
+    "quality research": "62.2",
+    "research impact": "34",
+    "intl. collaboration": "12"
+  },
+  
+  {
+    "World Rank": "29",
+    "Institution": "Texas A&M University",
+    "total score": "179.1",
+    "faculty": "17.9",
+    "output": "28.3",
+    "quality research": "84.5",
+    "research impact": "35.8",
+    "intl. collaboration": "12.5"
+  },
+  
+  {
+    "World Rank": "30",
+    "Institution": "Colorado State University",
+    "total score": "178.4",
+    "faculty": "41.9",
+    "output": "17.6",
+    "quality research": "75.8",
+    "research impact": "33",
+    "intl. collaboration": "10.1"
+  }
+  
+ 
+]

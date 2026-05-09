@@ -1,0 +1,62 @@
+[
+    {
+        "University":"University of Bristol",
+        "Location":"Check Site",
+        "Total_Score":100.0,
+        "Meta_Rank":1
+    },
+    {
+        "University":"University of Bremen",
+        "Location":"Check Site",
+        "Total_Score":99.0,
+        "Meta_Rank":2
+    },
+    {
+        "University":"University of Alberta",
+        "Location":"Check Site",
+        "Total_Score":98.0,
+        "Meta_Rank":3
+    },
+    {
+        "University":"Pierre-and-Marie-Curie University",
+        "Location":"Check Site",
+        "Total_Score":97.0,
+        "Meta_Rank":4
+    },
+    {
+        "University":"Columbia University",
+        "Location":"Check Site",
+        "Total_Score":96.0,
+        "Meta_Rank":5
+    },
+    {
+        "University":"Utrecht University",
+        "Location":"Check Site",
+        "Total_Score":95.0,
+        "Meta_Rank":6
+    },
+    {
+        "University":"University of Cambridge",
+        "Location":"Check Site",
+        "Total_Score":94.0,
+        "Meta_Rank":7
+    },
+    {
+        "University":"Claude Bernard University Lyon 1",
+        "Location":"Check Site",
+        "Total_Score":93.0,
+        "Meta_Rank":8
+    },
+    {
+        "University":"University of Oxford",
+        "Location":"Check Site",
+        "Total_Score":92.0,
+        "Meta_Rank":9
+    },
+    {
+        "University":"University of Montpellier",
+        "Location":"Check Site",
+        "Total_Score":91.0,
+        "Meta_Rank":10
+    }
+]

@@ -1,0 +1,320 @@
+[
+    {
+        "University":"Harvard University",
+        "Location":"United States of America",
+        "Total_Score":102.0,
+        "Meta_Rank":1
+    },
+    {
+        "University":"Massachusetts Institute of Technology (MIT)",
+        "Location":"United States of America",
+        "Total_Score":99.0,
+        "Meta_Rank":2
+    },
+    {
+        "University":"University of Oxford",
+        "Location":"United Kingdom",
+        "Total_Score":98.86,
+        "Meta_Rank":3
+    },
+    {
+        "University":"University of Wisconsin\u2013Madison",
+        "Location":"United States of America",
+        "Total_Score":98.0,
+        "Meta_Rank":4
+    },
+    {
+        "University":"Stanford University",
+        "Location":"United States of America",
+        "Total_Score":97.0,
+        "Meta_Rank":5
+    },
+    {
+        "University":"University of Cambridge",
+        "Location":"United Kingdom",
+        "Total_Score":96.0,
+        "Meta_Rank":6
+    },
+    {
+        "University":"University of North Carolina at Chapel Hill",
+        "Location":"United States of America",
+        "Total_Score":96.0,
+        "Meta_Rank":6
+    },
+    {
+        "University":"Emory University",
+        "Location":"United States of America",
+        "Total_Score":95.0,
+        "Meta_Rank":8
+    },
+    {
+        "University":"University of California, Berkeley (UCB)",
+        "Location":"United States of America",
+        "Total_Score":95.0,
+        "Meta_Rank":8
+    },
+    {
+        "University":"Imperial College London",
+        "Location":"United Kingdom",
+        "Total_Score":94.0,
+        "Meta_Rank":10
+    },
+    {
+        "University":"Yale University",
+        "Location":"United States of America",
+        "Total_Score":94.0,
+        "Meta_Rank":10
+    },
+    {
+        "University":"UCL",
+        "Location":"United Kingdom",
+        "Total_Score":92.0,
+        "Meta_Rank":12
+    },
+    {
+        "University":"University of California, San Diego (UCSD)",
+        "Location":"United States of America",
+        "Total_Score":92.0,
+        "Meta_Rank":12
+    },
+    {
+        "University":"University of California, San Francisco",
+        "Location":"United States of America",
+        "Total_Score":90.0,
+        "Meta_Rank":14
+    },
+    {
+        "University":"Cornell University",
+        "Location":"United States of America",
+        "Total_Score":89.0,
+        "Meta_Rank":15
+    },
+    {
+        "University":"University of Pennsylvania",
+        "Location":"United States of America",
+        "Total_Score":88.14,
+        "Meta_Rank":16
+    },
+    {
+        "University":"National University of Singapore (NUS)",
+        "Location":"Singapore",
+        "Total_Score":88.0,
+        "Meta_Rank":17
+    },
+    {
+        "University":"Johns Hopkins University",
+        "Location":"United States of America",
+        "Total_Score":88.0,
+        "Meta_Rank":17
+    },
+    {
+        "University":"ETH Zurich",
+        "Location":"Switzerland",
+        "Total_Score":87.0,
+        "Meta_Rank":19
+    },
+    {
+        "University":"University of California, Los Angeles (UCLA)",
+        "Location":"United States of America",
+        "Total_Score":86.0,
+        "Meta_Rank":20
+    },
+    {
+        "University":"University of Toronto",
+        "Location":"Canada",
+        "Total_Score":85.0,
+        "Meta_Rank":21
+    },
+    {
+        "University":"University of Washington",
+        "Location":"United States of America",
+        "Total_Score":84.29,
+        "Meta_Rank":22
+    },
+    {
+        "University":"Columbia University",
+        "Location":"United States of America",
+        "Total_Score":83.0,
+        "Meta_Rank":23
+    },
+    {
+        "University":"The University of Edinburgh",
+        "Location":"United Kingdom",
+        "Total_Score":82.0,
+        "Meta_Rank":24
+    },
+    {
+        "University":"California Institute of Technology (Caltech)",
+        "Location":"United States of America",
+        "Total_Score":81.0,
+        "Meta_Rank":25
+    },
+    {
+        "University":"Tsinghua University",
+        "Location":"China (Mainland)",
+        "Total_Score":79.0,
+        "Meta_Rank":26
+    },
+    {
+        "University":"The University of Tokyo",
+        "Location":"Japan",
+        "Total_Score":78.0,
+        "Meta_Rank":27
+    },
+    {
+        "University":"Duke University",
+        "Location":"United States of America",
+        "Total_Score":77.14,
+        "Meta_Rank":28
+    },
+    {
+        "University":"Peking University",
+        "Location":"China (Mainland)",
+        "Total_Score":77.0,
+        "Meta_Rank":29
+    },
+    {
+        "University":"Karolinska Institutet",
+        "Location":"Sweden",
+        "Total_Score":76.0,
+        "Meta_Rank":30
+    },
+    {
+        "University":"Princeton University",
+        "Location":"United States of America",
+        "Total_Score":74.0,
+        "Meta_Rank":31
+    },
+    {
+        "University":"Universit\u00e4t Heidelberg",
+        "Location":"Germany",
+        "Total_Score":73.0,
+        "Meta_Rank":32
+    },
+    {
+        "University":"University of British Columbia",
+        "Location":"Canada",
+        "Total_Score":72.0,
+        "Meta_Rank":33
+    },
+    {
+        "University":"Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+        "Location":"Germany",
+        "Total_Score":72.0,
+        "Meta_Rank":33
+    },
+    {
+        "University":"New York University (NYU)",
+        "Location":"United States of America",
+        "Total_Score":70.0,
+        "Meta_Rank":35
+    },
+    {
+        "University":"Nanyang Technological University, Singapore (NTU Singapore)",
+        "Location":"Singapore",
+        "Total_Score":69.0,
+        "Meta_Rank":36
+    },
+    {
+        "University":"University of Copenhagen",
+        "Location":"Denmark",
+        "Total_Score":68.0,
+        "Meta_Rank":37
+    },
+    {
+        "University":"King's College London",
+        "Location":"United Kingdom",
+        "Total_Score":68.0,
+        "Meta_Rank":37
+    },
+    {
+        "University":"Washington University in St. Louis",
+        "Location":"United States of America",
+        "Total_Score":66.86,
+        "Meta_Rank":39
+    },
+    {
+        "University":"University of Chicago",
+        "Location":"United States of America",
+        "Total_Score":65.0,
+        "Meta_Rank":40
+    },
+    {
+        "University":"EPFL \u2013 \u00c9cole polytechnique f\u00e9d\u00e9rale de Lausanne",
+        "Location":"Switzerland",
+        "Total_Score":64.0,
+        "Meta_Rank":41
+    },
+    {
+        "University":"The University of Melbourne",
+        "Location":"Australia",
+        "Total_Score":63.0,
+        "Meta_Rank":42
+    },
+    {
+        "University":"McGill University",
+        "Location":"Canada",
+        "Total_Score":62.0,
+        "Meta_Rank":43
+    },
+    {
+        "University":"Sorbonne University",
+        "Location":"France",
+        "Total_Score":61.0,
+        "Meta_Rank":44
+    },
+    {
+        "University":"Seoul National University",
+        "Location":"Republic of Korea",
+        "Total_Score":60.0,
+        "Meta_Rank":45
+    },
+    {
+        "University":"Wageningen University & Research",
+        "Location":"Netherlands",
+        "Total_Score":59.0,
+        "Meta_Rank":46
+    },
+    {
+        "University":"University of California, Davis",
+        "Location":"United States of America",
+        "Total_Score":58.0,
+        "Meta_Rank":47
+    },
+    {
+        "University":"University of Michigan-Ann Arbor",
+        "Location":"United States of America",
+        "Total_Score":58.0,
+        "Meta_Rank":47
+    },
+    {
+        "University":"KU Leuven",
+        "Location":"Belgium",
+        "Total_Score":56.0,
+        "Meta_Rank":49
+    },
+    {
+        "University":"The Rockefeller University",
+        "Location":"United States of America",
+        "Total_Score":55.0,
+        "Meta_Rank":50
+    },
+    {
+        "University":"The University of Manchester",
+        "Location":"United Kingdom",
+        "Total_Score":53.0,
+        "Meta_Rank":51
+    },
+    {
+        "University":"Kyoto University",
+        "Location":"Japan",
+        "Total_Score":52.0,
+        "Meta_Rank":52
+    },
+    {
+        "University":"Uppsala University",
+        "Location":"Sweden",
+        "Total_Score":51.0,
+        "Meta_Rank":53
+    }
+]

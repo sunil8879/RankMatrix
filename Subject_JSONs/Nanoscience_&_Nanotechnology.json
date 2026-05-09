@@ -1,0 +1,62 @@
+[
+    {
+        "University":"University of California, Berkeley",
+        "Location":"Check Site",
+        "Total_Score":100.0,
+        "Meta_Rank":1
+    },
+    {
+        "University":"Massachusetts Institute of Technology",
+        "Location":"Check Site",
+        "Total_Score":99.0,
+        "Meta_Rank":2
+    },
+    {
+        "University":"Georgia Institute of Technology",
+        "Location":"Check Site",
+        "Total_Score":98.0,
+        "Meta_Rank":3
+    },
+    {
+        "University":"Northwestern University",
+        "Location":"Check Site",
+        "Total_Score":97.0,
+        "Meta_Rank":4
+    },
+    {
+        "University":"Nanyang Technological University",
+        "Location":"Check Site",
+        "Total_Score":96.0,
+        "Meta_Rank":5
+    },
+    {
+        "University":"Stanford University",
+        "Location":"Check Site",
+        "Total_Score":95.0,
+        "Meta_Rank":6
+    },
+    {
+        "University":"University of Chicago",
+        "Location":"Check Site",
+        "Total_Score":94.0,
+        "Meta_Rank":7
+    },
+    {
+        "University":"Peking University",
+        "Location":"Check Site",
+        "Total_Score":93.0,
+        "Meta_Rank":8
+    },
+    {
+        "University":"National University of Singapore",
+        "Location":"Check Site",
+        "Total_Score":92.0,
+        "Meta_Rank":9
+    },
+    {
+        "University":"University of Cambridge",
+        "Location":"Check Site",
+        "Total_Score":91.0,
+        "Meta_Rank":10
+    }
+]

@@ -1,0 +1,131 @@
+Here is a **clear, numbered breakdown of the methodology** used by the three major global rankings: **QS, ARWU, and CWUR**.
+
+---
+
+# 1. QS World University Rankings (Quacquarelli Symonds)
+
+QS uses **6 main indicators**, each with a weight.
+
+### **1. Academic Reputation (40%)**
+
+* Based on global academic surveys
+* Thousands of professors rate universities
+* Measures **teaching & research reputation**
+
+### **2. Employer Reputation (10%)**
+
+* Survey of employers worldwide
+* Measures **job-readiness of graduates**
+
+### **3. Faculty/Student Ratio (20%)**
+
+* Proxy for teaching quality
+* Lower ratio = more personalized teaching
+
+### **4. Citations per Faculty (20%)**
+
+* Research impact per faculty member
+* Uses Scopus database
+
+### **5. International Faculty Ratio (5%)**
+
+* % of foreign professors
+* Measures global diversity
+
+### **6. International Student Ratio (5%)**
+
+* % of international students
+* Measures global attractiveness
+
+---
+
+# 2. ARWU (Shanghai Ranking)
+
+ARWU focuses almost entirely on **research excellence and scientific prestige**.
+
+### **1. Alumni winning Nobel/Fields Medals (10%)**
+
+* Measures historical academic excellence of graduates
+
+### **2. Staff winning Nobel/Fields Medals (20%)**
+
+* Current faculty recognition
+
+### **3. Highly Cited Researchers (HiCi) (20%)**
+
+* Researchers in top citation lists
+
+### **4. Nature & Science papers (N&S) (20%)**
+
+* Publications in top 2 journals globally
+
+### **5. Indexed publications (PUB) (20%)**
+
+* Total research output in major databases
+
+### **6. Per Capita Performance (PCP) (10%)**
+
+* Research output per faculty member
+
+👉 **Key idea:** ARWU = PURE RESEARCH POWER ranking
+
+---
+
+# 3. CWUR (Center for World University Rankings)
+
+CWUR is unique because it uses **no surveys at all**—only objective data.
+
+### **1. Education (25%)**
+
+* Alumni achievements
+* Alumni success relative to university size
+
+### **2. Employability (25%)**
+
+* Alumni working in top global companies
+* CEO / leadership positions
+
+### **3. Faculty Quality (10%)**
+
+* Faculty awards (Nobel, Fields, etc.)
+
+### **4. Research Output (10%)**
+
+* Number of research papers
+
+### **5. High-Quality Publications (10%)**
+
+* Papers in top journals
+
+### **6. Influence (10%)**
+
+* Citation impact of research
+
+### **7. Citations (10%)**
+
+* Total research citations
+
+---
+
+# 🔥 Simple Comparison
+
+| Ranking  | Main Focus                            | Data Source Style                |
+| -------- | ------------------------------------- | -------------------------------- |
+| **QS**   | Reputation + Teaching + Employability | Surveys + citations              |
+| **ARWU** | Elite research excellence             | Nobel, Nature/Science, citations |
+| **CWUR** | Outcomes + research + employability   | Pure objective data (no surveys) |
+
+---
+
+# ⚡ One-line intuition
+
+* **QS** → “What do people think of the university?”
+* **ARWU** → “How world-class is its research?”
+* **CWUR** → “What do graduates achieve in real life?”
+
+---
+
+If you want, I can also show:
+
+* which ranking is most reliable (and why they often differ)
+* or how Indian universities perform differently across QS vs ARWU vs CWUR

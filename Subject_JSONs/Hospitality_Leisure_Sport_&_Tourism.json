@@ -1,0 +1,440 @@
+[
+    {
+        "University":"EHL Hospitality Business School",
+        "Location":"Switzerland",
+        "Total_Score":100.0,
+        "Meta_Rank":1
+    },
+    {
+        "University":"Les Roches Global Hospitality Management Education",
+        "Location":"Switzerland",
+        "Total_Score":99.0,
+        "Meta_Rank":2
+    },
+    {
+        "University":"University of Florida",
+        "Location":"United States of America",
+        "Total_Score":99.0,
+        "Meta_Rank":2
+    },
+    {
+        "University":"Glion Institute of Higher Education",
+        "Location":"Switzerland",
+        "Total_Score":98.0,
+        "Meta_Rank":4
+    },
+    {
+        "University":"SHMS - Swiss Hotel Management School",
+        "Location":"Switzerland",
+        "Total_Score":97.0,
+        "Meta_Rank":5
+    },
+    {
+        "University":"C\u00e9sar Ritz Colleges Switzerland",
+        "Location":"Switzerland",
+        "Total_Score":96.0,
+        "Meta_Rank":6
+    },
+    {
+        "University":"Hotelschool The Hague",
+        "Location":"Netherlands",
+        "Total_Score":94.0,
+        "Meta_Rank":7
+    },
+    {
+        "University":"University of Nevada - Las Vegas",
+        "Location":"United States of America",
+        "Total_Score":94.0,
+        "Meta_Rank":7
+    },
+    {
+        "University":"Purdue University",
+        "Location":"United States of America",
+        "Total_Score":94.0,
+        "Meta_Rank":7
+    },
+    {
+        "University":"Purdue University, West Lafayette",
+        "Location":"United States of America",
+        "Total_Score":94.0,
+        "Meta_Rank":7
+    },
+    {
+        "University":"University of Nevada, Las Vegas",
+        "Location":"United States of America",
+        "Total_Score":94.0,
+        "Meta_Rank":7
+    },
+    {
+        "University":"The Hong Kong Polytechnic University",
+        "Location":"Hong Kong SAR, China",
+        "Total_Score":93.25,
+        "Meta_Rank":12
+    },
+    {
+        "University":"HIM Business School",
+        "Location":"Switzerland",
+        "Total_Score":93.0,
+        "Meta_Rank":13
+    },
+    {
+        "University":"Virginia Polytechnic Institute and State University",
+        "Location":"United States of America",
+        "Total_Score":93.0,
+        "Meta_Rank":13
+    },
+    {
+        "University":"Culinary Arts Academy Switzerland",
+        "Location":"Switzerland",
+        "Total_Score":92.0,
+        "Meta_Rank":15
+    },
+    {
+        "University":"University of Massachusetts Amherst",
+        "Location":"United States of America",
+        "Total_Score":91.0,
+        "Meta_Rank":16
+    },
+    {
+        "University":"Macao University of Tourism (ex-Macao Institute for Tourism Studies)",
+        "Location":"Macao SAR, China",
+        "Total_Score":91.0,
+        "Meta_Rank":16
+    },
+    {
+        "University":"University of Massachusetts, Amherst",
+        "Location":"United States of America",
+        "Total_Score":91.0,
+        "Meta_Rank":16
+    },
+    {
+        "University":"University of Surrey",
+        "Location":"United Kingdom",
+        "Total_Score":90.62,
+        "Meta_Rank":19
+    },
+    {
+        "University":"Vatel, Hotel & Tourism Business School",
+        "Location":"France",
+        "Total_Score":90.0,
+        "Meta_Rank":20
+    },
+    {
+        "University":"BHMS - Business & Hotel Management School",
+        "Location":"Switzerland",
+        "Total_Score":89.0,
+        "Meta_Rank":21
+    },
+    {
+        "University":"IMI International Management Institute Switzerland",
+        "Location":"Switzerland",
+        "Total_Score":88.0,
+        "Meta_Rank":22
+    },
+    {
+        "University":"EUHT StPOL Barcelona - Sant Pol School of Hospitality and Culinary Management",
+        "Location":"Spain",
+        "Total_Score":87.0,
+        "Meta_Rank":23
+    },
+    {
+        "University":"Pennsylvania State University",
+        "Location":"United States of America",
+        "Total_Score":86.0,
+        "Meta_Rank":24
+    },
+    {
+        "University":"Pennsylvania State University, University Park",
+        "Location":"United States of America",
+        "Total_Score":86.0,
+        "Meta_Rank":24
+    },
+    {
+        "University":"Manchester Metropolitan University",
+        "Location":"United Kingdom",
+        "Total_Score":86.0,
+        "Meta_Rank":24
+    },
+    {
+        "University":"University of Central Florida",
+        "Location":"United States of America",
+        "Total_Score":85.38,
+        "Meta_Rank":27
+    },
+    {
+        "University":"Cornell University",
+        "Location":"United States of America",
+        "Total_Score":85.0,
+        "Meta_Rank":28
+    },
+    {
+        "University":"University of Macau",
+        "Location":"Macao SAR, China",
+        "Total_Score":85.0,
+        "Meta_Rank":28
+    },
+    {
+        "University":"HTMi Hotel and Tourism Management Institute Switzerland",
+        "Location":"Switzerland",
+        "Total_Score":84.0,
+        "Meta_Rank":30
+    },
+    {
+        "University":"Griffith University",
+        "Location":"Australia",
+        "Total_Score":83.25,
+        "Meta_Rank":31
+    },
+    {
+        "University":"University of Johannesburg",
+        "Location":"Check Site",
+        "Total_Score":82.0,
+        "Meta_Rank":32
+    },
+    {
+        "University":"Sun Yat-sen University",
+        "Location":"China (Mainland)",
+        "Total_Score":81.5,
+        "Meta_Rank":33
+    },
+    {
+        "University":"Bournemouth University",
+        "Location":"United Kingdom",
+        "Total_Score":80.87,
+        "Meta_Rank":34
+    },
+    {
+        "University":"Xiamen University",
+        "Location":"China (Mainland)",
+        "Total_Score":80.0,
+        "Meta_Rank":35
+    },
+    {
+        "University":"Blue Mountains International Hotel Management School (BMIHMS)",
+        "Location":"Australia",
+        "Total_Score":80.0,
+        "Meta_Rank":35
+    },
+    {
+        "University":"The University of Queensland",
+        "Location":"Australia",
+        "Total_Score":79.5,
+        "Meta_Rank":37
+    },
+    {
+        "University":"Curtin University",
+        "Location":"Australia",
+        "Total_Score":79.0,
+        "Meta_Rank":38
+    },
+    {
+        "University":"EHG - Ecole H\u00f4teli\u00e8re Geneve (Geneva Hotel Management School)",
+        "Location":"Switzerland",
+        "Total_Score":79.0,
+        "Meta_Rank":38
+    },
+    {
+        "University":"National Kaohsiung University of Hospitality and Tourism (NKUHT)",
+        "Location":"Taiwan",
+        "Total_Score":78.0,
+        "Meta_Rank":40
+    },
+    {
+        "University":"University of Canterbury",
+        "Location":"New Zealand",
+        "Total_Score":78.0,
+        "Meta_Rank":40
+    },
+    {
+        "University":"Florida International University",
+        "Location":"United States of America",
+        "Total_Score":78.0,
+        "Meta_Rank":40
+    },
+    {
+        "University":"University of Canterbury | Te Whare W\u0101nanga o Waitaha",
+        "Location":"New Zealand",
+        "Total_Score":78.0,
+        "Meta_Rank":40
+    },
+    {
+        "University":"Florida State University",
+        "Location":"United States of America",
+        "Total_Score":78.0,
+        "Meta_Rank":40
+    },
+    {
+        "University":"Washington State University",
+        "Location":"United States of America",
+        "Total_Score":76.75,
+        "Meta_Rank":45
+    },
+    {
+        "University":"Macau University of Science and Technology",
+        "Location":"Macao SAR, China",
+        "Total_Score":76.0,
+        "Meta_Rank":46
+    },
+    {
+        "University":"The Southern Alberta Institute of Technology (SAIT)",
+        "Location":"Canada",
+        "Total_Score":76.0,
+        "Meta_Rank":46
+    },
+    {
+        "University":"Taylor's University",
+        "Location":"Malaysia",
+        "Total_Score":75.0,
+        "Meta_Rank":48
+    },
+    {
+        "University":"Deakin University",
+        "Location":"Australia",
+        "Total_Score":75.0,
+        "Meta_Rank":48
+    },
+    {
+        "University":"Temple University",
+        "Location":"United States of America",
+        "Total_Score":74.87,
+        "Meta_Rank":50
+    },
+    {
+        "University":"University of Houston",
+        "Location":"United States of America",
+        "Total_Score":74.38,
+        "Meta_Rank":51
+    },
+    {
+        "University":"Oklahoma State University",
+        "Location":"Check Site",
+        "Total_Score":74.0,
+        "Meta_Rank":52
+    },
+    {
+        "University":"Sejong University",
+        "Location":"Republic of Korea",
+        "Total_Score":73.12,
+        "Meta_Rank":53
+    },
+    {
+        "University":"Zhejiang University",
+        "Location":"China (Mainland)",
+        "Total_Score":73.0,
+        "Meta_Rank":54
+    },
+    {
+        "University":"Leeds Beckett University",
+        "Location":"United Kingdom",
+        "Total_Score":72.0,
+        "Meta_Rank":55
+    },
+    {
+        "University":"Oxford Brookes University",
+        "Location":"United Kingdom",
+        "Total_Score":72.0,
+        "Meta_Rank":55
+    },
+    {
+        "University":"Kyung Hee University",
+        "Location":"Republic of Korea",
+        "Total_Score":71.62,
+        "Meta_Rank":57
+    },
+    {
+        "University":"University of Waterloo",
+        "Location":"Canada",
+        "Total_Score":71.0,
+        "Meta_Rank":58
+    },
+    {
+        "University":"Institut Lyfe (formerly Institut Paul Bocuse)",
+        "Location":"France",
+        "Total_Score":67.0,
+        "Meta_Rank":59
+    },
+    {
+        "University":"Breda University of Applied Sciences",
+        "Location":"Netherlands",
+        "Total_Score":66.0,
+        "Meta_Rank":60
+    },
+    {
+        "University":"The University of Hong Kong",
+        "Location":"Hong Kong SAR, China",
+        "Total_Score":65.0,
+        "Meta_Rank":61
+    },
+    {
+        "University":"Duy Tan University",
+        "Location":"Viet Nam",
+        "Total_Score":60.0,
+        "Meta_Rank":62
+    },
+    {
+        "University":"The Chinese University of Hong Kong (CUHK)",
+        "Location":"Hong Kong SAR, China",
+        "Total_Score":59.0,
+        "Meta_Rank":63
+    },
+    {
+        "University":"Michigan State University",
+        "Location":"United States of America",
+        "Total_Score":59.0,
+        "Meta_Rank":63
+    },
+    {
+        "University":"International Hotel School",
+        "Location":"South Africa",
+        "Total_Score":57.0,
+        "Meta_Rank":65
+    },
+    {
+        "University":"Tsinghua University",
+        "Location":"China (Mainland)",
+        "Total_Score":56.0,
+        "Meta_Rank":66
+    },
+    {
+        "University":"Fudan University",
+        "Location":"China (Mainland)",
+        "Total_Score":55.0,
+        "Meta_Rank":67
+    },
+    {
+        "University":"UCSI University",
+        "Location":"Malaysia",
+        "Total_Score":54.0,
+        "Meta_Rank":68
+    },
+    {
+        "University":"University of Strathclyde",
+        "Location":"United Kingdom",
+        "Total_Score":53.0,
+        "Meta_Rank":69
+    },
+    {
+        "University":"University of Derby",
+        "Location":"United Kingdom",
+        "Total_Score":53.0,
+        "Meta_Rank":69
+    },
+    {
+        "University":"Auckland University of Technology (AUT)",
+        "Location":"New Zealand",
+        "Total_Score":51.0,
+        "Meta_Rank":71
+    },
+    {
+        "University":"University of Otago",
+        "Location":"New Zealand",
+        "Total_Score":51.0,
+        "Meta_Rank":71
+    },
+    {
+        "University":"Universidad An\u00e1huac M\u00e9xico",
+        "Location":"Mexico",
+        "Total_Score":51.0,
+        "Meta_Rank":71
+    }
+]

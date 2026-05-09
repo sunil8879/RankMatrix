@@ -1,0 +1,62 @@
+[
+    {
+        "University":"Cornell University",
+        "Location":"Check Site",
+        "Total_Score":100.0,
+        "Meta_Rank":1
+    },
+    {
+        "University":"London School of Economics",
+        "Location":"Check Site",
+        "Total_Score":99.0,
+        "Meta_Rank":2
+    },
+    {
+        "University":"Cardiff University",
+        "Location":"Check Site",
+        "Total_Score":98.0,
+        "Meta_Rank":3
+    },
+    {
+        "University":"University of Warwick",
+        "Location":"Check Site",
+        "Total_Score":97.0,
+        "Meta_Rank":4
+    },
+    {
+        "University":"University of California, Berkeley",
+        "Location":"Check Site",
+        "Total_Score":96.0,
+        "Meta_Rank":5
+    },
+    {
+        "University":"University of Manchester",
+        "Location":"Check Site",
+        "Total_Score":96.0,
+        "Meta_Rank":5
+    },
+    {
+        "University":"Harvard University",
+        "Location":"Check Site",
+        "Total_Score":94.0,
+        "Meta_Rank":7
+    },
+    {
+        "University":"Columbia University",
+        "Location":"Check Site",
+        "Total_Score":93.0,
+        "Meta_Rank":8
+    },
+    {
+        "University":"University of Toronto",
+        "Location":"Check Site",
+        "Total_Score":93.0,
+        "Meta_Rank":8
+    },
+    {
+        "University":"University of Minnesota",
+        "Location":"Check Site",
+        "Total_Score":91.0,
+        "Meta_Rank":10
+    }
+]

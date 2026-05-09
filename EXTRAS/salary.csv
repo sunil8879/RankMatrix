@@ -1,0 +1,102 @@
+rank,name,location,wt. salary,tier,alumni network rank
+,,,,,
+1,MIT: Sloan ,US,"2,45,991",I,4
+2,Insead,France,"2,17,822",I,32
+3,University of Pennsylvania: Wharton,US,"2,46,813",I,18
+4,IESE Business School,Spain,"1,96,560",I,2
+4,London Business School,UK,"2,17,389",I,28
+6,HEC Paris,France,"2,00,984",I,42
+7,Esade Business School,Spain,"2,06,389",I,37
+8,Ceibs ,China,"2,02,343",I,31
+9,UC Berkeley: Haas,US,"2,20,903",II,15
+10,Harvard Business School ,US,"2,59,874",II,11
+11,"Northwestern University, Kellogg School of Management ",US,"2,19,821",II,9
+12,"Nanyang Business School, NTU Singapore",Singapore,"1,94,918",II,62
+12,Indian School of Business ,India,"2,01,712",II,6
+14,Peking University: Guanghua ,China,"1,77,317",II,12
+15,Cornell University: Johnson ,US,"2,04,930",II,3
+16,Duke University's Fuqua School of Business ,US,"2,10,049",II,29
+17,Yale School of Management ,US,"2,09,061",II,20
+17,University of Cambridge: Judge ,UK,"1,97,370",II,27
+19,University of Virginia: Darden ,US,"2,11,697",II,10
+20,University of Chicago: Booth ,US,"2,31,939",II,7
+21,IE Business School,Spain,"1,76,305",II,56
+22,ESCP Business School,France,"1,42,324",II,73
+23,New York University: Stern ,US,"2,10,675",II,36
+24,HKUST Business School ,Hong Kong,"1,71,999",II,69
+24,Essec Business School ,France,"1,39,055",II,40
+26,Dartmouth College: Tuck ,US,"2,11,074",II,1
+27,University of Oxford: Saïd,UK,"1,89,841",II,61
+27,Indian Institute of Management Ahmedabad ,India,"2,27,942",II,21
+29,National University of Singapore Business School ,Singapore,"1,81,224",II,75
+30,Fudan University School of Management ,China,"1,71,138",II,30
+30,IMD — International Institute for Management Development ,Switzerland,"1,83,444",II,41
+32,UCLA Anderson School of Management ,US,"1,94,399",II,23
+33,HKU Business School ,Hong Kong,"1,64,890",II,65
+34,Indian Institute of Management Bangalore ,India,"1,87,973",II,33
+34,University of Michigan: Ross,US,"1,97,193",II,16
+36,Shanghai University of Finance and Economics: College of Business ,China,"1,97,720",II,19
+37,Washington University: Olin ,US,"1,65,812",II,26
+38,Rice University: Jones ,US,"1,92,461",II,43
+39,Imperial Business School,UK,"1,59,684",II,78
+40,University of North Carolina: Kenan-Flagler ,US,"1,80,961",II,17
+41,Carnegie Mellon: Tepper ,US,"1,88,281",II,54
+41,University of Texas at Austin: McCombs ,US,"1,94,009",II,14
+41,EMLyon Business School ,France,"1,39,691",II,72
+44,Georgia Tech Scheller College of Business ,US,"1,71,740",II,24
+45,University of Washington: Michael G. Foster ,US,"1,89,429",II,67
+46,University of Southern California: Marshall ,US,"1,88,451",II,13
+47,Edhec Business School ,France,"1,25,429",II,53
+48,AGSM at UNSW Business School,Australia,"1,54,223",II,55
+49,Georgetown University: McDonough,US,"1,84,076",II,46
+49,Alliance Manchester Business School,UK,"1,44,437",II,44
+51,Vanderbilt University: Owen ,US,"1,88,825",II,50
+52,"Rotterdam School of Management, Erasmus University",Netherlands,"1,37,495",III,85
+53,Indian Institute of Management Calcutta ,India,"1,73,476",III,51
+54,Arizona State University: WP Carey ,US,"1,46,323",III,45
+55,Cranfield School of Management ,UK,"1,50,277",III,25
+56,Emory University: Goizueta ,US,"1,85,235",III,58
+57,Singapore Management University: Lee Kong Chian ,Singapore,"1,55,830",III,89
+58,University of St Gallen ,Switzerland,"1,64,541",III,79
+58,Indian Institute of Management Lucknow ,India,"1,66,121",III,47
+60,University of Georgia: Terry ,US,"1,50,638",III,57
+61,University of Notre Dame: Mendoza ,US,"1,69,053",III,8
+62,University of Rochester: Simon Business School ,US,"1,61,236",III,49
+62,Indian Institute of Management Indore ,India,"1,63,234",III,48
+64,Boston University Questrom School of Business ,US,"1,53,767",III,84
+65,Mannheim Business School ,Germany,"1,47,702",III,87
+65,Indian Institute of Management Kozhikode ,India,"1,57,483",III,22
+67,Michigan State University: Broad,US,"1,56,393",III,77
+68,University of Texas at Dallas: Jindal ,US,"1,39,070",III,35
+69,WHU – Otto Beisheim School of Management,Germany,"1,34,423",III,39
+70,Warwick Business School,UK,"1,35,682",III,64
+70,University of Pittsburgh: Katz ,US,"1,60,075",III,97
+72,Bayes Business School,UK,"1,39,302",III,86
+73,University College Dublin: Smurfit ,Ireland,"1,21,433",III,66
+74,Western University: Ivey ,Canada,"1,28,001",III,52
+74,SP Jain Institute of Management & Research (SPJIMR) ,India,"1,56,649",III,76
+76,Fordham University: Gabelli ,US,"1,60,227",III,60
+77,Brigham Young University: Marriott ,US,"1,60,035",III,5
+78,Miami Herbert Business School ,US,"1,39,600",III,63
+79,The Lisbon MBA Catolica | Nova ,Portugal,"1,38,232",III,99
+79,ESMT Berlin,Germany,"1,32,108",III,80
+81,University of Toronto: Rotman ,Canada,"1,29,228",III,83
+82,William & Mary: Mason,US,"1,49,386",III,59
+82,XLRI — Xavier School of Management ,India,"1,38,457",III,38
+84,Wisconsin School of Business ,US,"1,51,340",III,34
+85,Durham University Business School,UK,"1,14,303",III,98
+85,Copenhagen Business School (CBS),Denmark,"1,34,804",III,93
+87,McGill University: Desautels ,Canada,"1,22,804",III,74
+88,Audencia,France,"95,847",III,100
+89,Hult International Business School ,US,"1,28,661",IV,82
+90,Polimi School of Management ,Italy,"1,22,887",IV,95
+91,University of Edinburgh Business School ,UK,"1,29,180",IV,81
+92,Queen's University: Smith ,Canada,"1,21,244",IV,68
+92,Frankfurt School of Finance and Management ,Germany,"1,24,933",IV,88
+92,University of Bath School of Management ,UK,"1,01,976",IV,71
+95,Eada Business School Barcelona,Spain,"1,10,344",IV,92
+96,University of Porto – FEP | PBS ,Portugal,"1,10,508",IV,94
+97,Sasin School of Management ,Thailand,"1,06,915",IV,70
+98,University of Liverpool Management School ,UK,"96,274",IV,96
+99,University of British Columbia: Sauder ,Canada,"1,11,074",IV,91
+100,University of Glasgow: Adam Smith ,UK,"1,07,711",IV,90

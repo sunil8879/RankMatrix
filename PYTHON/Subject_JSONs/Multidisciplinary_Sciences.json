@@ -1,0 +1,62 @@
+[
+    {
+        "University":"Harvard University",
+        "Location":"Check Site",
+        "Total_Score":100.0,
+        "Meta_Rank":1
+    },
+    {
+        "University":"Stanford University",
+        "Location":"Check Site",
+        "Total_Score":99.0,
+        "Meta_Rank":2
+    },
+    {
+        "University":"Massachusetts Institute of Technology",
+        "Location":"Check Site",
+        "Total_Score":98.0,
+        "Meta_Rank":3
+    },
+    {
+        "University":"University of Oxford",
+        "Location":"Check Site",
+        "Total_Score":97.0,
+        "Meta_Rank":4
+    },
+    {
+        "University":"Johns Hopkins University",
+        "Location":"Check Site",
+        "Total_Score":96.0,
+        "Meta_Rank":5
+    },
+    {
+        "University":"University of California, Berkeley",
+        "Location":"Check Site",
+        "Total_Score":95.0,
+        "Meta_Rank":6
+    },
+    {
+        "University":"University of California, San Diego",
+        "Location":"Check Site",
+        "Total_Score":94.0,
+        "Meta_Rank":7
+    },
+    {
+        "University":"University of Cambridge",
+        "Location":"Check Site",
+        "Total_Score":93.0,
+        "Meta_Rank":8
+    },
+    {
+        "University":"University College London",
+        "Location":"Check Site",
+        "Total_Score":92.0,
+        "Meta_Rank":9
+    },
+    {
+        "University":"University of Toronto",
+        "Location":"Check Site",
+        "Total_Score":91.0,
+        "Meta_Rank":10
+    }
+]

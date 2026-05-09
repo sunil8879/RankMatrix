@@ -1,0 +1,62 @@
+[
+    {
+        "University":"Harvard University",
+        "Location":"Check Site",
+        "Total_Score":100.0,
+        "Meta_Rank":1
+    },
+    {
+        "University":"University College London",
+        "Location":"Check Site",
+        "Total_Score":99.0,
+        "Meta_Rank":2
+    },
+    {
+        "University":"University of Toronto",
+        "Location":"Check Site",
+        "Total_Score":98.0,
+        "Meta_Rank":3
+    },
+    {
+        "University":"Spain University of Barcelona",
+        "Location":"Check Site",
+        "Total_Score":97.0,
+        "Meta_Rank":4
+    },
+    {
+        "University":"Utrecht University",
+        "Location":"Check Site",
+        "Total_Score":96.0,
+        "Meta_Rank":5
+    },
+    {
+        "University":"Seoul National University",
+        "Location":"Check Site",
+        "Total_Score":95.0,
+        "Meta_Rank":6
+    },
+    {
+        "University":"Denmark University of Copenhagen",
+        "Location":"Check Site",
+        "Total_Score":94.0,
+        "Meta_Rank":7
+    },
+    {
+        "University":"University of North Carolina at Chapel Hill",
+        "Location":"Check Site",
+        "Total_Score":94.0,
+        "Meta_Rank":7
+    },
+    {
+        "University":"University of California, San Diego",
+        "Location":"Check Site",
+        "Total_Score":92.0,
+        "Meta_Rank":9
+    },
+    {
+        "University":"University of Michigan",
+        "Location":"Check Site",
+        "Total_Score":91.0,
+        "Meta_Rank":10
+    }
+]
