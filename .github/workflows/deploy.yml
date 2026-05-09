@@ -1,0 +1,17 @@
+name: Deploy with Secrets
+on:
+  push:
+    branches: [main]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Create config.js
+        run: |
+          echo "const API_KEYS = { unihunt: '${{ secrets.UNIHUNT_KEY }}', adzuna_id: '${{ secrets.ADZUNA_ID }}', adzuna_key: '${{ secrets.ADZUNA_KEY }}' };" > config.js
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@4.1.5
+        with:
+          branch: gh-pages
+          folder: .
