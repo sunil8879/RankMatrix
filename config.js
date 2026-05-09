@@ -1,0 +1,5 @@
+const API_CONFIG = {
+    UNIHUNT_KEY: "4d77880947mshfba562934f7f319p16c3fdjsn0d9c236a6a91",
+    ADZUNA_APP_ID: "8cd22dc4",
+    ADZUNA_KEY: "5f59c4709a07dbbd781fead08e9c716d"
+};
