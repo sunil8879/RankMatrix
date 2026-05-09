@@ -1,17 +1,26 @@
-name: Deploy with Secrets
+name: Deploy RankMatrix to GitHub Pages
+
 on:
   push:
-    branches: [main]
+    branches:
+      - main
+
+permissions:
+  contents: write
+
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Create config.js
+      - name: Checkout 
+        uses: actions/checkout@v4
+
+      - name: Create config.js from GitHub Secrets
         run: |
           echo "const API_KEYS = { unihunt: '${{ secrets.UNIHUNT_KEY }}', adzuna_id: '${{ secrets.ADZUNA_ID }}', adzuna_key: '${{ secrets.ADZUNA_KEY }}' };" > config.js
+
       - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@4.1.5
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages
           folder: .
+          branch: gh-pages
